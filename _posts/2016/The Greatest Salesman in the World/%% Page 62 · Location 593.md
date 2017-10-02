@@ -1,0 +1,2 @@
+%% Page 62 · Location 593 
+> I will greet this day with love in my heart. Henceforth will I love all mankind. From this moment all hate is let from my veins for I have not time to hate, only time to love. From this moment I take the first step required to become a man among men. With love I will increase my sales a hundredfold and become a great salesman. If I have no other qualities I can succeed with love alone. Without it I will fail though I possess all the knowledge and skills of the world. I will greet this day with love, and I will succeed. 

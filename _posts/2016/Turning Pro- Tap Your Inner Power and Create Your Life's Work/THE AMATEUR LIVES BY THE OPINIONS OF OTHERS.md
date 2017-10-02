@@ -1,0 +1,3 @@
+## THE AMATEUR LIVES BY THE OPINIONS OF OTHERS 
+%% Location 442 
+Though the amateur's identity is seated in his own ego, that ego is so weak that it cannot define itself based on its own self-evaluation. The amateur allows his worth and identity to be defined by others. The amateur craves third-party validation. The amateur is tyrannized by his imagined conception of what is expected of him. He is imprisoned by what he believes he ought to think, how he ought to look, what he ought to do, and who he ought to be. 

@@ -1,0 +1,2 @@
+%% Page 94 · %% Location396 
+> Your brain gets too comfortable in your everyday surroundings. You need to make it uncomfortable. You need to spend some time in another land, among people that do things differently than you. Travel makes the world look new, and when the world looks new, our brains work harder. 

@@ -1,0 +1,3 @@
+## The Wild Wild East 
+%% Location 1372 
+> We recommend Libor +20 basis points area. “Basis points,” or “bp,” represent one hundredth of a percent, in reference to the yield, or cost of borrowing. “Area” is a term that simply means “plus or minus”; sometimes it is quantified and sometimes it is left intentionally undefined. This gives us scope to price tighter than +20 bp if the market backdrop is constructive, or slightly wider than +20 bp if the market is adverse, therefore allowing the company optimal flexibility. 

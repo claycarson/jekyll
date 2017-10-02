@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resolutionData</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>Kettlebell Simple &amp; Sinister.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>528675771.269499</real>
+				<key>version</key>
+				<dict>
+					<key>96f757d2380e72ada746f50df5b2f4a9a7a2acb3bd451a4656994d4272a54467</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>SIMPLE &amp; SINISTER.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>528675771.31420398</real>
+				<key>version</key>
+				<dict>
+					<key>96f757d2380e72ada746f50df5b2f4a9a7a2acb3bd451a4656994d4272a54467</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>Kettlebell Simple &amp; Sinister.md</string>
+		</array>
+		<array>
+			<string>SIMPLE &amp; SINISTER.md</string>
+		</array>
+	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>96f757d2380e72ada746f50df5b2f4a9a7a2acb3bd451a4656994d4272a54467</key>
+			<integer>3</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>

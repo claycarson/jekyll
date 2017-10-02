@@ -1,0 +1,2 @@
+%% Location5923 
+That’s what the canvas strategy is about—helping yourself by helping others. Making a concerted effort to trade your short-term gratification for a longer-term payoff. Whereas everyone else wants to get credit and be “respected,” you can forget credit. You can forget it so hard that you’re glad when others get it instead of you—that was your aim, after all. Let the others take their credit on credit, while you defer and earn interest on the principal. 

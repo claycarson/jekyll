@@ -1,0 +1,3 @@
+## Chapter Twelve
+%% Page 74 · Location 681 
+> Can sand flow upward in the hour glass? Will the sun rise where it sets and set where it rises? Can I relive the errors of yesterday and right them? Can I call back yesterday’s wounds and make them whole? Can I become younger than yesterday? Can I take back the evil that was spoken, the blows that were struck, the pain that was caused? No. Yesterday is buried forever and I will think of it no more. 

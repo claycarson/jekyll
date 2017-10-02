@@ -1,0 +1,2 @@
+%% Page 48 · Location 722 
+> Passion typically masks a weakness. Its breathlessness and impetuousness and franticness are poor substitutes for discipline, for mastery, for strength and purpose and perseverance. You need to be able to spot this in others and in yourself, because while the origins of passion may be earnest and good, its effects are comical and then monstrous. 

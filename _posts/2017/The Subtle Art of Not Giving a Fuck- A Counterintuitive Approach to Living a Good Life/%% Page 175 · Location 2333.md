@@ -1,0 +1,2 @@
+%% Page 175 · Location 2333 
+> Wherever there is a healthy and loving relationship, there will be clear boundaries between the two people and their values, and there will be an open avenue of giving and receiving rejection when necessary. 

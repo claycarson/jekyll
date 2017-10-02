@@ -1,0 +1,2 @@
+%% Page 16 · %% Location89 
+> Instead, chew on one thinker—writer, artist, activist, role model—you really love. Study everything there is to know about that thinker. Then find three people that thinker loved, and find out everything about them. Repeat this as many times as you can. Climb up the tree as far as you can go. Once you build your tree, it’s time to start your own branch. 

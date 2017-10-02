@@ -1,0 +1,2 @@
+%% Location4347 
+“Deep down, I am certain that people are plastic in the positive sense: flexible and able to grow. I think almost everything is made, not born, and that makes people uncomfortable because it puts them on the hook, but I truly believe it.” 

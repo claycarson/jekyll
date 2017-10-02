@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resolutionData</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>-Surely You're Joking, Mr. Feynman!-- Adventures of a Curious Character.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>528675773.91147202</real>
+				<key>version</key>
+				<dict>
+					<key>96f757d2380e72ada746f50df5b2f4a9a7a2acb3bd451a4656994d4272a54467</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>Cargo Cult Science.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>528675774.01145101</real>
+				<key>version</key>
+				<dict>
+					<key>96f757d2380e72ada746f50df5b2f4a9a7a2acb3bd451a4656994d4272a54467</key>
+					<integer>6</integer>
+				</dict>
+			</dict>
+			<key>Part 3 FEYNMAN, THE BOMB, AND THE MILITARY.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>528675773.957699</real>
+				<key>version</key>
+				<dict>
+					<key>96f757d2380e72ada746f50df5b2f4a9a7a2acb3bd451a4656994d4272a54467</key>
+					<integer>4</integer>
+				</dict>
+			</dict>
+			<key>Part 5 THE WORLD OF ONE PHYSICIST.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>528675773.98769599</real>
+				<key>version</key>
+				<dict>
+					<key>96f757d2380e72ada746f50df5b2f4a9a7a2acb3bd451a4656994d4272a54467</key>
+					<integer>5</integer>
+				</dict>
+			</dict>
+			<key>Vocabulary.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>528675773.93276697</real>
+				<key>version</key>
+				<dict>
+					<key>96f757d2380e72ada746f50df5b2f4a9a7a2acb3bd451a4656994d4272a54467</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>-Surely You're Joking, Mr. Feynman!-- Adventures of a Curious Character.md</string>
+		</array>
+		<array>
+			<string>Vocabulary.md</string>
+		</array>
+		<array>
+			<string>Part 3 FEYNMAN, THE BOMB, AND THE MILITARY.md</string>
+		</array>
+		<array>
+			<string>Part 5 THE WORLD OF ONE PHYSICIST.md</string>
+		</array>
+		<array>
+			<string>Cargo Cult Science.md</string>
+		</array>
+	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>96f757d2380e72ada746f50df5b2f4a9a7a2acb3bd451a4656994d4272a54467</key>
+			<integer>6</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>

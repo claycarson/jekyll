@@ -1,0 +1,3 @@
+## PULLING THE PIN, PART TWO 
+%% Location 302 
+You and I, who are artists and entrepreneurs, live a life that's closer to natural, if you ask me. We migrate, too. We follow the Muse instead of the sun. When one crop is picked, we hit the road and move on to the next. It's not a bad life. It's lonely. It's tough. It ain't for everyone. But, like the life of a migrant on the road, it has its compensations. 

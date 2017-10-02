@@ -1,0 +1,1 @@
+> And one must take into account a definite cushioning effect exercising both by the law, and by the moral sense which constitutes a self-imposed law; for a county is considered the more civilized the more the wisdom and efficiency of its law hinder a weak man from becoming too weak or a powerful one too powerful.

@@ -1,0 +1,3 @@
+## Jane McGonigal 
+%% Location2593 
+“‘ Any useful statement about the future should at first seem ridiculous’ by Jim Dator. Also, ‘When it comes to the future, it’s far more important to be imaginative than to be right’ by Alvin Toffler. Both are famous futurists. These quotes remind me that world-changing ideas will seem absurd to most people, and that the most useful work I can be doing is to push the envelope of what is considered possible. If what I’m doing sounds reasonable to most people, then I’m not working in a space that is creative and innovative enough!” 

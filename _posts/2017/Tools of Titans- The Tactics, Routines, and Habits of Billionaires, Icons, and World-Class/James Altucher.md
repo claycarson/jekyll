@@ -1,0 +1,3 @@
+## James Altucher 
+%% Location4420 
+“What if *you* just can’t come up with 10 ideas? Here’s the magic trick: If you can’t come up with 10 ideas, come up with 20 ideas. . . . You are putting too much pressure on yourself. Perfectionism is the **ENEMY** of the idea muscle . . . it’s your brain trying to protect you from harm, from coming up with an idea that is embarrassing and stupid and could cause you to suffer pain. The way you shut *this* off is by forcing *the brain* to come up with bad ideas. 

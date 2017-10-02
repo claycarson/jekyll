@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resolutionData</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>%% Location 318.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>528675769.51370901</real>
+				<key>version</key>
+				<dict>
+					<key>96f757d2380e72ada746f50df5b2f4a9a7a2acb3bd451a4656994d4272a54467</key>
+					<integer>5</integer>
+				</dict>
+			</dict>
+			<key>A Felonious Mentality.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>528675769.45904499</real>
+				<key>version</key>
+				<dict>
+					<key>96f757d2380e72ada746f50df5b2f4a9a7a2acb3bd451a4656994d4272a54467</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+			<key>Straight to Hell- True Tales of Deviance, Debauchery, and Billion-Dollar Deals.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>528675769.48765898</real>
+				<key>version</key>
+				<dict>
+					<key>96f757d2380e72ada746f50df5b2f4a9a7a2acb3bd451a4656994d4272a54467</key>
+					<integer>4</integer>
+				</dict>
+			</dict>
+			<key>The Parental Visit.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>528675769.58897102</real>
+				<key>version</key>
+				<dict>
+					<key>96f757d2380e72ada746f50df5b2f4a9a7a2acb3bd451a4656994d4272a54467</key>
+					<integer>8</integer>
+				</dict>
+			</dict>
+			<key>The Stakeout.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>528675769.54356301</real>
+				<key>version</key>
+				<dict>
+					<key>96f757d2380e72ada746f50df5b2f4a9a7a2acb3bd451a4656994d4272a54467</key>
+					<integer>6</integer>
+				</dict>
+			</dict>
+			<key>The Wild Wild East.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>528675769.56777698</real>
+				<key>version</key>
+				<dict>
+					<key>96f757d2380e72ada746f50df5b2f4a9a7a2acb3bd451a4656994d4272a54467</key>
+					<integer>7</integer>
+				</dict>
+			</dict>
+			<key>Vocabulary.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>528675769.424909</real>
+				<key>version</key>
+				<dict>
+					<key>96f757d2380e72ada746f50df5b2f4a9a7a2acb3bd451a4656994d4272a54467</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>Vocabulary.md</string>
+		</array>
+		<array>
+			<string>A Felonious Mentality.md</string>
+		</array>
+		<array>
+			<string>Straight to Hell- True Tales of Deviance, Debauchery, and Billion-Dollar Deals.md</string>
+		</array>
+		<array>
+			<string>%% Location 318.md</string>
+		</array>
+		<array>
+			<string>The Stakeout.md</string>
+		</array>
+		<array>
+			<string>The Wild Wild East.md</string>
+		</array>
+		<array>
+			<string>The Parental Visit.md</string>
+		</array>
+	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>96f757d2380e72ada746f50df5b2f4a9a7a2acb3bd451a4656994d4272a54467</key>
+			<integer>8</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>

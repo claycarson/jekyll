@@ -1,0 +1,2 @@
+%% Page 8 · Location 293 
+> When we remove ego, we’re left with what is real. What replaces ego is humility, yes—but rock-hard humility and confidence. Whereas ego is artificial, this type of confidence can hold weight. Ego is stolen. Confidence is earned. Ego is self-anointed, its swagger is artifice. One is girding yourself, the other gas-lighting. It’s the difference between potent and poisonous. 

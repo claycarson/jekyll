@@ -1,0 +1,2 @@
+%% Page 83 · Location 1185 
+> When people measure themselves not by their behavior, but by the status symbols they’re able to collect, then not only are they shallow, but they’re probably assholes as well. 

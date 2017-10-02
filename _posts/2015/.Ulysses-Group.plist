@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>childOrder</key>
+	<array>
+		<string>Breaking BUD-S- How Regular Guys Can Become Navy SEALS- How Regular Guys Can Become Navy SEALs</string>
+		<string>Kettlebell Simple &amp; Sinister</string>
+	</array>
+	<key>resolutionData</key>
+	<dict>
+		<key>childOrder</key>
+		<dict>
+			<key>Breaking BUD-S- How Regular Guys Can Become Navy SEALS- How Regular Guys Can Become Navy SEALs</key>
+			<dict>
+				<key>lastModification</key>
+				<real>528675771.077438</real>
+				<key>version</key>
+				<dict>
+					<key>96f757d2380e72ada746f50df5b2f4a9a7a2acb3bd451a4656994d4272a54467</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>Kettlebell Simple &amp; Sinister</key>
+			<dict>
+				<key>lastModification</key>
+				<real>528675771.25436401</real>
+				<key>version</key>
+				<dict>
+					<key>96f757d2380e72ada746f50df5b2f4a9a7a2acb3bd451a4656994d4272a54467</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+		</dict>
+		<key>userIconName</key>
+		<real>506894127.71128702</real>
+	</dict>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>userIconName</key>
+	<string>Sheets</string>
+	<key>versioning</key>
+	<dict>
+		<key>childOrder</key>
+		<dict>
+			<key>96f757d2380e72ada746f50df5b2f4a9a7a2acb3bd451a4656994d4272a54467</key>
+			<integer>3</integer>
+		</dict>
+		<key>userIconName</key>
+		<dict>
+			<key>6409C83C-634D-453F-99C5-7FC4C2037067</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>

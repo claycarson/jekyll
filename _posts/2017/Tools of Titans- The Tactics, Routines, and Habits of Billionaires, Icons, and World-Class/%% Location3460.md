@@ -1,0 +1,2 @@
+%% Location3460 
+Lack of time is lack of priorities. If I’m “busy,” it is because I’ve made choices that put me in that position, so I’ve forbidden myself to reply to “How are you?” with “Busy.” I have no right to complain. Instead, if I’m too busy, it’s a cue to reexamine my systems and rules. 

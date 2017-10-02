@@ -1,0 +1,3 @@
+## The Canvas Strategy 
+%% Location5884 
+Let’s flip it around so it doesn’t seem so demeaning: It’s not about kissing ass. It’s not about making someone look good. It’s about providing the support so that others can be good. The better wording for the advice is this: Find canvases for other people to paint on. Be an anteambulo. Clear the path for the people above you and you will eventually create a path for yourself. 

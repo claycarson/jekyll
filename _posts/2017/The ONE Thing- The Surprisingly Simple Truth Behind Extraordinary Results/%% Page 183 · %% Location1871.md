@@ -1,0 +1,2 @@
+%% Page 183 · %% Location1871
+> Accountable people are results oriented and never defend actions, skill levels, models, systems, or relationships that just aren’t getting the job done. They bring their best to whatever it takes, without reservation. 

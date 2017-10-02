@@ -1,0 +1,2 @@
+%% Page 30 · %% Location260 
+> There was a footrace in Sparta each year among the boys. They ran ten miles, barefoot, carrying a mouthful of water. The boys were not allowed to swallow any of the water but had to spit it all out at the end of the race. 

@@ -1,0 +1,2 @@
+%% Location 619 
+> For as in absolute governments the King is law, so in free countries the law OUGHT to be King; and there ought to be no other. But lest any ill use should afterwards arise, let the crown at the conclusion of the ceremony, be demolished, and scattered among the people whose right it is. 

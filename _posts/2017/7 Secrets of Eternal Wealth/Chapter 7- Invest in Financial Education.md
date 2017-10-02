@@ -1,0 +1,3 @@
+## Chapter 7: Invest in Financial Education
+%% Location594 
+> In the 1970s, psychologist Noel Burch described the four stages of competence. Here are the steps as I understand them: Level 1: Unconscious incompetence. You don’t know what you don’t know. Level 2: Conscious incompetence. You have insight into your own knowledge deficits and understand your current limitations. Level 3: Conscious competence. You understand and can execute, but it is not second nature. You still have to concentrate and think things through to get them done. Level 4: Unconscious competence. The task is second nature. 

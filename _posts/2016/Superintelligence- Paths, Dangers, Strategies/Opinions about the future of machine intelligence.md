@@ -1,0 +1,3 @@
+## Opinions about the future of machine intelligence 
+%%Location 771 
+> For example, Nils Nilsson has spent a long and productive career working on problems in search, planning, knowledge representation, and robotics; he has authored textbooks in artificial intelligence; and he recently completed the most comprehensive history of the field written to date. 79 When asked about arrival dates for HLMI(“human-level machine intelligence”), he offered the following opinion: 80 10% chance: 2030 50% chance: 2050 90% chance: 2100 

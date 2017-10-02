@@ -1,0 +1,3 @@
+## ART AND ADDICTION 
+%% Location 226 
+The amateur is an egotist. He takes the material of his personal pain and uses it to draw attention to himself. He creates a "life," a "character," a "personality." The artist and the professional, on the other hand, have turned a corner in their minds. They have succeeded in stepping back from themselves. They have grown so bored with themselves and so sick of their petty bullshit that they can manipulate those elements the way a HazMat technician handles weapons-grade plutonium. 

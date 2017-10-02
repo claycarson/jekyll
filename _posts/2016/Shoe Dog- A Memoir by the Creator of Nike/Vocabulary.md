@@ -1,0 +1,43 @@
+## Vocabulary
+
+- Sinewy - consisting of or resembling sinews
+- Slaking - quench or satisfy (one's thirst)
+- Trattorias - an Italian restaurant serving simple food
+- Languorous - the state or feeling, often pleasant, of tiredness or inertia
+- Podiatry - the treatment of the feet and their ailments
+- Noisome - having an extremely offensive smell
+- Avuncular - of or relating to an uncle; kind and friendly toward a younger or less experienced person
+- Internecine - destructive to both sides in a conflict
+- Fealty - a feudal tenant's or vassal's sworn loyalty to a lord
+- Quotidian - of or occurring every day; daily
+- Pagoda - a Hindu or Buddhist temple or sacred building, typically a many-tiered tower, in India and East Asia.
+- Suffused - gradually spread through or over
+- Carapace - the hard upper shell of a turtle, crustacean, or arachnid.
+- Vaunted - boast about or praise (something), especially excessively
+- Quixotic - exceedingly idealistic; unrealistic and impractical
+- Machinations - engage in plots and intrigues; scheme
+- Vehement - showing strong feeling; forceful, passionate, or intense
+- Portentous - done in a pompously or overly solemn manner so as to impress
+- Wantonly - (of a cruel or violent action) deliberate and unprovoked
+- Stolid - (of a person) calm, dependable, and showing little emotion or animation.
+- Amanuensis - a literary or artistic assistant, in particular one who takes dictation or copies manuscripts.
+- Guile - sly or cunning intelligence
+- Beguiled - charm or enchant (someone), sometimes in a deceptive way
+- Quell - put an end to (a rebellion or other disorder), typically by the use of force
+- Debentures - an unsecured loan certificate issued by a company, backed by general credit rather than by specified assets.
+- Paradigmatic - of the nature of a paradigm or model
+- Denouement - the final part of a play, movie, or narrative in which the strands of the plot are drawn together and matters are explained or resolved
+- Fetid - smelling extremely unpleasant
+- Subterfuge - deceit used in order to achieve one's goal
+- Gabardine - a smooth, durable twill-woven cloth, typically of worsted or cotton
+- Ginkgo - a deciduous Chinese tree related to the conifers, with fan-shaped leaves and yellow flowers
+- Castigating - reprimand (someone) severely
+- Mohair - the long, silky hair of the angora goat
+- Genuflecting - lower one's body briefly by bending one knee to the ground, typically in worship or as a sign of respect
+- Guffaw - a loud and boisterous laugh
+- Fusillade - a series of shots fired or missiles thrown all at the same time or in quick succession
+- Bacchanal - an occasion of wild and drunken revelry
+- Coterie - a small group of people with shared interests or tastes, especially one that is exclusive of other people
+- Opulence - great wealth or luxuriousness
+- Feted - a celebration or festival
+- Bulwark - a defensive wall

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>childOrder</key>
+	<array>
+		<string>Bits from Books 2017</string>
+		<string>The Stranger</string>
+		<string>Common Sense- By Thomas Paine</string>
+		<string>The Subtle Art of Not Giving a Fuck- A Counterintuitive Approach to Living a Good Life</string>
+		<string>The ONE Thing- The Surprisingly Simple Truth Behind Extraordinary Results</string>
+		<string>Tools of Titans- The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class</string>
+		<string>Siddhartha</string>
+		<string>The Warrior Ethos</string>
+		<string>7 Secrets of Eternal Wealth</string>
+		<string>Make Your Bed- Little Things That Can Change Your Life...And Maybe the World</string>
+		<string>The 1997 Masters- My Story</string>
+		<string>-Surely You're Joking, Mr. Feynman!-- Adventures of a Curious Character</string>
+		<string>If This is a Man and The Truce</string>
+		<string>Anything You Want- 40 Lessons for a New Kind of Entrepreneur</string>
+		<string>Steal Like an Artist- 10 Things Nobody Told You About Being Creative</string>
+		<string>The Hardstyle Kettlebell Challenge- A Fundamental Guide To Training For Strength And Power</string>
+	</array>
+	<key>resolutionData</key>
+	<dict>
+		<key>childOrder</key>
+		<dict>
+			<key>-Surely You're Joking, Mr. Feynman!-- Adventures of a Curious Character</key>
+			<dict>
+				<key>lastModification</key>
+				<real>528675773.894265</real>
+				<key>version</key>
+				<dict>
+					<key>96f757d2380e72ada746f50df5b2f4a9a7a2acb3bd451a4656994d4272a54467</key>
+					<integer>13</integer>
+				</dict>
+			</dict>
+			<key>7 Secrets of Eternal Wealth</key>
+			<dict>
+				<key>lastModification</key>
+				<real>528675773.36484599</real>
+				<key>version</key>
+				<dict>
+					<key>96f757d2380e72ada746f50df5b2f4a9a7a2acb3bd451a4656994d4272a54467</key>
+					<integer>10</integer>
+				</dict>
+			</dict>
+			<key>Anything You Want- 40 Lessons for a New Kind of Entrepreneur</key>
+			<dict>
+				<key>lastModification</key>
+				<real>528675774.38428903</real>
+				<key>version</key>
+				<dict>
+					<key>96f757d2380e72ada746f50df5b2f4a9a7a2acb3bd451a4656994d4272a54467</key>
+					<integer>15</integer>
+				</dict>
+			</dict>
+			<key>Bits from Books 2017</key>
+			<dict>
+				<key>lastModification</key>
+				<real>528675764.45650297</real>
+				<key>version</key>
+				<dict>
+					<key>96f757d2380e72ada746f50df5b2f4a9a7a2acb3bd451a4656994d4272a54467</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>Common Sense- By Thomas Paine</key>
+			<dict>
+				<key>lastModification</key>
+				<real>528675764.87077498</real>
+				<key>version</key>
+				<dict>
+					<key>96f757d2380e72ada746f50df5b2f4a9a7a2acb3bd451a4656994d4272a54467</key>
+					<integer>4</integer>
+				</dict>
+			</dict>
+			<key>If This is a Man and The Truce</key>
+			<dict>
+				<key>lastModification</key>
+				<real>528675774.02888602</real>
+				<key>version</key>
+				<dict>
+					<key>96f757d2380e72ada746f50df5b2f4a9a7a2acb3bd451a4656994d4272a54467</key>
+					<integer>14</integer>
+				</dict>
+			</dict>
+			<key>Make Your Bed- Little Things That Can Change Your Life...And Maybe the World</key>
+			<dict>
+				<key>lastModification</key>
+				<real>528675773.73222101</real>
+				<key>version</key>
+				<dict>
+					<key>96f757d2380e72ada746f50df5b2f4a9a7a2acb3bd451a4656994d4272a54467</key>
+					<integer>11</integer>
+				</dict>
+			</dict>
+			<key>Siddhartha</key>
+			<dict>
+				<key>lastModification</key>
+				<real>528675771.852009</real>
+				<key>version</key>
+				<dict>
+					<key>96f757d2380e72ada746f50df5b2f4a9a7a2acb3bd451a4656994d4272a54467</key>
+					<integer>8</integer>
+				</dict>
+			</dict>
+			<key>Steal Like an Artist- 10 Things Nobody Told You About Being Creative</key>
+			<dict>
+				<key>lastModification</key>
+				<real>528675774.78701299</real>
+				<key>version</key>
+				<dict>
+					<key>96f757d2380e72ada746f50df5b2f4a9a7a2acb3bd451a4656994d4272a54467</key>
+					<integer>16</integer>
+				</dict>
+			</dict>
+			<key>The 1997 Masters- My Story</key>
+			<dict>
+				<key>lastModification</key>
+				<real>528675773.84222502</real>
+				<key>version</key>
+				<dict>
+					<key>96f757d2380e72ada746f50df5b2f4a9a7a2acb3bd451a4656994d4272a54467</key>
+					<integer>12</integer>
+				</dict>
+			</dict>
+			<key>The Hardstyle Kettlebell Challenge- A Fundamental Guide To Training For Strength And Power</key>
+			<dict>
+				<key>lastModification</key>
+				<real>528675775.32284498</real>
+				<key>version</key>
+				<dict>
+					<key>96f757d2380e72ada746f50df5b2f4a9a7a2acb3bd451a4656994d4272a54467</key>
+					<integer>17</integer>
+				</dict>
+			</dict>
+			<key>The ONE Thing- The Surprisingly Simple Truth Behind Extraordinary Results</key>
+			<dict>
+				<key>lastModification</key>
+				<real>528675766.45480603</real>
+				<key>version</key>
+				<dict>
+					<key>96f757d2380e72ada746f50df5b2f4a9a7a2acb3bd451a4656994d4272a54467</key>
+					<integer>6</integer>
+				</dict>
+			</dict>
+			<key>The Stranger</key>
+			<dict>
+				<key>lastModification</key>
+				<real>528675764.573048</real>
+				<key>version</key>
+				<dict>
+					<key>96f757d2380e72ada746f50df5b2f4a9a7a2acb3bd451a4656994d4272a54467</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+			<key>The Subtle Art of Not Giving a Fuck- A Counterintuitive Approach to Living a Good Life</key>
+			<dict>
+				<key>lastModification</key>
+				<real>528675765.15502399</real>
+				<key>version</key>
+				<dict>
+					<key>96f757d2380e72ada746f50df5b2f4a9a7a2acb3bd451a4656994d4272a54467</key>
+					<integer>5</integer>
+				</dict>
+			</dict>
+			<key>The Warrior Ethos</key>
+			<dict>
+				<key>lastModification</key>
+				<real>528675772.88884699</real>
+				<key>version</key>
+				<dict>
+					<key>96f757d2380e72ada746f50df5b2f4a9a7a2acb3bd451a4656994d4272a54467</key>
+					<integer>9</integer>
+				</dict>
+			</dict>
+			<key>Tools of Titans- The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class</key>
+			<dict>
+				<key>lastModification</key>
+				<real>528675767.96895498</real>
+				<key>version</key>
+				<dict>
+					<key>96f757d2380e72ada746f50df5b2f4a9a7a2acb3bd451a4656994d4272a54467</key>
+					<integer>7</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>childOrder</key>
+		<dict>
+			<key>96f757d2380e72ada746f50df5b2f4a9a7a2acb3bd451a4656994d4272a54467</key>
+			<integer>17</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,2 @@
+%% Page 103 · %% Location1070
+> The last two lines deserve repeating: “... any wage I had asked of Life, Life would have willingly paid.” One of the most empowering moments of my life came when I realized that life is a question and how we live it is our answer. How we phrase the questions we ask ourselves determines the answers that eventually become our life. 

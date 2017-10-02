@@ -1,0 +1,2 @@
+%%Location 631 
+> The computer scientist Donald Knuth was struck that “AI has by now succeeded in doing essentially everything that requires ‘thinking’ but has failed to do most of what people and animals do ‘without thinking’—that, somehow, is much harder!” 60 Analyzing visual scenes, recognizing objects, or controlling a robot’s behavior as it interacts with a natural environment has proved challenging. Nevertheless, a fair amount of progress has been made and continues to be made, aided by steady improvements in hardware. 

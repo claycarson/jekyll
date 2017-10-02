@@ -1,0 +1,23 @@
+## Vocabulary
+
+- Banalities - the fact or condition of being banal; unoriginality.
+- Maelstrom - a powerful whirlpool in the sea or a river.
+- Inviolable - never to be broken, infringed, or dishonored.
+- Prurient - having or encouraging an excessive interest in sexual matters.
+- Histrionic - overly theatrical or melodramatic in character or style.
+- Abrogation - The verbs abrogate and arrogate are quite different in meaning. While abrogate means ‘repeal (a law),’ arrogate means ‘take or claim (something) for oneself without justification,’ often in the structure arrogate something to oneself, as in the emergency committee arrogated to itself whatever powers it chose.
+- Prevaricated - speak or act in an evasive way.
+- Besotted - strongly infatuated.
+- Mews - a row or street of houses or apartments that have been converted from stables or built to look like former stables.
+- Opulent - ostentatiously rich and luxurious or lavish.
+- Denizen - an inhabitant or occupant of a particular place.
+- Inchoate - just begun and so not fully formed or developed; rudimentary.
+- Colicky - severe, often fluctuating pain in the abdomen caused by intestinal gas or obstruction in the intestines and suffered especially by babies.
+- Hitherto - until now or until the point in time under discussion.
+- Garrulous - excessively talkative, especially on trivial matters.
+- Acerbic - sharp and forthright.
+- Temerity - excessive confidence or boldness; audacity.
+- Contrition - the state of feeling remorseful and penitent. 
+- Ignominy - public shame or disgrace.
+- Pilloried - a wooden framework with holes for the head and hands, in which an offender was imprisoned and exposed to public abuse.
+- Pliable - easily bent; flexible.
