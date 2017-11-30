@@ -56,11 +56,3 @@ Do not hesitate to reply to this months email to share links, wisdom, or thought
 Thanks for reading. Have a great month,
 
 Clay
-
-You can follow me more closely at [my personal website](http://claycarson.net "Personal Website") or if you or someone you know is looking to buy or sell a home, you can point them to [my real estate website](http://claycarson.com "Business Website ").
-
-- [Twitter](http://twitter.com/claycarson "Twitter")
-- [Facebook](http://facebook.com/claycarson "Facebook")
-- [Instagram](http://instagram.com/claycarson "Instagram")
-
-*I use affiliate links when available.*
