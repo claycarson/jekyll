@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "December 2017"
+title:  “December 2017“
 date:   2017-12-01
 ---
 
-## Introduction
-
 This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.
+
+You can follow me more closely at [my personal website](http://claycarson.net "Personal Website") or if you or someone you know is looking to buy or sell a home, you can point them to [my real estate website](http://claycarson.com "Business Website ").
 
 ## Where We Play
 
