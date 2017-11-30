@@ -548,7 +548,7 @@ li {
 }
 
 
-.button {
+input[type=submit] {
     background-color: #222;
     border: none;
     color: white;
