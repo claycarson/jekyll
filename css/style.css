@@ -419,7 +419,7 @@ html,body {
 }
 
 .header h1 a {
-	text-decoration: none;
+	border-bottom: none;
 }
 
 .header-container {
