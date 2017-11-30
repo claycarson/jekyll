@@ -29,7 +29,7 @@ a {
 }
 
 a:hover {
-	color: #000;
+	color: #cb3816;
 	border-bottom: dotted 1px;
 	text-decoration: none;
 }
@@ -479,7 +479,7 @@ li {
 
 .title li a:hover {
     opacity: 1;
-    color: #666;
+    color: #cb3816;
 }
 
 .description {
