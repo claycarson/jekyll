@@ -58,6 +58,7 @@ h1, h2, h3, h4, h5, h6 {
 	position: relative;
 	text-transform: uppercase;
 	letter-spacing:4px;
+	font-style: italic;
 }
 
 h1 tt, h1 code {
@@ -412,6 +413,7 @@ html,body {
 
 .header h1 {
 	font-size: 36px;
+    font-style: italic;
 }
 
 .header-container {
