@@ -11,7 +11,7 @@ layout: default
 		 </h3>
  	 </p>
 	 <p>
-		 <button type="email" style="width:140px" name="email" id="tlemail" placeholder="email"/>
+		 <button type="email" style="width:140px" name="email" id="tlemail" placeholder="email" required />
 	 </p>
 	 <input type="hidden" value="1" name="embed"/>
 	 <button type="submit" class="pure-button pure-button-primary" value="Subscribe" />
@@ -20,6 +20,21 @@ layout: default
 	 </p>
  </form>
  
+ <form class="pure-form" style="border:0px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/claycarson" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/claycarson', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+	 <p>
+		 <h3>
+			 <label for="tlemail">Subscribe</label>
+		 </h3>
+ 	 </p>
+     <input type="email" placeholder="Requires an email" required>
+	 <button type="submit" class="pure-button pure-button-primary">Subscribe</button>
+ </form>
+ 
 This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share. Please feel free to look through the <a href="/">archives</a> to see if you are interested.
+
+
+<form class="pure-form">
+    <input type="email" placeholder="Requires an email" required>
+</form>
          
 </div>
