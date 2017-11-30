@@ -23,13 +23,13 @@ body > *:last-child {
 }
 
 a {
-	color: #cb3816;
+	color: #333;
 	border-bottom: dotted 1px;
 	text-decoration: none;
 }
 
 a:hover {
-	color: #333;
+	color: #cb3816;
 	border-bottom: dotted 1px;
 	text-decoration: none;
 }
@@ -468,7 +468,7 @@ li {
 }
 
 .title li a:link {
-    color: #cb3816;
+    color: #333;
 }
 
 .title li a:visited {
@@ -479,7 +479,7 @@ li {
 
 .title li a:hover {
     opacity: 1;
-    color: #333;
+    color: #cb3816;
 }
 
 .description {
