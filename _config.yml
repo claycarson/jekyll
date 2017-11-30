@@ -1,5 +1,6 @@
 # Site settings
 title: Clay Carson's Newsletter
+permalink: /:year/:month/:title.html
 motto:
 email: me@claycarson.net
 description: > # this means to ignore newlines until "baseurl:"
