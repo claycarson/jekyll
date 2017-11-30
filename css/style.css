@@ -415,6 +415,7 @@ html,body {
 .header h1 {
 	font-size: 36px;
 	text-align: center;
+	text-decoration: none;
 }
 
 .header h1 a {
