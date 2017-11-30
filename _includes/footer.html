@@ -5,8 +5,8 @@
   
   <!-- Search form -->
   <form method="get" action="/search" data-search-form>
-    <label for="q">Search term</label>
-    <input type="search" name="q" id="q" placeholder="Enter search term" data-search-input />
+    <label for="q"></label>
+    <input type="search" name="q" id="q" placeholder="Search" data-search-input />
     <input type="submit" value="Search" />
   </form>
 
@@ -22,8 +22,8 @@
   <script type="text/x-template" id="search-result">
     <div>
       <h1><a href="##Url##">##Title##</a></h1>
-      <h2><a href="##Url##">##Date##</a></h2>
-      <a href="##Url##">Read &ldquo;##Title##&rdquo;</a>
+      <!-- <h2><a href="##Url##">##Date##</a></h2>
+      <a href="##Url##">Read &ldquo;##Title##&rdquo;</a> -->
     </div>
   </script>
 
@@ -32,5 +32,6 @@
 
   <!-- Search script - Must appear after template -->
   <script src="/scripts/search.js"></script>
+  
 
 </footer>
