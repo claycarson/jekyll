@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “December 2017“
+title:  December 2017
 date:   2017-12-01
 ---
 
@@ -40,7 +40,7 @@ From _Essentialism: The Disciplined Pursuit of Less_ by Greg McKeown…
 
 ## Book ‘Em
 
-Enlightening book that exemplifies how important it is to belong.
+An enlightening book that exemplifies how important it is to belong.
 
 ### Tribe: On Homecoming and Belonging 
 
