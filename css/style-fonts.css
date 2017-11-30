@@ -4,6 +4,7 @@
 body {
 	font-family: 'Montserrat', Open Sans, Helvetica, arial, sans-serif;
 	font-size: 15px;
+	font-weight: 300;
 	line-height: 1.6;
 	padding-top: 10px;
 	padding-bottom: 10px;
@@ -54,7 +55,7 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: 'Merriweather', Georgia, serif;
 	margin: 20px 0 10px;
 	padding: 0;
-	font-weight: 400;
+	font-weight: 700;
 	-webkit-font-smoothing: antialiased;
 	cursor: text;
 	position: relative;
