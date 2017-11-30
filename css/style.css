@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Merriweather|Montserrat');
 
 body {
-	font-family: Merriweather, Open Sans, Helvetica, arial, sans-serif;
+	font-family: 'Montserrat', Open Sans, Helvetica, arial, sans-serif;
 	font-size: 15px;
 	line-height: 1.6;
 	padding-top: 10px;
@@ -51,7 +51,7 @@ a.anchor {
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: Merriweather, Georgia, serif;
+	font-family: 'Merriweather', Georgia, serif;
 	margin: 20px 0 10px;
 	padding: 0;
 	font-weight: 800;
