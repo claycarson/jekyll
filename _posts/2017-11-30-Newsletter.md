@@ -18,11 +18,11 @@ And [here is how they did it](https://medium.com/strava-engineering/the-global-h
 
 ## The Technology Behind Bitcoin
 
-You have likely heard the buzz around cryptocurrency, and more specifically, Bitcoin. To understand Bitcoin, it is better to grasp the technology behind it. This [video](https://www.youtube.com/watch?v=_160oMzblY8&app=desktop "video") will help.
+You have likely heard the buzz around cryptocurrency, and more specifically, Bitcoin. [Bitcoin](https://bitcoin.org/en/ "Bitcoin") is exciting but the technology behind it could be far more impactful. This [video](https://www.youtube.com/watch?v=_160oMzblY8&app=desktop "video") will help you to understand that technology.
 
 ## Paradox of Success
 
-From _Essentialism: The Disciplined Pursuit of Less_ by Greg McKeown…
+From [_Essentialism: The Disciplined Pursuit of Less_](https://www.amazon.com/dp/0804137382/ "Essentialism: The Disciplined Pursuit of Less") by Greg McKeown…
 
 > It leads to what I call “the paradox of success,” which can be summed up in four predictable phases: 
 > 
