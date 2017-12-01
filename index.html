@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<div class="well">
 <form class="pure-form"style="border:0px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/claycarson" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/claycarson', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
 	<fieldset>
 		<h3>
@@ -16,7 +17,6 @@ layout: default
     </fieldset>
 </form>
 
-<div class="well">
 {%for post in site.posts %}
     {% unless post.next %}
         <h1>{{ post.date | date: '%Y' }}</h1>

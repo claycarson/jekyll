@@ -546,19 +546,3 @@ li {
     color: white;
     cursor: pointer;
 }
-
-
-input[type=submit] {
-    background-color: #222;
-    border: none;
-    color: white;
-    padding: 5px 10px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 15px;
-}
-
-input[type=submit]:hover;{
-    background-color: #666;
-}
