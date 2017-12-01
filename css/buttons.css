@@ -53,7 +53,7 @@ https://github.com/yahoo/pure/blob/master/LICENSE.md
     font-family: inherit;
     font-size: 100%;
     padding: 0.5em 1em;
-    color: #444; /* rgba not supported (IE 8) */
+    color: #cb3816; /* rgba not supported (IE 8) */
     color: rgba(0, 0, 0, 0.80); /* rgba supported */
     border: 1px solid #999;  /*IE 6/7/8*/
     border: none rgba(0, 0, 0, 0);  /*IE9 + everything else*/
@@ -104,7 +104,7 @@ https://github.com/yahoo/pure/blob/master/LICENSE.md
 .pure-button-selected,
 a.pure-button-primary,
 a.pure-button-selected {
-    background-color: #999;
+    background-color: #222;
     color: #fff;
 }
 
