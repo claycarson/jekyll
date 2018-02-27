@@ -1,92 +1,55 @@
 ---
-layout:     post
-title:      December 2017
-date:       2017-12-01
-summary:    
-categories: 
+layout: post
+title:  December 2017
+date:   2017-12-01
 ---
 
-# December 2017
-
-## Introduction
-
-This newsletter is a collection of things I have found in the last month that in some way made me better or that I found interesting enough to share.
-
-Enjoy!
-
-Clay
+This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.
 
 You can follow me more closely at [my personal website](http://claycarson.net "Personal Website") or if you or someone you know is looking to buy or sell a home, you can point them to [my real estate website](http://claycarson.com "Business Website ").
 
-[Twitter](http://twitter.com/claycarson "Twitter")
-[Facebook](http://facebook.com/claycarson "Facebook")
-[Instagram](http://instagram.com/claycarson "Instagram")
+## Where We Play
 
-*I use affiliate links when available.*
+Strava, an app for athletes to track their exercise, has put together [a heatmap](https://blog.strava.com/galleries/heatmap/ "Strava Heatmap") that shows the activity of athletes using their service.
 
+> A marathon PR in Berlin, a bikepacking adventure in Mongolia and a ski down the slopes in Utah. Each of these plus over a billion other Strava activities were used to create the new Heatmap. It includes over 27 billion kilometers of data, overlapping to show the most frequented spots for sport on the globe. This incredible visualization was created with 200 thousand years of movement including thousands of marathons and countless coffee rides. What looks like a multihued map of the Earth is actually the white hot visualization of over 1 billion activities on Strava.
 
-## What is the plan?
+And [here is how they did it](https://medium.com/strava-engineering/the-global-heatmap-now-6x-hotter-23fc01d301de?_branch_match_id=348555951834760884 "Strava Heatmap Engineering").
 
-I haven’t completely flushed out what I want this newsletter to be. I want it to be based around some combination of things I stumble upon and the things I have been interested in during the previous month.
+## The Technology Behind Bitcoin
 
-## [The Personal MBA by Josh Kaufman](http://personalmba.com "Personal MBA")
+You have likely heard the buzz around cryptocurrency, and more specifically, Bitcoin. [Bitcoin](https://bitcoin.org/en/ "Bitcoin") is exciting but the technology behind it could be far more impactful. This [video](https://www.youtube.com/watch?v=_160oMzblY8&app=desktop "video") will help you to understand that technology.
 
-I made a huge mistake in letting this book sit on my ‘Next reads’ list for this long. I have taken this book on as more a project and a study than for reading. I am only a fraction of the way into my study but the thing is coated in gold.
+## Paradox of Success
 
-> Education is a way to make your mental models more accurate by internalizing the knowledge and experiences other people have collected throughout their lives. The best education helps you learn to see the world in a new, more productive way.
+From [_Essentialism: The Disciplined Pursuit of Less_](https://www.amazon.com/dp/0804137382/ "Essentialism: The Disciplined Pursuit of Less") by Greg McKeown…
 
-> Every successful business (1) creates or provides something of value that (2) other people want or need (3) at a price they’re willing to pay, in a way that (4) satisfies the purchaser’s needs and expectations and (5) provides the business sufficient revenue to make it worthwhile for the owners to continue operation. 
-
-Get a copy [here](amazon.com "here").
-
-## [Dan Harmon’s Story Circle](http://patricklickman.com/storycircle/1/ "Dan Harmon’s Story Circle")
-
-> Dan Harmon, creator of Community, Rick and Morty, and co-founder of Channel 101, built a framework to help you tell stories. It's called the story circle, and it's helped countless nerds put their ideas down on paper.
-
-### Part One — Super Basic Shit
-
-> Storytelling comes naturally to humans, but since we live in an unnatural world, we sometimes need a little help doing what we'd naturally do.
+> It leads to what I call “the paradox of success,” which can be summed up in four predictable phases: 
 > 
-> Draw a circle and divide it in half vertically.
-> 
-> Divide the circle again horizontally.
-> 
-> Starting from the 12 o clock position and going clockwise, number the 4 points where the lines cross the circle: 1, 3, 5 and 7.
-> 
-> Number the quarter-sections themselves 2, 4, 6 and 8.
-> 
-> Here we go, down and dirty:
-> 
-> 1. A character is in a zone of comfort,
-> 2. But they want something.
-> 3. They enter an unfamiliar situation,
-> 4. Adapt to it,
-> 5. Get what they wanted,
-> 6. Pay a heavy price for it,
-> 7. Then return to their familiar situation,
-> 8. Having changed.
-> Start thinking of as many of your favorite movies as you can, and see if they apply to this pattern. Now think of your favorite party anecdotes, your most vivid dreams, fairy tales, and listen to a popular song (the music, not necessarily the lyrics). Get used to the idea that stories follow that pattern of descent and return, diving and emerging. Demystify it. See it everywhere. Realize that it's hardwired into your nervous system, and trust that in a vacuum, raised by wolves, your stories would follow this pattern.
-> 
-> I will talk in greater detail about this pattern in subsequent tutorials.
+> PHASE 1: When we really have clarity of purpose, it enables us to succeed at our endeavor. 
+> PHASE 2: When we have success, we gain a reputation as a “go to” person. We become “good old [insert name],” who is always there when you need him, and we are presented with increased options and opportunities. 
+> PHASE 3: When we have increased options and opportunities, which is actually code for demands upon our time and energies, it leads to diffused efforts. We get spread thinner and thinner.
+> PHASE 4: We become distracted from what would otherwise be our highest level of contribution. The effect of our success has been to undermine the very clarity that led to our success in the first place. 
 
-## Around the web...
+## Around The Web
 
-- [MKBHD’s Tesla Model 3 Impression’s](https://m.youtube.com/watch?feature=youtu.be&v=MgzwBW_LPdE "MKBHD’s Tesla Model 3 Impression’s")
-- [The Ultimate Car Wash](https://m.youtube.com/watch?v=ITXtCS9Jf2Q "The Ultimate Car Wash")
-- [How to Make Famous Movie Cocktails](https://youtu.be/v5tJBLfeurU "Binging with Babish: Cocktail Special")
+- [How Facebook Figures Out Everyone You've Ever Met](https://gizmodo.com/how-facebook-figures-out-everyone-youve-ever-met-1819822691 "How Facebook Figures Out Everyone You've Ever Met")
+- [ ‘I Forgot My PIN’: An Epic Tale of Losing $30,000 in Bitcoin ](https://www.wired.com/story/i-forgot-my-pin-an-epic-tale-of-losing-dollar30000-in-bitcoin/ "‘I Forgot My PIN’: An Epic Tale of Losing $30,000 in Bitcoin")
+- [Hooked: how slot machines are designed to be addictive](https://www.theguardian.com/australia-news/datablog/ng-interactive/2017/sep/28/hooked-how-pokies-are-designed-to-be-addictive "Hooked: how slot machines are designed to be addictive")
+- [How to Increase Human Healthspans](https://www.youtube.com/watch?v=MjdpR-TY6QU "How to Increase Human Healthspans")
 
-## Contemplation
+## Book ‘Em
 
-A highlight from a book I read this month...
+An enlightening book that exemplifies how important it is to belong.
 
-### Steal Like an Artist: 10 Things Nobody Told You About Being Creative
+### Tribe: On Homecoming and Belonging 
 
-> Instead, chew on one thinker—writer, artist, activist, role model—you really love. Study everything there is to know about that thinker. Then find three people that thinker loved, and find out everything about them. Repeat this as many times as you can. Climb up the tree as far as you can go. Once you build your tree, it’s time to start your own branch. 
-> *Kleon, Austin*
+> One way to determine what is missing in day-to-day American life may be to examine what behaviors spontaneously arise when that life is disrupted.
+> _Junger, Sebastian_
 
-Get a copy [here](amazon.com "Steal Like an Artist").
+Get a [copy here](https://www.amazon.com/Tribe-Homecoming-Belonging-Sebastian-Junger/dp/1455566381/ref=asap_bc?ie=UTF8 "Tribe: On Homecoming and Belonging").
 
-## Sign off
+## Sign Off
 
 Do not hesitate to reply to this months email to share links, wisdom, or thoughts.
 
