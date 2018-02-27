@@ -1,0 +1,2 @@
+%% Location625 
+Next, try this little drill. Stand arms-length away from a door knob. Grab the door knob with both hands and get your chest up. Up? Imagine being on a California beach when a swimsuit model walks by. When I have an athlete do this, he will immediately puff up his chest, which tightens the lower back and locks the whole upper body. The lats naturally spread a bit and the shoulders come back a little, too. Doorknob squat with partner Now, lower yourself down.

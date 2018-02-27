@@ -1,0 +1,2 @@
+%% Page 45 · Location 503 
+> We do five pull-ups (nickels) and then ten push-ups (dimes) “every minute on the minute.” We start every time the second hand is on the 12. If we finish in forty seconds, we then have twenty seconds of rest. We do this for ten minutes (fifty pull-ups and a hundred push-ups). 

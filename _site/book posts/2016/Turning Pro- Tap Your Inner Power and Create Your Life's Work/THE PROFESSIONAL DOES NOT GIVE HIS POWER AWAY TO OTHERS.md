@@ -1,0 +1,3 @@
+## THE PROFESSIONAL DOES NOT GIVE HIS POWER AWAY TO OTHERS 
+%% Location 675 
+> When we make someone into an icon, we give away our power. We say to ourselves (unconsciously), "This person possesses a quality I wish I possessed. Therefore I will worship this person in the hope that that quality will wear off on me, or I will acquire that quality by virtue of my proximity to this mentor/ sensei/ lover/ teacher/ hero." 

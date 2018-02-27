@@ -1,0 +1,2 @@
+%% Location7186 
+“You can’t blame your boss for not giving you the support you need. Plenty of people will say, ‘It’s my boss’s fault.’ No, it’s actually your fault because you haven’t educated him, you haven’t influenced him, you haven’t explained to him in a manner he understands why you need this support that you need. That’s extreme ownership. Own it all.” 

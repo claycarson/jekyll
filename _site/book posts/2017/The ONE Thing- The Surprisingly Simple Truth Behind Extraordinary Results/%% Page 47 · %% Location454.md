@@ -1,0 +1,2 @@
+%% Page 47 · %% Location454
+> With an average of 4,000 thoughts a day flying in and out of our heads, it’s easy to see why we try to multitask. If a change in thought every 14 seconds is an invitation to change direction, then it’s rather obvious we’re continually tempted to try to do too much at once. While doing one thing we’re only seconds away from thinking of something else we could do. 

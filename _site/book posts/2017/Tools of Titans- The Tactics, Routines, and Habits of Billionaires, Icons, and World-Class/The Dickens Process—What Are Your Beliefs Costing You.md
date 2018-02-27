@@ -1,0 +1,3 @@
+## The Dickens Process—What Are Your Beliefs Costing You? 
+%% Location7723 
+In A Christmas Carol, Scrooge is visited by the Ghosts of Christmas Past, Present, and Future. In the Dickens Process, you’re forced to examine limiting beliefs—say, your top two or three handicapping beliefs—across each tense. Tony guides you through each in depth, and I recall answering and visualizing variations of: What has each belief cost you in the past, and what has it cost people you’ve loved in the past? What have you lost because of this belief? See it, hear it, feel it. What is each costing you and people you care about in the present? See it, hear it, feel it. What will each cost you and people you care about 1, 3, 5, and 10 years from now? See it, hear it, feel it. 

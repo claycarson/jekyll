@@ -1,0 +1,2 @@
+%% Page 32 · %% Location304
+> Knocking out a hundred tasks for whatever the reason is a poor substitute for doing even one task that’s meaningful. Not everything matters equally, and success isn’t a game won by whoever does the most. Yet that is exactly how most play it on a daily basis.

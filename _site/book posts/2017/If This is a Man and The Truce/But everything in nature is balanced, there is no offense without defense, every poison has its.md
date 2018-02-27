@@ -1,0 +1,1 @@
+> But everything in nature is balanced, there is no offense without defense, every poison has its antidote; it is enough to know what it is.

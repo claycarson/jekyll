@@ -1,0 +1,2 @@
+%% Page 61 · Location 909 
+> People who become great at something become great because they understand that they’re not already great—they are mediocre, they are average—and that they could be so much better. 

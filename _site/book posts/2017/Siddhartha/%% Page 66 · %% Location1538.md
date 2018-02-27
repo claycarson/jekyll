@@ -1,0 +1,2 @@
+%% Page 66 · %% Location1538 
+> The opposite of every truth is just as true! That’s like this: any truth can only be expressed and put into words when it is one-sided. Everything is one-sided which can be thought with thoughts and said with words, it’s all one-sided, all just one half, all lacks completeness, roundness, oneness.

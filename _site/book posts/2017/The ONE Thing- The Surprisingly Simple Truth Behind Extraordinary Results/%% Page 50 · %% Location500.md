@@ -1,0 +1,2 @@
+%% Page 50 · %% Location500
+> Workers who use computers during the day change windows or check e-mail or other programs nearly 37 times an hour. Being in a distractible setting sets us up to be more distractible. Or maybe it’s the high. Media multitaskers actually experience a thrill with switching—a burst of dopamine—that can be addictive. Without it, they can feel bored. For whatever the reason, the results are unambiguous: multitasking slows us down and makes us slower witted. 

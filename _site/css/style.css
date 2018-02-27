@@ -9,7 +9,7 @@ body {
 	background-color: white;
 	padding: 30px;
 	letter-spacing:1px;
-	color: #333;
+	color: #222;
 	max-width: 50%;
 	margin: auto;
 }
@@ -23,13 +23,13 @@ body > *:last-child {
 }
 
 a {
-	color: #333;
+	color: #222;
 	border-bottom: dotted 1px;
 	text-decoration: none;
 }
 
 a:hover {
-	color: #000;
+	color: #cb3816;
 	border-bottom: dotted 1px;
 	text-decoration: none;
 }
@@ -52,12 +52,13 @@ a.anchor {
 h1, h2, h3, h4, h5, h6 {
 	margin: 20px 0 10px;
 	padding: 0;
-	font-weight: 800;
+	font-weight: 900;
 	-webkit-font-smoothing: antialiased;
 	cursor: text;
 	position: relative;
 	text-transform: uppercase;
 	letter-spacing:4px;
+	font-style: italic;
 }
 
 h1 tt, h1 code {
@@ -86,14 +87,15 @@ h6 tt, h6 code {
 
 h1 {
 	font-size: 28px;
-	color: #333;
+	color: #222;
+	text-decoration: none;
 }
 
 h2 {
 	border-top: 1px dotted #ddd;
 	padding-top: 20px;
 	font-size: 24px;
-	color: #333;
+	color: #222;
 }
 
 h3 {
@@ -291,7 +293,7 @@ span.frame span img {
 
 span.frame span span {
 	clear: both;
-	color: #333333;
+	color: #222333;
 	display: block;
 	padding: 5px 0 0;
 }
@@ -412,6 +414,12 @@ html,body {
 
 .header h1 {
 	font-size: 36px;
+	text-align: center;
+	text-decoration: none;
+}
+
+.header h1 a {
+	border-bottom: none;
 }
 
 .header-container {
@@ -420,7 +428,7 @@ html,body {
 }
 
 .nav {
-	color: #333;
+	color: #222;
 	text-transform: uppercase;
     font-size: 16px;
     font-weight: 600;
@@ -440,7 +448,7 @@ li {
 }
 
 .nav a {
-    color: #333;
+    color: #222;
 }
 
 .nav a:link {
@@ -462,11 +470,11 @@ li {
 }
 
 .title li a {
-    color: #333;
+    color: #222;
 }
 
 .title li a:link {
-    color: #333;
+    color: #222;
 }
 
 .title li a:visited {
@@ -477,14 +485,14 @@ li {
 
 .title li a:hover {
     opacity: 1;
-    color: #666;
+    color: #cb3816;
 }
 
 .description {
     padding-top: 30px;
     font-size: 14px;
     line-height: 1.5em;
-    color: #333;
+    color: #222;
 }
 
 .page-content {
@@ -534,7 +542,7 @@ li {
     bottom: 20px;    
     padding: 10px 15px;    
     font-size: 20px;
-    background: #333;
+    background: #222;
     color: white;
     cursor: pointer;
 }

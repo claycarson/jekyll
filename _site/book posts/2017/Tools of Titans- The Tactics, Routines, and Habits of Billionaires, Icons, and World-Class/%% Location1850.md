@@ -1,0 +1,2 @@
+%% Location1850 
+Among effective midsection exercises are ‘power breathing,’ hollow rocks, Janda sit-ups, hanging leg raises, and ‘hard-style planks.’ To do the last, hold a plank for 10 seconds under max contraction, not for several minutes. Hold it like you’re about to be kicked and breathe ‘behind the shield’ of your tensed midsection. For a challenge, consider putting your feet on the wall, a few inches from the floor.” 

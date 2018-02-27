@@ -1,0 +1,3 @@
+## A MODEL OF THE UNIVERSE 
+%% Location 868 
+"There is a second self inside you —an inner, shadow Self. This self doesn't care about you. It doesn't love you. It has its own agenda, and it will kill you. It will kill you like cancer. It will kill you to achieve its agenda, which is to prevent you from actualizing your Self, from becoming who you really are. This shadow self is called, in the Kabbalistic lexicon, the yetzer hara. The yetzer hara, Steve, is what you would call Resistance."

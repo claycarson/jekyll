@@ -1,0 +1,2 @@
+%% Page 180 · Location 2115 
+> See things for what they are. Do what we can. Endure and bear what we must. What blocked the path now is a path. What once impeded action advances action. The Obstacle is the Way. 

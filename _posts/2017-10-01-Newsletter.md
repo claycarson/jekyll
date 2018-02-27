@@ -1,10 +1,33 @@
 ---
-layout: post
-title:  October 2017
-date:   2017-10-01
+layout:     post
+title:      October 2017
+date:       2017-10-01
+summary:    
+categories: 
 ---
 
-This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.
+# October 2017
+
+## Introduction
+
+This newsletter is a collection of things I have found in the last month that in some way made me better or that I found interesting enough to share.
+
+Enjoy!
+
+Clay
+
+You can follow me more closely at [my personal website](http://claycarson.net "Personal Website") or if you or someone you know is looking to buy or sell a home, you can point them to [my real estate website](http://claycarson.com "Business Website ").
+
+[Twitter](http://twitter.com/claycarson "Twitter")
+[Facebook](http://facebook.com/claycarson "Facebook")
+[Instagram](http://instagram.com/claycarson "Instagram")
+
+*I use affiliate links when available.*
+
+
+## What is the plan?
+
+I haven’t completely flushed out what I want this newsletter to be. I want it to be based around some combination of things I stumble upon and the things I have been interested in during the previous month.
 
 ## [The Personal MBA by Josh Kaufman](http://personalmba.com "Personal MBA")
 
@@ -46,13 +69,13 @@ Get a copy [here](amazon.com "here").
 > 
 > I will talk in greater detail about this pattern in subsequent tutorials.
 
-## Around The Web
+## Around the web...
 
 - [MKBHD’s Tesla Model 3 Impression’s](https://m.youtube.com/watch?feature=youtu.be&v=MgzwBW_LPdE "MKBHD’s Tesla Model 3 Impression’s")
 - [The Ultimate Car Wash](https://m.youtube.com/watch?v=ITXtCS9Jf2Q "The Ultimate Car Wash")
 - [How to Make Famous Movie Cocktails](https://youtu.be/v5tJBLfeurU "Binging with Babish: Cocktail Special")
 
-## Book ‘Em
+## Contemplation
 
 A highlight from a book I read this month...
 
@@ -63,7 +86,7 @@ A highlight from a book I read this month...
 
 Get a copy [here](amazon.com "Steal Like an Artist").
 
-## Sign Off
+## Sign off
 
 Do not hesitate to reply to this months email to share links, wisdom, or thoughts.
 

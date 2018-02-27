@@ -1,0 +1,3 @@
+## The Law of Category 
+%% Location4915 
+What’s the name of the third person to fly the Atlantic Ocean solo? If you didn’t know that Bert Hinkler was the second person to fly the Atlantic, you might figure you had no chance at all to know the name of the third person. But you do. It’s Amelia Earhart. Now, is Amelia known as the third person to fly the Atlantic Ocean solo, or as the first woman to do so?

@@ -1,0 +1,2 @@
+%% Location8102 
+One of his tools for coming up with unbelievable (yet ultimately accurate) predictions is making a list of what everyone thinks is true or will be true, and asking “What if that weren’t true?” for each, brainstorming the ramifications. 

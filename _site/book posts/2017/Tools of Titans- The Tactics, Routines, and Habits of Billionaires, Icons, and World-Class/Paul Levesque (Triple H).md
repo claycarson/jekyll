@@ -1,0 +1,3 @@
+## Paul Levesque (Triple H) 
+%% Location2536 
+“I’d never heard it said that way, but it stuck with me. So much so that I’ve said it to my kid now: ‘Is that a dream, or a goal? Because a dream is something you fantasize about that will probably never happen. A goal is something you set a plan for, work toward, and achieve. I always looked at my stuff that way. The people who were successful models to me were people who had structured goals and then put a plan in place to get to those things. 

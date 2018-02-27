@@ -1,0 +1,3 @@
+## BJ Miller 
+%% Location6944 
+“When you are struggling with just about anything, look up. Just ponder the night sky for a minute and realize that we’re all on the same planet at the same time. As far as we can tell, we’re the only planet with life like ours on it anywhere nearby. Then you start looking at the stars, and you realize that the light hitting your eye is ancient, [some of the] stars that you’re seeing, they no longer exist by the time that the light gets to you. Just mulling the bare-naked facts of the cosmos is enough to thrill me, awe me, freak me out, and kind of put all my neurotic anxieties in their proper place. A lot of people—when you’re standing at the edge of your horizon, at death’s door, you can be much more in tune with the cosmos.” 

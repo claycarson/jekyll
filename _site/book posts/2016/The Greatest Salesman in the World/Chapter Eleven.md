@@ -1,0 +1,3 @@
+## Chapter Eleven
+%% Page 68 · Location 638 
+> I am nature’s greatest miracle. Since the beginning of time never has there been another with my mind, my heart, my eyes, my ears, my hands, my hair, my mouth. None that came before, none that live today, and none that come tomorrow can walk and talk and move and think exactly like me. All men are my brothers yet I am different from each. I am a unique creature. 
