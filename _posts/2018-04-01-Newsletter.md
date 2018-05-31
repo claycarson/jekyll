@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “April 2018“
+title:  April 2018
 date:   2018-04-01
 ---
 
