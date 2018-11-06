@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<a href="/newsletter"><h2>Newsletter</h2></a>
+
+{% for post in site.categories.Newsletter limit:5 %}
+  <li><a href="{{ post.url }}">
+    <p>{{ post.title }}</p>
+  </a></li>
+{% endfor %}
+
+
+<a href="/status"><h2>Status</h2></a>
+
+{% for post in site.categories.Status limit:5 %}
+  <li><a href="{{ post.url }}">
+    <p>{{ post.date | date_to_string }} » {{ post.excerpt }}</p>
+  </a></li>
+{% endfor %}
+
+<a href="/location"><h2>Location</h2></a>
+
+{% for post in site.categories.Location limit:5 %}
+  <li><a href="{{ post.url }}">
+    <p>{{ post.date | date_to_string }} » {{ post.title }}</p>
+  </a></li>
+{% endfor %}
+
+<a href="/location"><h2>Photo</h2></a>
+
+{% for post in site.categories.Photo limit:5 %}
+  <li><a href="{{ post.url }}">
+    <p>{{ post.date | date_to_string }}: {{ post.title }}</p>
+  </a></li>
+{% endfor %}
+
+<a href="/location"><h2>Media</h2></a>
+
+{% for post in site.categories.Media limit:5 %}
+  <li><a href="{{ post.url }}">
+    <p>{{ post.date | date_to_string }} » {{ post.title }}</p>
+  </a></li>
+{% endfor %}

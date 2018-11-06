@@ -1,8 +1,8 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@font-face {font-family:ia_writer_duospacebold;src:url(http://claycarson.net/fonts/ia_writer/iawriterduospace-bold-webfont.woff2) format("woff2"),url(http://claycarson.net/fonts/ia_writer/iawriterduospace-bold-webfont.woff) format("woff");font-weight:400;font-style:normal}@font-face{font-family:ia_writer_duospacebolditalic;src:url(http://claycarson.net/fonts/ia_writer/iawriterduospace-bolditalic-webfont.woff2) format("woff2"),url(http://claycarson.net/fonts/ia_writer/iawriterduospace-bolditalic-webfont.woff) format("woff");font-weight:400;font-style:normal}@font-face{font-family:ia_writer_duospaceregular;src:url(http://claycarson.net/fonts/ia_writer/iawriterduospace-regular-webfont.woff2) format("woff2"),url(http://claycarson.net/fonts/ia_writer/iawriterduospace-regular-webfont.woff) format("woff");font-weight:400;font-style:normal}@font-face{font-family:ia_writer_duospaceitalic;src:url(http://claycarson.net/fonts/ia_writer/iawriterduospace-regularitalic-webfont.woff2) format("woff2"),url(http://claycarson.net/fonts/ia_writer/iawriterduospace-regularitalic-webfont.woff) format("woff");font-weight:300;font-style:normal}
 
 body {
-	font-family: Open Sans, Helvetica, arial, sans-serif;
-	font-size: 15px;
+	font-family: 'ia_writer_duospaceregular', Helvetica, arial, sans-serif;
+	font-size: 14px;
 	line-height: 1.6;
 	padding-top: 10px;
 	padding-bottom: 10px;
@@ -12,6 +12,7 @@ body {
 	color: #222;
 	max-width: 50%;
 	margin: auto;
+	font-weight:400;
 }
 
 body > *:first-child {
@@ -50,6 +51,7 @@ a.anchor {
 }
 
 h1, h2, h3, h4, h5, h6 {
+	font-family: 'ia_writer_duospacebold', Helvetica, arial, sans-serif;
 	margin: 20px 0 10px;
 	padding: 0;
 	font-weight: 900;
@@ -58,7 +60,7 @@ h1, h2, h3, h4, h5, h6 {
 	position: relative;
 	text-transform: uppercase;
 	letter-spacing:4px;
-	font-style: italic;
+	/*font-style: italic;*/
 }
 
 h1 tt, h1 code {
@@ -414,7 +416,7 @@ html,body {
 
 .header h1 {
 	font-size: 36px;
-	text-align: center;
+	text-align: left;
 	text-decoration: none;
 }
 

@@ -1,8 +1,8 @@
 # Site settings
-title: Clay Carson's Newsletter
+title: Clay Carson
 permalink: /:year/:month/:title
 motto:
-email: me@claycarson.net
+email: clay@claycarson.net
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -14,3 +14,17 @@ github_username:  claycarson
 
 # Build settings
 markdown: kramdown
+
+# Extras
+excerpt_separator: <!--more-->
+categories:
+	- Status
+	- Newsletter
+	- Link
+	- Article
+	- Location
+	- Media
+		- Book
+		- Movie
+		- Audiobook
+		- TV Show
