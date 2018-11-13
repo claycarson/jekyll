@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 06 Nov 2018 15:42:29 -0600</pubDate>
-    <lastBuildDate>Tue, 06 Nov 2018 15:42:29 -0600</lastBuildDate>
+    <pubDate>Mon, 12 Nov 2018 16:57:22 -0600</pubDate>
+    <lastBuildDate>Mon, 12 Nov 2018 16:57:22 -0600</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
     
       <item>
@@ -15,8 +15,8 @@
         <description>&lt;div class=&quot;mapouter&quot;&gt;&lt;div class=&quot;gmap_canvas&quot;&gt;&lt;iframe width=&quot;600&quot; height=&quot;500&quot; id=&quot;gmap_canvas&quot; src=&quot;https://maps.google.com/maps?q=new%20orleans%2C%20la&amp;amp;t=&amp;amp;z=13&amp;amp;ie=UTF8&amp;amp;iwloc=&amp;amp;output=embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;a href=&quot;https://www.embedgooglemap.net&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;style&gt;.mapouter{text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}&lt;/style&gt;&lt;/div&gt;
 </description>
         <pubDate>Sat, 03 Nov 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2018/11/Louisiana</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/11/Louisiana</guid>
+        <link>http://localhost:4000/location/2018/11/Louisiana</link>
+        <guid isPermaLink="true">http://localhost:4000/location/2018/11/Louisiana</guid>
         
         
         <category>Location</category>
@@ -98,11 +98,74 @@
 &lt;p&gt;Clay&lt;/p&gt;
 </description>
         <pubDate>Thu, 01 Nov 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2018/11/Newsletter</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/11/Newsletter</guid>
+        <link>http://localhost:4000/newsletter/2018/11/Newsletter</link>
+        <guid isPermaLink="true">http://localhost:4000/newsletter/2018/11/Newsletter</guid>
         
         
         <category>Newsletter</category>
+        
+      </item>
+    
+      <item>
+        <title>Greece</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/Greece/greece-publish-1.jpg&quot; /&gt;
+&lt;!--more--&gt;
+&lt;img src=&quot;/images/Greece/greece-publish-2.jpg&quot; /&gt;
+&lt;img src=&quot;/images/Greece/greece-publish-3.jpg&quot; /&gt;
+&lt;img src=&quot;/images/Greece/greece-publish-4.jpg&quot; /&gt;
+&lt;img src=&quot;/images/Greece/greece-publish-5.jpg&quot; /&gt;
+&lt;img src=&quot;/images/Greece/greece-publish-6.jpg&quot; /&gt;
+&lt;img src=&quot;/images/Greece/greece-publish-7.jpg&quot; /&gt;
+&lt;img src=&quot;/images/Greece/greece-publish-8.jpg&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 07 Oct 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/photo/2018/10/Greece</link>
+        <guid isPermaLink="true">http://localhost:4000/photo/2018/10/Greece</guid>
+        
+        
+        <category>Photo</category>
+        
+      </item>
+    
+      <item>
+        <title>Greece</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/Greece/greece-publish-1.jpg&quot; /&gt;
+&lt;!--more--&gt;
+&lt;img src=&quot;/images/Greece/greece-publish-2.jpg&quot; /&gt;
+&lt;img src=&quot;/images/Greece/greece-publish-3.jpg&quot; /&gt;
+&lt;img src=&quot;/images/Greece/greece-publish-4.jpg&quot; /&gt;
+&lt;img src=&quot;/images/Greece/greece-publish-5.jpg&quot; /&gt;
+&lt;img src=&quot;/images/Greece/greece-publish-6.jpg&quot; /&gt;
+&lt;img src=&quot;/images/Greece/greece-publish-7.jpg&quot; /&gt;
+&lt;img src=&quot;/images/Greece/greece-publish-8.jpg&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 07 Oct 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/photo/2018/10/Greece-copy</link>
+        <guid isPermaLink="true">http://localhost:4000/photo/2018/10/Greece-copy</guid>
+        
+        
+        <category>Photo</category>
+        
+      </item>
+    
+      <item>
+        <title>Greece</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/Greece/greece-publish-1.jpg&quot; /&gt;
+&lt;!--more--&gt;
+&lt;img src=&quot;/images/Greece/greece-publish-2.jpg&quot; /&gt;
+&lt;img src=&quot;/images/Greece/greece-publish-3.jpg&quot; /&gt;
+&lt;img src=&quot;/images/Greece/greece-publish-4.jpg&quot; /&gt;
+&lt;img src=&quot;/images/Greece/greece-publish-5.jpg&quot; /&gt;
+&lt;img src=&quot;/images/Greece/greece-publish-6.jpg&quot; /&gt;
+&lt;img src=&quot;/images/Greece/greece-publish-7.jpg&quot; /&gt;
+&lt;img src=&quot;/images/Greece/greece-publish-8.jpg&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 07 Oct 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/photo/2018/10/Greece-copy-2</link>
+        <guid isPermaLink="true">http://localhost:4000/photo/2018/10/Greece-copy-2</guid>
+        
+        
+        <category>Photo</category>
         
       </item>
     
@@ -112,8 +175,8 @@
 &lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Wed, 03 Oct 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2018/10/Greece</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/10/Greece</guid>
+        <link>http://localhost:4000/location/2018/10/Greece</link>
+        <guid isPermaLink="true">http://localhost:4000/location/2018/10/Greece</guid>
         
         
         <category>Location</category>
@@ -160,8 +223,8 @@
 &lt;p&gt;Clay&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 Oct 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2018/10/Newsletter</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/10/Newsletter</guid>
+        <link>http://localhost:4000/newsletter/2018/10/Newsletter</link>
+        <guid isPermaLink="true">http://localhost:4000/newsletter/2018/10/Newsletter</guid>
         
         
         <category>Newsletter</category>
@@ -174,8 +237,8 @@
 &lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sat, 29 Sep 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2018/09/Greece</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/09/Greece</guid>
+        <link>http://localhost:4000/location/2018/09/Greece</link>
+        <guid isPermaLink="true">http://localhost:4000/location/2018/09/Greece</guid>
         
         
         <category>Location</category>
@@ -188,8 +251,8 @@
 &lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Wed, 05 Sep 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2018/09/Mexico</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/09/Mexico</guid>
+        <link>http://localhost:4000/location/2018/09/Mexico</link>
+        <guid isPermaLink="true">http://localhost:4000/location/2018/09/Mexico</guid>
         
         
         <category>Location</category>
@@ -241,220 +304,8 @@
 &lt;p&gt;Clay&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Sep 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2018/09/Newsletter</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/09/Newsletter</guid>
-        
-        
-        <category>Newsletter</category>
-        
-      </item>
-    
-      <item>
-        <title>August 2018</title>
-        <description>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
-
-&lt;p&gt;You can follow me more closely at &lt;a href=&quot;http://claycarson.net&quot; title=&quot;Personal Website&quot;&gt;my personal website&lt;/a&gt; or if you or someone you know is looking to buy or sell a home, you can point them to &lt;a href=&quot;http://claycarson.com&quot; title=&quot;Business Website &quot;&gt;my real estate website&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;home-is-where-the-dryptosaurus-is&quot;&gt;Home is Where the &lt;a href=&quot;http://dinosaurpictures.org/Dryptosaurus-pictures&quot; title=&quot;Dryptosaurus&quot;&gt;Dryptosaurus&lt;/a&gt; is&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://kottke.org/18/06/locate-modern-addresses-on-earth-240-million-years-ago&quot; title=&quot;Locate modern addresses on Earth 750 million years ago&quot;&gt;Locate modern addresses on Earth 750 million years ago&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;300 million years ago the current location of my home emerged from the sea. Some of my neighbors may have also arrived at that time.&lt;/p&gt;
-
-&lt;h2 id=&quot;good-design-is-as-little-design-as-possible&quot;&gt;Good Design is as Little Design as Possible&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.vitsoe.com/us/about/good-design&quot; title=&quot;Ten Principles for Good Design&quot;&gt;Ten Principles for Good Design&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Gary Hustwit has a &lt;a href=&quot;https://www.hustwit.com/rams/&quot; title=&quot;Documentary&quot;&gt;documentary&lt;/a&gt; about designer Dieter Rams coming out soon.&lt;/p&gt;
-
-&lt;p&gt;From objects to influence, Rams’ contribution to our everyday lives is expansive.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Dieter Rams’ ability to bring form to a product so that it clearly, concisely and immediately communicates its meaning is remarkable… He remains utterly alone in producing a body of work so consistently beautiful, so right, and so accessible.” – Jonathan Ive, Apple’s Chief Design Officer&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;bo-yo&quot;&gt;Bo-Yo&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://headgum.com/good-one-a-podcast-about-jokes/bo-burnhams-cant-handle-this&quot; title=&quot;Good One: Can’t Handle This&quot;&gt;Good One: Can’t Handle This&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;A part of me loves you,
-A part of me hates you,
-A part of me needs you,
-A part of me fears you.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;In this podcast, Jesse David Fox and Bo Burnham discuss the finale to Bo’s special, ‘&lt;a href=&quot;https://www.netflix.com/title/80106124&quot; title=&quot;Make Happy&quot;&gt;Make Happy&lt;/a&gt;’. In an auto-tuned Kanye-esque rant we hear about Pringles, Chipotle, and Bo’s view of the audience and performing.&lt;/p&gt;
-
-&lt;p&gt;Bo has directed a movie called &lt;a href=&quot;https://www.imdb.com/title/tt7014006/&quot; title=&quot;Eighth Grade&quot;&gt;Eighth Grade&lt;/a&gt; receiving tremendous acclaim. The production company for the film, &lt;a href=&quot;https://a24films.com&quot; title=&quot;A24&quot;&gt;A24&lt;/a&gt;, has had recent success with Ladybird, Moonlight, The Disaster Artist, The Killing of a Sacred Deer, Ex Machina, and The Lobster.&lt;/p&gt;
-
-&lt;h2 id=&quot;around-the-web&quot;&gt;Around The Web&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.archdaily.com/894449/how-tree-trunks-are-cut-to-produce-wood-with-different-appearances-and-uses&quot; title=&quot;How Tree Trunks Are Cut to Produce Wood With Different Appearances and Uses&quot;&gt;How Tree Trunks Are Cut to Produce Wood With Different Appearances and Uses&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://youtu.be/y5NhHBjyJe4&quot; title=&quot;What Made Darth Vader Visually Iconic&quot;&gt;What Made Darth Vader Visually Iconic&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.dogphotographeroftheyear.org.uk&quot; title=&quot;Dog Photographer of the Year&quot;&gt;Dog Photographer of the Year&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://youtu.be/z_yIn8V3UcU&quot; title=&quot;What a Conductor Actually Does on Stage&quot;&gt;What a Conductor Actually Does on Stage&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;book-em&quot;&gt;Book ‘Em&lt;/h2&gt;
-
-&lt;p&gt;Bill Gates has his &lt;a href=&quot;https://www.gatesnotes.com/About-Bill-Gates/Summer-Books-2018&quot; title=&quot;5 books worth reading this summer&quot;&gt;5 books worth reading this summer&lt;/a&gt;.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;I’ve read some terrific books lately. When I pulled together this list of five that you might enjoy this summer, I realized that several of my choices wrestle with big questions. What makes a genius tick? Why do bad things happen to good people? Where does humanity come from, and where are we headed?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I’m in the middle of &lt;a href=&quot;https://www.amazon.com/Factfulness-Reasons-World-Things-Better/dp/1250107814&quot; title=&quot;Factfulness&quot;&gt;Factfulness&lt;/a&gt;. Gates provides some &lt;a href=&quot;https://www.gatesnotes.com/Books/Factfulness&quot; title=&quot;Gates Notes&quot;&gt;great notes&lt;/a&gt; about the book.&lt;/p&gt;
-
-&lt;h2 id=&quot;sign-off&quot;&gt;Sign Off&lt;/h2&gt;
-
-&lt;p&gt;Do not hesitate to reply to this months email to share links, wisdom, or thoughts.&lt;/p&gt;
-
-&lt;p&gt;Thanks for reading. Have a great month,&lt;/p&gt;
-
-&lt;p&gt;Clay&lt;/p&gt;
-</description>
-        <pubDate>Wed, 01 Aug 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2018/08/Newsletter</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/08/Newsletter</guid>
-        
-        
-        <category>Newsletter</category>
-        
-      </item>
-    
-      <item>
-        <title>July 2018</title>
-        <description>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
-
-&lt;p&gt;You can follow me more closely at &lt;a href=&quot;http://claycarson.net&quot; title=&quot;Personal Website&quot;&gt;my personal website&lt;/a&gt; or if you or someone you know is looking to buy or sell a home, you can point them to &lt;a href=&quot;http://claycarson.com&quot; title=&quot;Business Website &quot;&gt;my real estate website&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-cup-and-the-ball&quot;&gt;The Cup and the Ball&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.popsci.com/world-cup-ball-design#page-2&quot; title=&quot;How the new World Cup ball was designed to not influence the games&quot;&gt;How the New World Cup Ball was Designed to Not Influence the Games&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The Telstar 18, the design for the 2018 World Cup in Russia, is as close to a perfect sphere as you can get. It has subtle pimples and six thermally bonded panels designed to avoid knuckling, which is the characteristic bobbing and weaving movement when a ball is kicked without spin. All 32 teams have been able to play with it since November in preparation for the tournament, which runs from June 14 to July 15. But despite its similarities to the old ball, players have grumbled about the Telstar 18. Compared to the last few World Cup balls, the Telstar 18 is very similar to the ball used for the 2014 World Cup in Brazil. It won’t fly quite as far down the pitch, and will wobble in the air a little differently, but aerodynamic testing suggests it will be more stable in the air overall.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;as-god-as-my-witness-he-is-broken-in-half&quot;&gt;“As god as my witness, he is broken in half!”&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?feature=youtu.be&amp;amp;v=wPNaWr5SVq0&amp;amp;app=desktop&quot;&gt;Hell in a Cell, The Whole Story&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;We have just ‘celebrated’ the 20 year anniversary of The Undertaker vs. Mankind in Hell in a Cell. I have known the phrase, “In 1998 The Undertaker threw Mankind off Hell in a Cell.” as a &lt;a href=&quot;http://knowyourmeme.com/memes/the-undertaker-threw-mankind-off-hell-in-a-cell&quot; title=&quot;meme&quot;&gt;meme&lt;/a&gt;. What I didn’t know is how absolutely insane the events of this match were.&lt;/p&gt;
-
-&lt;h2 id=&quot;body-issues&quot;&gt;Body Issues&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.espn.com/espn/feature/story/_/id/23851669/espn-body-issue-2018&quot; title=&quot;The Body Issue&quot;&gt;ESPN The Body Issue&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;As if watching professional athletes be nearly perfect at their sport wasn’t enough…&lt;/p&gt;
-
-&lt;p&gt;Don’t miss previous issues in their &lt;a href=&quot;http://www.espn.com/espn/feature/story/_/id/23584667/body-issue-archive#!sports&quot;&gt;Body Issue Archive&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;around-the-web&quot;&gt;Around The Web&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://youtu.be/lx3QlyeG_mI&quot; title=&quot;70 People Reveal How To Count Money in Their Country&quot;&gt;70 People Reveal How To Count Money in Their Country&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://travel.nationalgeographic.com/photographer-of-the-year-2018/gallery/winners-all/1/&quot; title=&quot;Travel Photographer of the Year&quot;&gt;Travel Photographer of the Year&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.theatlantic.com/technology/archive/2018/06/amazon-flex-workers/563444/&quot; title=&quot;Delivered packages for amazon&quot;&gt;I Delivered Packages for Amazon and it was a Nightmare&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;book-em&quot;&gt;Book ‘Em&lt;/h2&gt;
-
-&lt;p&gt;In his second book, Living with the Monks, Itzler goes to live on a monastery for 15 days. This is the follow up book to one of my favorite books, &lt;a href=&quot;https://www.amazon.com/Living-SEAL-Training-Toughest-Planet-ebook/dp/B00U6DNZB2/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1529938723&amp;amp;sr=1-1&amp;amp;keywords=living+with+a+seal&quot;&gt;Living with a SEAL&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;living-with-the-monks&quot;&gt;Living with the Monks&lt;/h3&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Getting over the fear of being embarrassed is one of the most liberating gifts you can give yourself.
-&lt;em&gt;- Jesse Itzler&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Get a copy &lt;a href=&quot;https://www.amazon.com/Living-Monks-Turning-Happiness-Gratitude/dp/1478993421&quot; title=&quot;Living with the Monks&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;sign-off&quot;&gt;Sign Off&lt;/h2&gt;
-
-&lt;p&gt;Do not hesitate to reply to this months email to share links, wisdom, or thoughts.&lt;/p&gt;
-
-&lt;p&gt;Thanks for reading. Have a great month,&lt;/p&gt;
-
-&lt;p&gt;Clay&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Jul 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2018/07/Newsletter</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/07/Newsletter</guid>
-        
-        
-        <category>Newsletter</category>
-        
-      </item>
-    
-      <item>
-        <title>June 2018</title>
-        <description>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
-
-&lt;p&gt;You can follow me more closely at &lt;a href=&quot;http://claycarson.net&quot; title=&quot;Personal Website&quot;&gt;my personal website&lt;/a&gt; or if you or someone you know is looking to buy or sell a home, you can point them to &lt;a href=&quot;http://claycarson.com&quot; title=&quot;Business Website &quot;&gt;my real estate website&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;architectural-and-interiors-photographers&quot;&gt;Architectural and Interiors Photographers&lt;/h2&gt;
-
-&lt;p&gt;I’ve found myself going off the deep end of architectural and interiors photography in the last few weeks. Below are a few links to some work I’ve been admiring.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.mpkelley.com/gallery/&quot;&gt;Mike Kelley&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.scotthargisphoto.com/PROJECTS/thumbs&quot;&gt;Scott Hargis&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.katalves.com/projects&quot;&gt;Kat Alves&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://adamletch.com/residential-architecture/&quot;&gt;Adam Letch&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.mattiasschlachet.com&quot;&gt;Mattias Schlachet&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;zip-it&quot;&gt;Zip It…&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://qz.com/email/quartz-obsession/1264216/&quot; title=&quot;Zippers&quot;&gt;Zip it real good&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Don’t ever expect to see how zippers are made at YKK. Founded in 1934, Yoshida Kōgyō Kabushikigaisha is the world’s zipper kingpin, and it keeps its manufacturing secrets under lock and key. As John Balzar explains in the &lt;a href=&quot;http://articles.latimes.com/1998/sep/05/news/mn-19744/3&quot; title=&quot;LA Times&quot;&gt;Los Angeles Times&lt;/a&gt;, that’s partly because YKK makes everything—and we mean everything—on its own.&lt;/p&gt;
-
-  &lt;p&gt;“YKK smelts its own brass, concocts its own polyester, spins and twists its own thread, weaves and color-dyes cloth for its zipper tapes, forges and molds its scooped zipper teeth, extrudes the monofilament for coil zippers, hammers and paints the sliders, clamps the stops, attaches the dangley pulls in a thousand varieties, and even fabricates the cardboard boxes in which zippers are packaged. Naturally, YKK makes the machines that make the components.”&lt;/p&gt;
-
-  &lt;p&gt;Since YKK controls all aspects of its business, it’s widely viewed by design companies as the most dependable and consistent zipper brand on the planet. (Case in point: At &lt;a href=&quot;http://www.slate.com/articles/business/branded/2012/04/ykk_zippers_why_so_many_designers_use_them_.html&quot; title=&quot;Slate&quot;&gt;Slate&lt;/a&gt;, Seth Stevenson points out that “When the Japanese earthquake hit in 2011 many supply chains were shredded, but YKK kept rolling along.”) For that reason alone, YKK is a major player in the (very niche) high-end zipper market.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I never knew there was so much to know about zippers.&lt;/p&gt;
-
-&lt;h2 id=&quot;are-you-my-friend&quot;&gt;Are you my friend?&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://news.ku.edu/2018/03/06/study-reveals-number-hours-it-takes-make-friend&quot;&gt;Study reveals how many hours it takes to make friends.&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;In a &lt;a href=&quot;http://journals.sagepub.com/doi/full/10.1177/0265407518761225&quot; title=&quot;How many hours does it take to make a friend?&quot;&gt;new report&lt;/a&gt; published in the Journal of Social and Personal Relationships, Associate Professor of Communication Studies Jeffrey Hall found that it takes roughly 50 hours of time together to move from mere acquaintance to casual friend, 90 hours to go from that stage to simple “friend” status and more than 200 hours before you can consider someone your close friend.&lt;/p&gt;
-
-  &lt;p&gt;This means time spent hanging out, joking around, playing video games and the like. Hours spent working together just don’t count as much, Hall’s study found.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Hall’s colleagues developed an &lt;a href=&quot;https://mikewk.shinyapps.io/friendship/&quot; title=&quot;Interactive Friendship Tool&quot;&gt;”Interactive Friendship Tool”&lt;/a&gt; to guess whether someone is an acquaintance, casual friend, friend or close friend.&lt;/p&gt;
-
-&lt;h2 id=&quot;around-the-web&quot;&gt;Around The Web&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://g.redditmedia.com/46GnzS-y_OxAXPMxPR9pUi8KT8OG0Lp6YVwqciHFOf4.gif?fm=mp4&amp;amp;mp4-fragmented=false&amp;amp;s=b1e3c42a22b4d6448ba47ae6717f0018&quot; title=&quot;Manhattan population, hour by hour&quot;&gt;The population of Manhattan, hour by hour&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://i.imgur.com/qRCImdM.gif&quot; title=&quot;VR Soccer&quot;&gt;VR Soccer&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://esripm.maps.arcgis.com/apps/MapTour/index.html?appid=4fc9153f4d9248b9bab7011e3950b552&amp;amp;webmap=962ca9da38bf4c5e9439a6acf3dd1b3e&quot; title=&quot;An interactive map of the locations in Homer’s The Odyssey&quot;&gt;An interactive map of the locations in Homer’s The Odyssey&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.featureshoot.com/2016/05/the-unseen-collection-at-the-national-museum-of-natural-history/&quot; title=&quot;The Unseen Collection at the National Museum of Natural History&quot;&gt;The Unseen Collection at the National Museum of Natural History&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://mobile.twitter.com/asymco/status/831961922312470528/photo/1&quot; title=&quot;The First 40 Years of Personal Computing&quot;&gt;The First 40 Years of Personal Computing&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;sign-off&quot;&gt;Sign Off&lt;/h2&gt;
-
-&lt;p&gt;Do not hesitate to reply to this months email to share links, wisdom, or thoughts.&lt;/p&gt;
-
-&lt;p&gt;Thanks for reading. Have a great month,&lt;/p&gt;
-
-&lt;p&gt;Clay&lt;/p&gt;
-</description>
-        <pubDate>Fri, 01 Jun 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2018/06/Newsletter</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/06/Newsletter</guid>
+        <link>http://localhost:4000/newsletter/2018/09/Newsletter</link>
+        <guid isPermaLink="true">http://localhost:4000/newsletter/2018/09/Newsletter</guid>
         
         
         <category>Newsletter</category>

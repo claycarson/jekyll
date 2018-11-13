@@ -1,6 +1,6 @@
 # Site settings
 title: Clay Carson
-permalink: /:year/:month/:title
+permalink: /:categories/:year/:month/:title
 motto:
 email: clay@claycarson.net
 description: > # this means to ignore newlines until "baseurl:"
@@ -17,14 +17,3 @@ markdown: kramdown
 
 # Extras
 excerpt_separator: <!--more-->
-categories:
-	- Status
-	- Newsletter
-	- Link
-	- Article
-	- Location
-	- Media
-		- Book
-		- Movie
-		- Audiobook
-		- TV Show

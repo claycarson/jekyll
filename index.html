@@ -15,27 +15,54 @@ layout: default
 			</button>
 </form> -->
 
-<p>If you have been redirected to this site, something has gone horribly wrong but should be resolved shortly.</p>
+<div class="feature">
+<a href="/newsletter"><h2>Newsletter</h2></a>
 
-<p>If you are eager to signup, send me an <a href="mailto:newsletter@claycarson.net">email</a>.</p>
-
-{%for post in site.posts %}
-    {% unless post.next %}
-        <h1>{{ post.date | date: '%Y' }}</h1>
-		<!-- <h2>{{ post.date | date: '%B' }}</h2> -->
-	        <ul>
-	    {% else %}
-	        {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-	        {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-	        {% if year != nyear %}
-	         </ul>
-        <h1>{{ post.date | date: '%Y' }}</h1>
-		<!-- <h2>{{ post.date | date: '%B' }}</h2> -->
- 	   		<ul>
-        {% endif %}
-    {% endunless %}
-    			<li><span><!-- >{{ post.date | date: "%B %-d, %Y" }}</span>-->  <a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a>
-				</li>
+{% for post in site.categories.Newsletter limit:5 %}
+  <li><a href="{{ post.url }}">
+    <p>{{ post.title }}</p>
+  </a></li>
 {% endfor %}
-			</ul>
+</div>
+
+<div class="feature">
+<a href="/status"><h2>Status</h2></a>
+
+{% for post in site.categories.Status limit:5 %}
+  <li><a href="{{ post.url }}">
+    <p>{{ post.date | date_to_string }} » {{ post.excerpt }}</p>
+  </a></li>
+{% endfor %}
+</div>
+
+<div class="feature">
+<a href="/location"><h2>Location</h2></a>
+
+{% for post in site.categories.Location limit:5 %}
+  <li><a href="{{ post.url }}">
+    <p>{{ post.date | date_to_string }} » {{ post.title }}</p>
+  </a></li>
+{% endfor %}
+</div>
+
+<div class="feature">
+<a href="/photo"><h2>Photo</h2></a>
+
+{% for post in site.categories.Photo limit:3 %}
+	<a href="{{ post.url }}">
+  	  <p>{{ post.excerpt }}</p>
+  	</a>
+{% endfor %}
+</div>
+
+<div class="feature">
+<a href="/media"><h2>Media</h2></a>
+
+{% for post in site.categories.Media limit:5 %}
+  <li><a href="{{ post.url }}">
+    <p>{{ post.date | date_to_string }} » {{ post.title }}</p>
+  </a></li>
+{% endfor %}
+</div>
+
 </div>

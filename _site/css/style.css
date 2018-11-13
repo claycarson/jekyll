@@ -3,10 +3,10 @@
 body {
 	font-family: 'ia_writer_duospaceregular', Helvetica, arial, sans-serif;
 	font-size: 14px;
-	line-height: 1.6;
+	line-height: 1.8;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	background-color: white;
+	background-color: #f1f1f1;
 	padding: 30px;
 	letter-spacing:1px;
 	color: #222;
@@ -94,8 +94,6 @@ h1 {
 }
 
 h2 {
-	border-top: 1px dotted #ddd;
-	padding-top: 20px;
 	font-size: 24px;
 	color: #222;
 }
@@ -237,7 +235,7 @@ table {
 
 table tr {
 	border-top: 1px solid #cccccc;
-	background-color: white;
+	background-color: #f1f1f1;
 	margin: 0;
 	padding: 0;
 }
@@ -364,7 +362,7 @@ span.float-right > span {
 code, tt {
 	margin: 0 2px;
 	padding: 0 5px;
-	white-space: nowrap;
+	#f1f1f1-space: nowrap;
 	border: 1px solid #eaeaea;
 	background-color: #f8f8f8;
 	border-radius: 3px;
@@ -373,7 +371,7 @@ code, tt {
 pre code {
 	margin: 0;
 	padding: 0;
-	white-space: pre;
+	#f1f1f1-space: pre;
 	border: none;
 	background: transparent;
 }
@@ -411,7 +409,7 @@ html,body {
  * Header
  */
 .header {
-    background-color: #fff;
+    background-color: #f1f1f1;
 }
 
 .header h1 {
@@ -533,9 +531,11 @@ li {
  * Footer
  */
 .footer {
-    font-size: 12px;
-    text-align: center;
+    font-size: 14px;
+    text-align: left;
 	color: #666;
+	border-top: 1px dotted #222;
+	padding-top: 20px;
 }
 
 #gotop {
@@ -545,6 +545,30 @@ li {
     padding: 10px 15px;    
     font-size: 20px;
     background: #222;
-    color: white;
+    color: #f1f1f1;
     cursor: pointer;
+}
+
+.feature {
+	border-top: 1px dotted #222;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.feature img {
+	float: left;
+    width: 30%;
+    padding: 5px;
+}
+
+.feature img:hover {
+	
+}
+
+.post-content a {
+	color: #cb3816;
+}
+
+.post-content a:hover {
+	color: #222;
 }
