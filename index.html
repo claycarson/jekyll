@@ -30,7 +30,7 @@ layout: default
 
 {% for post in site.categories.Status limit:5 %}
   <li><a href="{{ post.url }}">
-    <p>{{ post.date | date_to_string }} » {{ post.excerpt }}</p>
+    <p>{{ post.date | date_to_string }} » {{ post.excerpt | strip_html }}</p>
   </a></li>
 {% endfor %}
 </div>
@@ -59,6 +59,16 @@ layout: default
 <a href="/media"><h2>Media</h2></a>
 
 {% for post in site.categories.Media limit:5 %}
+  <li><a href="{{ post.url }}">
+    <p>{{ post.date | date_to_string }} » {{ post.category }} » {{ post.title }}</p>
+  </a></li>
+{% endfor %}
+</div>
+
+<div class="feature">
+<a href="/link"><h2>Link</h2></a>
+
+{% for post in site.categories.link limit:5 %}
   <li><a href="{{ post.url }}">
     <p>{{ post.date | date_to_string }} » {{ post.title }}</p>
   </a></li>
