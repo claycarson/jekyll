@@ -49,3 +49,11 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "base",
+        "bigfoot-default",
+        "layout",
+        "syntax-highlighting"
+;

@@ -3,7 +3,7 @@ layout:     post
 title:      September 2017
 date:       2017-09-01
 summary:    
-category: Newsletter
+category: newsletter
 ---
 
 # September 2017
@@ -77,7 +77,7 @@ Get a copy [here](amazon.com "here").
 
 ## Contemplation
 
-A highlight from a book I read this month...
+A highlight from a book I read this month...[^1]
 
 ### Steal Like an Artist: 10 Things Nobody Told You About Being Creative
 
@@ -93,3 +93,5 @@ Do not hesitate to reply to this months email to share links, wisdom, or thought
 Thanks for reading. Have a great month,
 
 Clay
+
+[^1]: This is my glorious and most important footnote

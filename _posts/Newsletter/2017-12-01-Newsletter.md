@@ -2,7 +2,7 @@
 layout: post
 title:  December 2017
 date:   2017-12-01
-category: Newsletter
+category: newsletter
 ---
 
 This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.

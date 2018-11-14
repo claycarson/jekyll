@@ -2,7 +2,7 @@
 layout: post
 title: New Orleans, LA, USA
 date:   2018-11-03
-category: Location
+category: location
 description: 
 ---
 

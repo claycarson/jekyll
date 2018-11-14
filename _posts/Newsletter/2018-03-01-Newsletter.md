@@ -2,7 +2,7 @@
 layout: post
 title:  March 2018
 date:   2018-03-01
-category: Newsletter
+category: newsletter
 ---
 
 This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.

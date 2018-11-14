@@ -13,8 +13,18 @@
   <link rel="stylesheet" href="/css/buttons.css">
   <link rel="canonical" href="http://localhost:4000/newsletter/2017/09/Newsletter">
   <link rel="alternate" type="application/atom+xml" title="Clay Carson" href="http://localhost:4000/feed.xml" />
+  
   <script src="/scripts/jquery-1.11.2.min.js"></script>
   <script src="/scripts/pithy.js"></script>
+  <script type="text/javascript" src="/scripts/bigfoot.js"></script>
+  <script type="text/javascript">
+  	var bigfoot = $.bigfoot(
+  		{
+  		actionOriginalFN: "ignore",
+  		positionContent: "true"
+  		}
+  	);
+  </script>
 
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -32,26 +42,21 @@
 <div class="nav">
 			
 				<li>
-					<a href="/index.html">home</a>
+					<a href="/">home</a>
 				</li>			
 			
 			
 				<li>
-					<a href="/archive.html">archive</a>
+					<a href="/archive">archive</a>
 				</li>			
 			
 			
 				<li>
-					<a href="/category.html">category</a>
-				</li>			
-			
-			
-				<li>
-					<a href="/about.html">about</a>
+					<a href="/about">about</a>
 				</li>			
 			
 		</div>
-		<div class="description"></div>		
+		<div class="description">
 	</div>
 </header>
 
@@ -150,7 +155,7 @@ Start thinking of as many of your favorite movies as you can, and see if they ap
 
 <h2 id="contemplation">Contemplation</h2>
 
-<p>A highlight from a book I read this month…</p>
+<p>A highlight from a book I read this month…<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup></p>
 
 <h3 id="steal-like-an-artist-10-things-nobody-told-you-about-being-creative">Steal Like an Artist: 10 Things Nobody Told You About Being Creative</h3>
 
@@ -168,6 +173,14 @@ Start thinking of as many of your favorite movies as you can, and see if they ap
 <p>Thanks for reading. Have a great month,</p>
 
 <p>Clay</p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>This is my glorious and most important footnote <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
 
   </article>
 <!-- start -->

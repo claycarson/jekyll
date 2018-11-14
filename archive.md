@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: page
+title: Archive
+permalink: /archive
 ---
 
-<div class="well">
 {% capture categories %}{% for category in site.categories %}{{ category | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign category = categories | split:',' | sort %}
 {% for item in (0..site.categories.size) %}{% unless forloop.last %}
@@ -14,5 +15,3 @@ layout: default
 {% endif %}{% endfor %}
 </ul>
 {% endunless %}{% endfor %}
-<br/><br/>
-</div>
