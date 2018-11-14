@@ -1,19 +1,19 @@
 @font-face {
 	font-family: ia_writer_duospacebold;
 	src: url(http://claycarson.net/fonts/ia_writer/iawriterduospace-bold-webfont.woff2) format("woff2"), url(http://claycarson.net/fonts/ia_writer/iawriterduospace-bold-webfont.woff) format("woff");
-	font-weight: 400;
+	font-weight: 300;
 	font-style: normal
 }
 @font-face {
 	font-family: ia_writer_duospacebolditalic;
 	src: url(http://claycarson.net/fonts/ia_writer/iawriterduospace-bolditalic-webfont.woff2) format("woff2"), url(http://claycarson.net/fonts/ia_writer/iawriterduospace-bolditalic-webfont.woff) format("woff");
-	font-weight: 400;
+	font-weight: 300;
 	font-style: normal
 }
 @font-face {
 	font-family: ia_writer_duospaceregular;
 	src: url(http://claycarson.net/fonts/ia_writer/iawriterduospace-regular-webfont.woff2) format("woff2"), url(http://claycarson.net/fonts/ia_writer/iawriterduospace-regular-webfont.woff) format("woff");
-	font-weight: 400;
+	font-weight: 300;
 	font-style: normal
 }
 @font-face {
@@ -32,9 +32,9 @@ body {
 	padding: 30px;
 	letter-spacing: 1px;
 	color: #222;
-	max-width: 50%;
+	max-width: 720px;
 	margin: auto;
-	font-weight: 400;
+	font-weight: 300;
 }
 body>*:first-child {
 	margin-top: 0 !important;
@@ -376,7 +376,7 @@ html, body {
 	border-bottom: none;
 }
 .header-container {
-	max-width: 50%;
+	max-width: 720px;
 	margin: 0px auto;
 }
 .nav {
@@ -515,6 +515,16 @@ li {
 }
 .post-content a:hover {
 	color: #222;
+}
+
+.post-content h1 {
+	font-size: 28px;
+	letter-spacing: 2px;
+}
+
+.post-content h2 {
+	font-size: 20px;
+	letter-spacing: 2px;
 }
 .home {}
 .home h2 a {
