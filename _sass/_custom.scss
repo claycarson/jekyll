@@ -1,31 +1,46 @@
 // Title size
+
 .masthead h1 {
 	font-size: 3rem;
 }
+.masthead ul {
+	padding: 0;
+}
+.masthead li {
+	list-style: none;
+	display: inline;
+	padding: 1rem 3rem 1rem 0;
+}
+
+.masthead a {
+	color: #222;
+}
+
+.masthead a:hover {
+	color: #cb3816;
+}
 
 // Home page feature sections
-.feature {
+
+.home .feature {
 	border-top: 1px dotted #222;
 	padding-top: 2rem;
 	padding-bottom: 2rem;
 }
 
 // Home page feature links
-.feature a {
+.home .feature a {
   color: #222;
-  text-decoration: none;
-
   // `:focus` is linked to `:hover` for basic accessibility
   &:hover,
   &:focus {
-    border-bottom: 1px dotted #222;
+	  color: #cb3816;
   }
 
   strong {
     color: inherit;
   }
 }
-
 
 // Home page photo feature
 * {
@@ -43,16 +58,3 @@
 	display: table;
 }
 .feature-photo img:hover {}
-.post-content a {
-	color: #cb3816;
-	border-bottom: 1px dotted #cb3816;
-}
-
-//
-.post-content a:hover {
-	color: #222;
-	border-bottom: 1px dotted #222;
-}
-
-.post {}
-.page {}
