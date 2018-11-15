@@ -1,2 +1,0 @@
-%%Location 728 
-> The algorithm just does what it does; and unless it is a very special kind of algorithm, it does not care that we clasp our heads and gasp in dumbstruck horror at the absurd inappropriateness of its actions. 

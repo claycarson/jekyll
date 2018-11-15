@@ -1,3 +1,0 @@
-### Chapter 6
-%% Page 60 · Location 686
-> That’s when everything began to reel. The sea carried up a thick, fiery breath. It seemed to me as if the sky split open from one end to the other to rain down fire. My whole being tensed and I squeezed my hand around the revolver. The trigger gave; I felt the smooth underside of the butt; and there, in that noise, sharp and deafening at the same time, is where it all started. I shook off the sweat and sun. I knew that I had shattered the harmony of the day, the exceptional silence of a beach where I’d been happy. Then I fired four more times at the motionless body where the bullets lodged without leaving a trace. And it was like knocking four quick times on the door of unhappiness. 

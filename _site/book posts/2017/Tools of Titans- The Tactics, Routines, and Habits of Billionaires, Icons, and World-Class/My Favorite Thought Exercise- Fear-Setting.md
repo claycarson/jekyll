@@ -1,3 +1,0 @@
-## My Favorite Thought Exercise: Fear-Setting 
-%% Location8051 
-What we fear doing most is usually what we most need to do. As I have heard said, a person’s success in life can usually be measured by the number of uncomfortable conversations he or she is willing to have. Resolve to do one thing every day that you fear. I got into this habit by attempting to contact celebrities and famous businesspeople for advice. 

@@ -1,2 +1,0 @@
-%% Page 46 · %% Location1059 
-> “It is good,” he thought, “to get a taste of everything for oneself, which one needs to know. That lust for the world and riches do not belong to the good things, I have already learned as a child. I have known it for a long time, but I have experienced only now. And now I know it, don’t just know it in my memory, but in my eyes, in my heart, in my stomach. Good for me, to know this!” 

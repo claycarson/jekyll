@@ -1,0 +1,59 @@
+$gray-1: #f1f1f1;
+$gray-2: #ccc;
+$gray-3: #888;
+$gray-4: #666;
+$gray-5: #222;
+
+$red: #cb3816;
+$orange: #d28445;
+$yellow: #f4bf75;
+$green: #90a959;
+$cyan: #75b5aa;
+$blue: #268bd2;
+// $blue: #6a9fb5;
+$brown: #8f5536;
+
+
+@font-face {
+	font-family: ia_writer_duospacebold;
+	src: url(http://claycarson.net/fonts/ia_writer/iawriterduospace-bold-webfont.woff2) format("woff2"), url(http://claycarson.net/fonts/ia_writer/iawriterduospace-bold-webfont.woff) format("woff");
+	font-weight: 600;
+	font-style: normal
+}
+@font-face {
+	font-family: ia_writer_duospacebolditalic;
+	src: url(http://claycarson.net/fonts/ia_writer/iawriterduospace-bolditalic-webfont.woff2) format("woff2"), url(http://claycarson.net/fonts/ia_writer/iawriterduospace-bolditalic-webfont.woff) format("woff");
+	font-weight: 300;
+	font-style: normal
+}
+@font-face {
+	font-family: ia_writer_duospaceregular;
+	src: url(http://claycarson.net/fonts/ia_writer/iawriterduospace-regular-webfont.woff2) format("woff2"), url(http://claycarson.net/fonts/ia_writer/iawriterduospace-regular-webfont.woff) format("woff");
+	font-weight: 300;
+	font-style: normal
+}
+@font-face {
+	font-family: ia_writer_duospaceitalic;
+	src: url(http://claycarson.net/fonts/ia_writer/iawriterduospace-regularitalic-webfont.woff2) format("woff2"), url(http://claycarson.net/fonts/ia_writer/iawriterduospace-regularitalic-webfont.woff) format("woff");
+	font-weight: 300;
+	font-style: normal
+}
+
+//'ia_writer_duospaceregular', 
+
+$root-font-family: 'ia_writer_duospaceregular', Helvetica, arial, sans-serif;
+$root-font-size: 14px;
+$root-line-height: 1.5;
+
+$body-color: #222;
+$body-bg: #f1f1f1;
+$link-color: #cb3816;
+$home-link-color: #222;
+
+$border-color: #222;
+
+$large-breakpoint: 38em;
+$large-font-size: 14px;
+
+$code-font-family: Menlo, Monaco, "Courier New", monospace;
+$code-color: $gray-3;

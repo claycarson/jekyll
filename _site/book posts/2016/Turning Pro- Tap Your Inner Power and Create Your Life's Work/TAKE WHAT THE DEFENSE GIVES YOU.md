@@ -1,3 +1,0 @@
-## TAKE WHAT THE DEFENSE GIVES YOU 
-%% Location 803 
-Two key tenets for days when Resistance is really strong: 1. Take what you can get and stay patient. The defense may crack late in the game. 2. Play for tomorrow. Our role on tough-nut days is to maintain our composure and keep chipping away. We're pros. We're not amateurs. We have patience. We can handle adversity. Tomorrow the defense will give us more, and tomorrow we'll take it. There's a third tenet that underlies the first two: 3. We're in this for the long haul. Our work is a practice. One bad day is nothing to us. Ten bad days are nothing. 

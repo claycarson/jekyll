@@ -1,2 +1,0 @@
-%% Page 2 · Location 214 
-> The need to be better than, more than, recognized for, far past any reasonable utility—that’s ego. It’s the sense of superiority and certainty that exceeds the bounds of confidence and talent. 

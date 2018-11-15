@@ -1,30 +1,25 @@
 ---
 layout: default
 ---
-<div class="post">
-  <br>
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <!-- <p class="post-meta">Posted: {{ page.date | date: "%B %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p> -->
-  </header>
 
-  <article class="post-content">
-    {{ content }}
-  </article>
-<!-- start -->
-	<div class="ds-thread" data-thread-key={{ page.id }} data-title={{ page.title }} data-url={{ site.motto }}/{{ page.url }}></div>
-<!-- end -->
-<!-- start -->
-<script type="text/javascript">
-var duoshuoQuery = {short_name:"pawpaw"};
-	(function() {
-		var ds = document.createElement('script');
-		ds.type = 'text/javascript';ds.async = true;
-		ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
-		ds.charset = 'UTF-8';
-		(document.getElementsByTagName('head')[0] 
-		 || document.getElementsByTagName('body')[0]).appendChild(ds);
-	})();
-	</script>
-<!-- 多说公共JS代码 end -->
-</div>
+<article class="post">
+  <h1 class="post-title">{{ page.title }}</h1>
+  <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date: "%Y-%m-%d" }}</time>
+  {{ content }}
+</article>
+
+<!-- {% if site.related_posts != empty %}
+<aside class="related">
+  <h3>Related posts</h3>
+  <ul class="related-posts">
+    {% for post in site.related_posts limit:3 %}
+      <li>
+        <a href="{{ site.baseurl }}{{ post.url }}">
+          {{ post.title }}
+          <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></small>
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</aside>
+{% endif %} -->

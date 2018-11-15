@@ -1,3 +1,0 @@
-### Defining Good and Bad Values 
-%% Page 88 · Location 1257 
-> When we have poor values—that is, poor standards we set for ourselves and others—we are essentially giving fucks about the things that don’t matter, things that in fact make our life worse. But when we choose better values, we are able to divert our fucks to something better—toward things that matter, things that improve the state of our well-being and that generate happiness, pleasure, and success as side effects.

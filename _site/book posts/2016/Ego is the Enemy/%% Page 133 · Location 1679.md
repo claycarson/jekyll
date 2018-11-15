@@ -1,2 +1,0 @@
-%% Page 133 · Location 1679 
-> For us, it’s beginning to think that we’re better, that we’re special, that our problems and experiences are so incredibly different from everyone else’s that no one could possibly understand. It’s an attitude that has sunk far better people, teams, and causes than ours. 

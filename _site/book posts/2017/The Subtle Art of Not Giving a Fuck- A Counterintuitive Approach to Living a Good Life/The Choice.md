@@ -1,3 +1,0 @@
-### The Choice 
-%% Page 93 · Location 1317 
-> But one night, while reading lectures by the philosopher Charles Peirce, James decided to conduct a little experiment. In his diary, he wrote that he would spend one year believing that he was 100 percent responsible for everything that occurred in his life, no matter what. During this period, he would do everything in his power to change his circumstances, no matter the likelihood of failure. If nothing improved in that year, then it would be apparent that he was truly powerless to the circumstances around him, and then he would take his own life. 

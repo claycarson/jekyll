@@ -1,1 +1,0 @@
-> Besides good fortune, he also possessed another virtue essential for those places: an unlimited capacity for endurance, a silent courage, not innate, not religious, not transcendent, but deliberate and willed hour by hour, a virile patience, which sustained him miraculously to the very edge of collapse.

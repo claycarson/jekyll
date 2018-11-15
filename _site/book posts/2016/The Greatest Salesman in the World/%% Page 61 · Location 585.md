@@ -1,2 +1,0 @@
-%% Page 61 · Location 585 
-> I will greet this day with love in my heart. And how will I confront each whom I meet? In only one way. In silence and to myself I will address him and say I Love You. Though spoken in silence these words will shine in my eyes, unwrinkle my brow, bring a smile to my lips, and echo in my voice; and his heart will be opened. And who is there who will say nay to my goods when his heart feels my love? 

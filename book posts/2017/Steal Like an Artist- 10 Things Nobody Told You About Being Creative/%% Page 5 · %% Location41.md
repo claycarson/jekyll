@@ -1,2 +1,0 @@
-%% Page 5 · %% Location41 
-> How does an artist look at the world? First, you figure out what’s worth stealing, then you move on to the next thing. That’s about all there is to it. When you look at the world this way, you stop worrying about what’s “good” and what’s “bad”—there’s only stuff worth stealing, and stuff that’s not worth stealing. Everything is up for grabs. If you don’t find something worth stealing today, you might find it worth stealing tomorrow or a month or a year from now. 

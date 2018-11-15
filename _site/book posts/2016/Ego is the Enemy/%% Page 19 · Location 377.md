@@ -1,2 +1,0 @@
-%% Page 19 · Location 377 
-> Among men who rise to fame and leadership two types are recognizable—those who are born with a belief in themselves and those in whom it is a slow growth dependent on actual achievement. To the men of the last type their own success is a constant surprise, and its fruits the more delicious, yet to be tested cautiously with a haunting sense of doubt whether it is not all a dream. In that doubt lies true modesty, not the sham of insincere self-depreciation but the modesty of “moderation,” in the Greek sense. It is poise, not pose. 

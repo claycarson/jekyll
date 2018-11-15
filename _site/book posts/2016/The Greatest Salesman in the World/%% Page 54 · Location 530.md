@@ -1,2 +1,0 @@
-%% Page 54 · Location 530 
-> Therefore, if I must be a slave to habit let me be a slave to good habits. My bad habits must be destroyed and new furrows prepared for good seed. I will form good habits and become their slave. 

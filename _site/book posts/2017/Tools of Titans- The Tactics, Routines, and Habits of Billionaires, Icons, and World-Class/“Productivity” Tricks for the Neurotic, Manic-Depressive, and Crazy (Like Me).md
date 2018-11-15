@@ -1,3 +1,0 @@
-## “Productivity” Tricks for the Neurotic, Manic-Depressive, and Crazy (Like Me) 
-%% Location3575 
-“The moment that you feel that, just possibly, you’re walking down the street naked, exposing too much of your heart and your mind and what exists on the inside, showing too much of yourself. That’s the moment you may be starting to get it right.” —Neil Gaiman, University of the Arts commencement speech 

@@ -1,3 +1,0 @@
-## Lazy: A Manifesto 
-%% Location8399 
-I recently learned a neologism that, like political correctness, man cave, and content-provider, I instantly recognized as heralding an ugly new turn in the culture: planshopping. That is, deferring committing to any one plan for an evening until you know what all your options are, and then picking the one that’s most likely to be fun/ advance your career/ have the most girls at it—in other words, treating people like menu options or products in a catalog. 

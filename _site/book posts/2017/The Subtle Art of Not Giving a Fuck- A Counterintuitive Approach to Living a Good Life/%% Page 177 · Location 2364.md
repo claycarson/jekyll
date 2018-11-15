@@ -1,2 +1,0 @@
-%% Page 177 · Location 2364 
-> People can’t solve your problems for you. And they shouldn’t try, because that won’t make you happy. You can’t solve other people’s problems for them either, because that likewise won’t make them happy. 

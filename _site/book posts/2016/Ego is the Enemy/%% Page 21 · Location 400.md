@@ -1,2 +1,0 @@
-%% Page 21 · Location 400 
-> One might say that the ability to evaluate one’s own ability is the most important skill of all. Without it, improvement is impossible. And certainly ego makes it difficult every step of the way. It is certainly more pleasurable to focus on our talents and strengths, but where does that get us? Arrogance and self-absorption inhibit growth. So does fantasy and “vision.” 

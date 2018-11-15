@@ -1,2 +1,0 @@
-%% Page 11 · Location 277 
-> Being open with your insecurities paradoxically makes you more confident and charismatic around others. The pain of honest confrontation is what generates the greatest trust and respect in your relationships. Suffering through your fears and anxieties is what allows you to build courage and perseverance.

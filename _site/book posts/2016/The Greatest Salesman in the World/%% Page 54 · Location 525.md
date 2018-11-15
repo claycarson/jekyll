@@ -1,2 +1,0 @@
-%% Page 54 · Location 525 
-> Good habits are the key to all success. Bad habits are the unlocked door to failure. Thus, the first law I will obey, which precedeth all others is—I will form good habits and become their slave. 

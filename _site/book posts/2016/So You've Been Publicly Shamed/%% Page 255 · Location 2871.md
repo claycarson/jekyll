@@ -1,2 +1,0 @@
-%% Page 255 · Location 2871 
-> There were glimpses of a summer day through the windows, and as a corrections officer let us in, she said that tensions were high because warm days are when a person really feels incarcerated.

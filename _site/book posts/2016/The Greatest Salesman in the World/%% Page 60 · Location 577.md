@@ -1,2 +1,0 @@
-%% Page 60 · Location 577 
-> I will love the ambitious for they can inspire me! I will love the failures for they can teach me. I will love the kings for they are but human; I will love the meek for they are divine. I will love the rich for they are yet lonely; I will love the poor for they are so many. I will love the young for the faith they hold; I will love the old for the wisdom they share. I will love the beautiful for their eyes of sadness; I will love the ugly for their souls of peace. 

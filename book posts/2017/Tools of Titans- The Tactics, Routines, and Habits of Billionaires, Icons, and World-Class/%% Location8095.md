@@ -1,2 +1,0 @@
-%% Location8095 
-Write to Get Ideas, Not to Express Them “What I discovered, which is what many writers discover, is that I write in order to think. I’d say, ‘I think I have an idea,’ but when I begin to write it, I realize, ‘I have no idea,’ and I don’t actually know what I think until I try and write it. . . . That was the revelation.” 

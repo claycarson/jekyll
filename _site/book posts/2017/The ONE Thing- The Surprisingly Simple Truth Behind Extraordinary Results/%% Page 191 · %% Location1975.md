@@ -1,2 +1,0 @@
-%% Page 191 · %% Location1975
-> Seth Godin says, “You can say no with respect, you can say no promptly, and you can say no with a lead to someone who might say yes. But just saying yes because you can’t bear the short-term pain of saying no is not going to help you do the work.” 

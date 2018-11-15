@@ -1,3 +1,0 @@
-## Alexis Ohanian 
-%% Location3556 
-A Damn-Giving Assignment of Less Than 15 Minutes Improve a notification email from your business (e.g., subscription confirmation, order confirmation, whatever): “Invest that little bit of time to make it a little bit more human or—depending on your brand—a little funnier, a little more different, or a little more whatever. It’ll be worth it, and that’s my challenge.” 

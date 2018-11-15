@@ -1,2 +1,0 @@
-%% Page 125 · %% Location1271
-> A college professor once told me, “Gary, you’re smart, but people have lived before you. You’re not the first person to dream big, so you’d be wise to study what others have learned first, and then build your actions on the back of their lessons.” 

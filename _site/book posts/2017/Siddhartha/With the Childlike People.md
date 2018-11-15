@@ -1,3 +1,0 @@
-### With the Childlike People
-%% Page 30 · %% Location692 
-> When, for example, Siddhartha hadn’t learned to fast, he would have to accept any kind of service before this day is up, whether it may be with you or wherever, because hunger would force him to do so. But like this, Siddhartha can wait calmly, he knows no impatience, he knows no emergency, for a long time he can allow hunger to besiege him and can laugh about it.

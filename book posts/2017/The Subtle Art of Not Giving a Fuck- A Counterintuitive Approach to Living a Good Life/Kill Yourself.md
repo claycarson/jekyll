@@ -1,3 +1,0 @@
-### Kill Yourself 
-%% Page 139 · Location 1890 
-> Buddhism argues that your idea of who “you” are is an arbitrary mental construction and that you should let go of the idea that “you” exist at all; that the arbitrary metrics by which you define yourself actually trap you, and thus you’re better off letting go of everything. In a sense, you could say that Buddhism encourages you to not give a fuck. 

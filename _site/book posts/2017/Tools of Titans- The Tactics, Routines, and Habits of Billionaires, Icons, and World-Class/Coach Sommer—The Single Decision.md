@@ -1,3 +1,0 @@
-## Coach Sommer—The Single Decision 
-%% Location2997 
-Strength improvements [for a movement like this] take a minimum of 6 weeks. Any perceived improvements prior to that are simply the result of improved synaptic facilitation. In plain English, the central nervous system simply became more efficient at that particular movement with practice. This is, however, not to be confused with actual strength gains. 

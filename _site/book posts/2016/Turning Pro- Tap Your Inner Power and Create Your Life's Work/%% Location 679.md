@@ -1,2 +1,0 @@
-%% Location 679 
-> The amateur is an acolyte, a groupie. The professional may seek instruction or wisdom from one who is further along in mastery than he, but he does so without surrendering his self-sovereignty. 

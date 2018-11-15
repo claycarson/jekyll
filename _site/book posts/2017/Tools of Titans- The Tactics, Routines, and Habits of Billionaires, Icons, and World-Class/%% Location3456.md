@@ -1,2 +1,0 @@
-%% Location3456 
-“Every time people contact me, they say, ‘Look, I know you must be incredibly busy . . .’ and I always think, ‘No, I’m not.’ Because I’m in control of my time. I’m on top of it. ‘Busy,’ to me, seems to imply ‘out of control.’ Like, ‘Oh my God, I’m so busy. I don’t have any time for this shit!’ 

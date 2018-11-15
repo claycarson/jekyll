@@ -1,2 +1,0 @@
-%% Page 208 · Location 2741 
-> You are already great because in the face of endless confusion and certain death, you continue to choose what to give a fuck about and what not to. This mere fact, this simple optioning for your own values in life, already makes you beautiful, already makes you successful, and already makes you loved. Even if you don’t realize it. Even if you’re sleeping in a gutter and starving. 

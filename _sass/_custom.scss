@@ -1,0 +1,58 @@
+// Title size
+.masthead h1 {
+	font-size: 3rem;
+}
+
+// Home page feature sections
+.feature {
+	border-top: 1px dotted #222;
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+}
+
+// Home page feature links
+.feature a {
+  color: #222;
+  text-decoration: none;
+
+  // `:focus` is linked to `:hover` for basic accessibility
+  &:hover,
+  &:focus {
+    border-bottom: 1px dotted #222;
+  }
+
+  strong {
+    color: inherit;
+  }
+}
+
+
+// Home page photo feature
+* {
+	box-sizing: border-box;
+}
+.img-container {
+	float: left;
+	width: 33.33%;
+	padding-right: .25rem;
+	list-style: none;
+}
+.clearfix::after {
+	content: "";
+	clear: left;
+	display: table;
+}
+.feature-photo img:hover {}
+.post-content a {
+	color: #cb3816;
+	border-bottom: 1px dotted #cb3816;
+}
+
+//
+.post-content a:hover {
+	color: #222;
+	border-bottom: 1px dotted #222;
+}
+
+.post {}
+.page {}

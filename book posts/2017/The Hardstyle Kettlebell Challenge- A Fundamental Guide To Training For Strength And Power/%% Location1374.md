@@ -1,2 +1,0 @@
-%% Location1374 
-So, some programming “rules” are emerging: Do all of the fundamental human movements. Push, pull and squat rep numbers must have the same totals. Use the hinge and loaded carry families to improve athletic qualities and work capacity. Include enough of “everything else” to keep the client functioning and safe. 

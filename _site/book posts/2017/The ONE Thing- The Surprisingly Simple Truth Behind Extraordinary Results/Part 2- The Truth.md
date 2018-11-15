@@ -1,4 +1,0 @@
-## Part 2: The Truth 
-### 10. The Focusing Question
-%% Page 103 · %% Location1035
-> And here is the prime condition of success, the great secret—concentrate your energy, thought and capital exclusively upon the business in which you are engaged. Having begun on one line, resolve to fight it out on that line, to lead in it, adopt every improvement, have the best machinery, and know the most about it. The concerns which fail are those which have scattered their capital, which means that they have scattered their brains also. They have investments in this, or that, or the other, here, there and everywhere. “Don’t put all your eggs in one basket” is all wrong. I tell you “put all your eggs in one basket, and then watch that basket.” Look round you and take notice; men who do that do not often fail. It is easy to watch and carry the one basket. It is trying to carry too many baskets that breaks most eggs in this country. 

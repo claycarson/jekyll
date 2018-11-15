@@ -1,2 +1,0 @@
-%% Page 31 · %% Location721 
-> But he has that mysterious quality of those people to whom success comes all by itself, whether this may be a good star of his birth, magic, or something he has learned among Samanas. He always seems to be merely playing without business-affairs, they never fully become a part of him, they never rule over him, he is never afraid of failure, he is never upset by a loss.”

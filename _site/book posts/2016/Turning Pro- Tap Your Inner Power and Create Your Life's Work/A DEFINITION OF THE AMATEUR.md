@@ -1,3 +1,0 @@
-## A DEFINITION OF THE AMATEUR 
-%% Location 420 
-The amateur is young and dumb. He's innocent, he's good-hearted, he's well-intentioned. The amateur is brave. He's inventive and resourceful. He's willing to take a chance. Like Luke Skywalker, the amateur harbors noble aspirations. He has dreams. He seeks liberation and enlightenment. And he's willing, he hopes, to pay the price. The amateur is not evil or crazy. He's not deluded. He's not demented. The amateur is trying to learn. The amateur is you and me. What exactly is an amateur? How does an amateur view himself and the world? What qualities characterize the amateur?

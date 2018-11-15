@@ -1,2 +1,0 @@
-%% Location282 
-> Here’s the bottom line on cash flow investing--think income—that’s what matters. You are not buying stocks; you are buying additional streams of income that do not require your time. 

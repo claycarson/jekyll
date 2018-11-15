@@ -1,2 +1,0 @@
-%% Page 151 · Location 2032 
-> At some point, most of us reach a place where we’re afraid to fail, where we instinctively avoid failure and stick only to what is placed in front of us or only what we’re already good at. 

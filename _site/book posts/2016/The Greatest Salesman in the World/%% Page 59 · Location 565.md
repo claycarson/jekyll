@@ -1,2 +1,0 @@
-%% Page 59 · Location 565 
-> I will greet this day with love in my heart. And how will I do this? Henceforth will I look on all things with love and I will be born again. I will love the sun for it warms my bones; yet I will love the rain for it cleanses my spirit. I will love the light for it shows me the way; yet I will love the darkness for it shows me the stars. I will welcome happiness for it enlarges my heart; yet I will endure sadness for it opens my soul. I will acknowledge rewards for they are my due; yet I will welcome obstacles for they are my challenge. 

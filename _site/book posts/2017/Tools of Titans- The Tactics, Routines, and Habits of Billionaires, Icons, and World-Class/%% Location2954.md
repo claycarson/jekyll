@@ -1,2 +1,0 @@
-%% Location2954 
-In many of my public talks, I guide a very simple 10-second exercise. I tell the audience members to each identify two human beings in the room and just think, “I wish for this person to be happy, and I wish for that person to be happy.” That is it. I remind them to not do or say anything, just think—this is an entirely thinking exercise. The entire exercise is just 10 seconds’ worth of thinking. 

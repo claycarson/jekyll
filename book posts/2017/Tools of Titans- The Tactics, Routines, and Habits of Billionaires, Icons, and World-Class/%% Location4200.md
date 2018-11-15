@@ -1,2 +1,0 @@
-%% Location4200 
-There is something very odd about a society where the most talented people all get tracked toward the same elite colleges, where they end up studying the same small number of subjects and going into the same small number of careers. 

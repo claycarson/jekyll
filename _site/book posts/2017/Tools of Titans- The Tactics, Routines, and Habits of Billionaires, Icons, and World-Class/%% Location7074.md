@@ -1,2 +1,0 @@
-%% Location7074 
-“All those artists and writers who bemoan how hard the work is, and oh, how tedious the creative process, and oh, what a tortured genius they are. Don’t buy into it. . . . As if difficulty and struggle and torture somehow confer seriousness upon your chosen work. Doing great work simply because you love it, sounds, in our culture, somehow flimsy, and that’s a failing of our culture, not of the choice of work that artists make.” 

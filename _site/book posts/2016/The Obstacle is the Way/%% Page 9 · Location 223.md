@@ -1,2 +1,0 @@
-%% Page 9 · Location 223 
-> Objective judgment, now at this very moment. Unselfish action, now at this very moment. Willing acceptance—now at this very moment—of all external events. That’s all you need. —MARCUS AURELIUS 

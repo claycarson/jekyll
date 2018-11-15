@@ -1,2 +1,0 @@
-%%Location 686 
-> Now, it must be stressed that the demarcation between artificial intelligence and software in general is not sharp. Some of the applications listed above might be viewed more as generic software applications than as AI in particular—though this brings us back to McCarthy’s dictum that when something works it is no longer called AI. 

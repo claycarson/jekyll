@@ -1,2 +1,0 @@
-%% Page 168 · Location 2247 
-> Travel is a fantastic self-development tool, because it extricates you from the values of your culture and shows you that another society can live with entirely different values and still function and not hate themselves. This exposure to different cultural values and metrics then forces you to reexamine what seems obvious in your own life and to consider that perhaps it’s not necessarily the best way to live. 

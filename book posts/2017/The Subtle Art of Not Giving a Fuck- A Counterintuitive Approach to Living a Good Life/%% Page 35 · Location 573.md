@@ -1,2 +1,0 @@
-%% Page 35 · Location 573 
-> Decision-making based on emotional intuition, without the aid of reason to keep it in line, pretty much always sucks. You know who bases their entire lives on their emotions? Three-year-old kids. And dogs. You know what else three-year-olds and dogs do? Shit on the carpet. 

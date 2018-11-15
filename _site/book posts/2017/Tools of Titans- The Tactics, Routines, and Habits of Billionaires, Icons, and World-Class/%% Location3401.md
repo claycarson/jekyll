@@ -1,2 +1,0 @@
-%% Location3401 
-This is genius. Ricardo Semler, CEO and majority owner of the Brazil-based Semco Partners, practices asking “Why?” three times. This is true when questioning his own motives, or when tackling big projects. The rationale is identical to Derek’s. 

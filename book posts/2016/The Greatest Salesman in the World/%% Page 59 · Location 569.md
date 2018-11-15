@@ -1,2 +1,0 @@
-%% Page 59 · Location 569 
-> I will greet this day with love in my heart. And how will I speak? I will laud mine enemies and they will become friends; I will encourage my friends and they will become brothers. Always will I dig for reasons to applaud; never will I scratch for excuses to gossip. When I am tempted to criticize I will bite on my tongue; when I am moved to praise I will shout from the roofs. 

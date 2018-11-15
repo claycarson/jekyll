@@ -1,2 +1,0 @@
-%% Location7000 
-“I would never have guessed this. First of all, the sensation, just holding that snowball. But also the implied, inherent perspective that it helped me have. That everything changes. Snow becomes water. It’s beautiful because it changes. Things are fleeting. It felt so beautiful to be part of this weird world in that moment. I felt part of the world again, rather than removed from it. It was potent.” 

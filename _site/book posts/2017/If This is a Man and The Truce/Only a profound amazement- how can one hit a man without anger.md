@@ -1,1 +1,0 @@
-> Only a profound amazement: how can one hit a man without anger?

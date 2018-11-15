@@ -1,2 +1,0 @@
-%% Page 158 · Location 2124 
-> Learn to sustain the pain you’ve chosen. When you choose a new value, you are choosing to introduce a new form of pain into your life. Relish it. Savor it. Welcome it with open arms. Then act despite it. 

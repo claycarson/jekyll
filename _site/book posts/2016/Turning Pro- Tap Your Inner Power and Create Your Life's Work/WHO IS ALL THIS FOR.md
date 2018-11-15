@@ -1,3 +1,0 @@
-## WHO IS ALL THIS FOR? 
-%% Location 897 
-I will gladly shell out $24.95 or $9.99 or 99 cents on iTunes to read or see or listen to the 24-karat treasure that you have refined from your pain and your vision and your imagination. I need it. We all do. We're struggling here in the trenches. That beauty, that wisdom, those thrills and chills, even that mindless escape on a rainy October afternoon —I want it. Put me down for it. The hero wanders. The hero suffers. The hero returns. You are that hero. 

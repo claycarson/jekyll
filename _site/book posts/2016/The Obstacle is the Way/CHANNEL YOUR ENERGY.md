@@ -1,3 +1,0 @@
-### CHANNEL YOUR ENERGY
-%% Page 116 · Location 1415 
-> To be physically and mentally loose takes no talent. That’s just recklessness. (We want right action, not action period.) To be physically and mentally tight? That’s called anxiety. It doesn’t work, either. Eventually we snap. But physical looseness combined with mental restraint? That is powerful. It’s a power that drives our opponents and competitors nuts. They think we’re toying with them. It’s maddening—like we aren’t even trying, like we’ve tuned out the world. Like we’re immune to external stressors and limitations on the march toward our goals. Because we are. 

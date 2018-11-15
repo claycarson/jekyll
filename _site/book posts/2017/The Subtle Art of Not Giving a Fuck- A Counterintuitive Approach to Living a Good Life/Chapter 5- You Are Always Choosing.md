@@ -1,3 +1,0 @@
-## Chapter 5: You Are Always Choosing
-%% Page 90 · Location 1279 
-> But when you chose it freely and prepared for it, it was a glorious and important milestone in your life. When it was forced upon you against your will, it was one of the most terrifying and painful experiences of your life. Often the only difference between a problem being painful or being powerful is a sense that we chose it, and that we are responsible for it. 

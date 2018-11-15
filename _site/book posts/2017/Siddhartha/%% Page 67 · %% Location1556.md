@@ -1,2 +1,0 @@
-%% Page 67 · %% Location1556 
-> I see whatever exists as good, death is to me like life, sin like holiness, wisdom like foolishness, everything has to be as it is, everything only requires my consent, only my willingness, my loving agreement, to be good for me, to do nothing but work for my benefit, to be unable to ever harm me. 
