@@ -4,7 +4,7 @@ title: "Pokemon Branding"
 date: January 29, 2015 10:06:58
 tags: pokemon games advertising
 category:
-- link
+- Link
 link: http://pictogram.agency/pokemonbranding/
 ---
 

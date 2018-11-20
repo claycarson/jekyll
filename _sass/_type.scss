@@ -56,8 +56,8 @@ hr {
   position: relative;
   margin: 1.5rem 0;
   border: 0;
-  border-top: 1px dotted #222;
-  border-bottom: 1px dotted $gray-1;
+  border-top: 4px solid $gray-5;
+  border-bottom: 4px solid $gray-1;
 }
 
 abbr {
@@ -68,16 +68,16 @@ abbr {
 
   &[title] {
     cursor: help;
-    border-bottom: 1px dotted $gray-4;
+    border-bottom: 1px solid $gray-4;
   }
 }
 
 blockquote {
-  font-style: italic;
+  font-family: 'ia_writer_duospaceitalic', Helvetica, arial, sans-serif;
   padding: .5rem 0rem .5rem 1rem;
-  margin: .8rem 0rem .8rem 1rem;
-  color: $gray-3;
-  border-left: .25rem solid $gray-2;
+  margin: 2rem 0rem 2rem 1rem;
+  color: $gray-4;
+  border-left: .25rem solid $gray-5;
 
   p:last-child {
     margin-bottom: 0;

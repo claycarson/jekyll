@@ -6,7 +6,7 @@ tags:
 - toilet
 - bathroom
 category:
-- link
+- Link
 link: http://priceonomics.com/why-cant-we-build-a-splash-proof-toilet/
 ---
 

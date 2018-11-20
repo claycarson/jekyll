@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 15 Nov 2018 16:17:30 -0600</pubDate>
-    <lastBuildDate>Thu, 15 Nov 2018 16:17:30 -0600</lastBuildDate>
+    <pubDate>Mon, 19 Nov 2018 19:16:10 -0600</pubDate>
+    <lastBuildDate>Mon, 19 Nov 2018 19:16:10 -0600</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
     
       <item>
@@ -18,7 +18,7 @@
         <guid isPermaLink="true">http://localhost:4000/location/2018/11/Louisiana</guid>
         
         
-        <category>location</category>
+        <category>Location</category>
         
       </item>
     
@@ -101,7 +101,7 @@
         <guid isPermaLink="true">http://localhost:4000/newsletter/2018/11/Newsletter</guid>
         
         
-        <category>newsletter</category>
+        <category>Newsletter</category>
         
       </item>
     
@@ -122,7 +122,7 @@
         <guid isPermaLink="true">http://localhost:4000/photo/2018/10/Greece</guid>
         
         
-        <category>photo</category>
+        <category>Photo</category>
         
       </item>
     
@@ -143,7 +143,7 @@
         <guid isPermaLink="true">http://localhost:4000/photo/2018/10/Greece-copy</guid>
         
         
-        <category>photo</category>
+        <category>Photo</category>
         
       </item>
     
@@ -164,7 +164,7 @@
         <guid isPermaLink="true">http://localhost:4000/photo/2018/10/Greece-copy-2</guid>
         
         
-        <category>photo</category>
+        <category>Photo</category>
         
       </item>
     
@@ -178,7 +178,7 @@
         <guid isPermaLink="true">http://localhost:4000/location/2018/10/Greece</guid>
         
         
-        <category>location</category>
+        <category>Location</category>
         
       </item>
     
@@ -226,7 +226,7 @@
         <guid isPermaLink="true">http://localhost:4000/newsletter/2018/10/Newsletter</guid>
         
         
-        <category>newsletter</category>
+        <category>Newsletter</category>
         
       </item>
     
@@ -240,7 +240,7 @@
         <guid isPermaLink="true">http://localhost:4000/location/2018/09/Greece</guid>
         
         
-        <category>location</category>
+        <category>Location</category>
         
       </item>
     
@@ -254,7 +254,7 @@
         <guid isPermaLink="true">http://localhost:4000/location/2018/09/Mexico</guid>
         
         
-        <category>location</category>
+        <category>Location</category>
         
       </item>
     
@@ -307,7 +307,7 @@
         <guid isPermaLink="true">http://localhost:4000/newsletter/2018/09/Newsletter</guid>
         
         
-        <category>newsletter</category>
+        <category>Newsletter</category>
         
       </item>
     

@@ -5,7 +5,7 @@ date: 2015-10-06 09:10:47
 tags:
 - games
 category:
-- link
+- Link
 link: http://www.todayifoundout.com/index.php/2015/10/ghosts-pac-man-work/
 ---
 

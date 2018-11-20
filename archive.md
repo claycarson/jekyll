@@ -11,7 +11,7 @@ permalink: /archive
 <h2 class="category" id="{{ word }}">{{ word }}</h2>
 <ul>
 {% for post in site.categories[word] %}{% if post.title != null %}
-<li><span>{{ post.date | date: "%b %d %Y" }}</span>» <a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
+<li><span>{{ post.date | date: "%b %d %Y" }}</span> » <a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
 {% endif %}{% endfor %}
 </ul>
 {% endunless %}{% endfor %}

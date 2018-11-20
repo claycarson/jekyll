@@ -7,7 +7,7 @@ tags:
 - Nintendo
 - video
 category:
-- link
+- Link
 link: http://qz.com/429862/the-original-super-mario-game-was-designed-on-graph-paper/
 ---
 

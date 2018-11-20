@@ -4,7 +4,7 @@ title: "The 22 Rules of Backyard Wiffle Ball"
 date: June 30, 2011 21:03:56
 tags: baseball sports
 category:
-- link
+- Link
 link: http://online.wsj.com/article/SB10001424052702304450604576416022939358358.html
 
 ---

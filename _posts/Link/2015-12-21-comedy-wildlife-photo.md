@@ -8,6 +8,6 @@ tags:
 - photography
 - wildlife
 category:
-- link
+- Link
 link: http://comedywildlifephoto.com/?page_id=36
 ---

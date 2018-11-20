@@ -9,7 +9,7 @@ tags:
 - ted
 - video
 category:
-- link
+- Link
 link: http://ed.ted.com/lessons/how-do-pregnancy-tests-work-tien-nguyen
 ---
 

@@ -4,7 +4,7 @@ title: "Remembering Auschwitz: 70 Years After Liberation"
 date: February 3, 2015 10:06:02
 tags: world photography
 category:
-- link
+- Link
 link: http://www.theatlantic.com/photo/2015/01/remembering-auschwitz-70-years-after-liberation/384835/
 ---
 

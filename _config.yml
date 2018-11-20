@@ -33,6 +33,6 @@ markdown: kramdown
 excerpt_separator: <!--more-->
 
 # Gems
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-gist

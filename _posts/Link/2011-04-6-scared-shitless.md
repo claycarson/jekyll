@@ -4,7 +4,7 @@ title: "Scared Shitless: How I (Mostly) Learned to Love Being Afraid of Pretty M
 date: April 6, 2011 15:25:56
 tags: fear motivation
 category:
-- link
+- Link
 link: http://www.webstock.org.nz/talks/speakers/merlin-mann/scared-shitless-how-i-mostly-learned-love-being-af/
 
 ---

@@ -28,31 +28,30 @@
 .post-title h1, h2, h3, h4, h5, h6 {
   font-family: 'ia_writer_duospacebold', Helvetica, arial, sans-serif;
   margin-bottom: 1rem;
-  font-weight: 600;
   line-height: 1.25;
   color: $gray-5;
   text-rendering: optimizeLegibility;
 }
 
 .post-title h1 {
-  font-size: 3rem;
+  font-size: 2rem;
 }
 
 .post-title h2 a {
-	font-size: 1rem;
+	font-size: 2rem;
 }
 
 .post-content h2 {
   margin-top: 1rem;
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 
 .post-content h2 a {
-	color: #222;
+	color: $gray-5;
   // `:focus` is linked to `:hover` for basic accessibility
   &:hover,
   &:focus {
-	  color: #cb3816;
+	  color: $red;
   }
 
   strong {
@@ -73,7 +72,7 @@
 
 .post-content a {
 	color: $red;
-	border-bottom: 1px dotted $gray-5;
+	border-bottom: 1px solid;
 }
 
 .post-content a:hover {

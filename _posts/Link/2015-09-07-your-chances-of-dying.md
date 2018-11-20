@@ -7,7 +7,7 @@ tags:
 - statistics
 - infographic
 category:
-- link
+- Link
 link: https://i.imgur.com/Y6Fu7O1.jpg
 ---
 

@@ -4,8 +4,7 @@ title: "Hello World 3.0"
 date: December 18, 2014 12:11:58
 tags: welcome hello jekyll blog github
 category:
-- article
-link:
+- Article
 ---
 
 I've had a blog of some sorts off and on since late 2006. I never really wrote much except for a few 'tip' type posts for Mac OS X. A couple of years after that I started tweaking things on my site and figured out how to do [Daring Fireball](daringfireball.net) style link posts on [Wordpress](https://wordpress.org).

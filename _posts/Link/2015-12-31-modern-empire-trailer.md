@@ -6,7 +6,7 @@ tags:
 - video
 - Star Wars
 category:
-- link
+- Link
 link: https://m.youtube.com/watch?v=xESiohGGP7g&time_continue=133
 ---
 

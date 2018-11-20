@@ -4,7 +4,7 @@ title: "Cracking The Credit Card Code"
 date: January 24, 2011 3:30:56
 tags: credit finance
 category:
-- link
+- Link
 link: http://www.mint.com/blog/trends/credit-card-code-01202011/
 
 ---

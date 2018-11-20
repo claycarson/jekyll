@@ -7,7 +7,7 @@ tags:
 - USA
 - Video
 category:
-- link
+- Link
 link: http://espn.go.com/video/clip?id=13617860
 ---
 

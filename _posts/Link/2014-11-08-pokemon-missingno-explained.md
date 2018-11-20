@@ -4,7 +4,7 @@ title: "Pokémon's Famous Missingno Glitch, Explained"
 date: November 8, 2014 17:13:43
 tags: pokemon games
 category:
-- link
+- Link
 link: http://kotaku.com/pokemons-famous-missingno-glitch-explained-1653929141
 ---
 

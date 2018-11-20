@@ -4,7 +4,7 @@ title: "Catching the Catch on Camera"
 date: November 25, 2014 09:27:46
 tags: photography sports football
 category:
-- link
+- Link
 link: http://www.nytimes.com/2014/11/25/sports/football/catch-by-giants-odell-beckham-jr-made-for-a-great-picture.html
 ---
 

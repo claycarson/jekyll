@@ -4,7 +4,7 @@ title: "Could There Be a Batman?"
 date: May 27, 2011 23:23:56
 tags: superheroes batman superman technology
 category:
-- link
+- Link
 link: http://www.quora.com/Superheroes/Given-our-current-technology-and-with-the-proper-training-would-it-be-possible-for-someone-to-become-Batman
 
 ---

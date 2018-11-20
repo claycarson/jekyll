@@ -4,7 +4,7 @@ title: "People Cannot Walk in a Straight Line"
 date: February 9, 2011 5:20:56
 tags: video funny
 category:
-- link
+- Link
 link: http://www.youtube.com/watch?v=dIl4ZPy-USY
 
 ---

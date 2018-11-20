@@ -23,7 +23,7 @@
 // Home page feature sections
 
 .home .feature {
-	border-top: 1px dotted #222;
+	border-top: 4px solid #222;
 	padding-top: 2rem;
 	padding-bottom: 2rem;
 }
@@ -40,6 +40,10 @@
   strong {
     color: inherit;
   }
+}
+
+.home .feature h2 a {
+	font-size: 2rem;
 }
 
 // Home page photo feature

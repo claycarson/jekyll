@@ -4,7 +4,7 @@ title: "It Ain't Blood, People"
 date: September 30, 2011 15:35:56
 tags: food steak meal health
 category:
-- link
+- Link
 link: http://www.todayifoundout.com/index.php/2010/04/the-red-juice-in-raw-red-meat-is-not-blood/
 
 ---

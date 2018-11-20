@@ -4,7 +4,7 @@
  <title>Clay Carson</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-11-15T16:17:30-06:00</updated>
+ <updated>2018-11-19T19:16:10-06:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Clay Carson</name>
@@ -824,9 +824,9 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Living With a Seal</title>
-   <link href="http://localhost:4000/media/book/2018/01/Living-with-a-seal"/>
+   <link href="http://localhost:4000/media/2018/01/Living-with-a-seal"/>
    <updated>2018-01-06T00:00:00-06:00</updated>
-   <id>http://localhost:4000/media/book/2018/01/Living-with-a-seal</id>
+   <id>http://localhost:4000/media/2018/01/Living-with-a-seal</id>
    <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut dapibus leo. Maecenas in lacus fermentum dolor viverra cursus. Curabitur cursus magna eget nisi viverra porta. Donec semper dolor sit amet quam blandit vel pellentesque velit lobortis. Aliquam in ante eget nibh imperdiet eleifend. Vestibulum ornare lobortis diam viverra pellentesque. Aenean cursus dignissim mi in tincidunt. Quisque eu lectus sed risus congue tincidunt in eu mi. Etiam ac ligula felis. Integer et dui quam. Sed condimentum libero quis mauris malesuada laoreet. Donec dictum luctus mi, ut laoreet nisl consequat in. Sed non condimentum velit. Nullam interdum, velit eget commodo dictum, nisl neque varius lacus, a pharetra lorem dolor tempus dolor. Curabitur vitae velit elit. Phasellus in lacus velit, eget faucibus neque. Donec dolor purus, imperdiet quis iaculis aliquam, aliquam non magna. Donec pharetra metus a quam tincidunt cursus. Suspendisse potenti.&lt;/p&gt;
 </content>
  </entry>

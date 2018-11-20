@@ -6,7 +6,7 @@ layout: default
 <div class="feature">
 <h2><a href="/newsletter">Newsletter</a></h2>
 <span id="newsletter">
-{% for post in site.categories.newsletter limit:5 %}
+{% for post in site.categories.Newsletter limit:5 %}
   <li><a href="{{ post.url }}">
     <p>{{ post.title }}</p>
   </a></li>
@@ -30,7 +30,7 @@ layout: default
 <div class="feature">
 <h2><a href="/status">Status</a></h2>
 <span id="status">
-{% for post in site.categories.status limit:5 %}
+{% for post in site.categories.Status limit:5 %}
   <li><a href="{{ post.url }}">
     <p>{{ post.date | date: "%Y-%m-%d" }} » {{ post.excerpt | strip_html }}</p>
   </a></li>
@@ -41,7 +41,7 @@ layout: default
 <div class="feature">
 <h2><a href="/location">Location</a></h2>
 <span id="status">
-{% for post in site.categories.location limit:5 %}
+{% for post in site.categories.Location limit:5 %}
   <li><a href="{{ post.url }}">
     <p>{{ post.date | date: "%Y-%m-%d" }} » {{ post.title | strip_html }}</p>
   </a></li>
@@ -53,7 +53,7 @@ layout: default
 <h2><a href="/photo">Photo</a></h2>
 <span id="photo">
 <div class="clearfix">
-{% for post in site.categories.photo limit:3 %}
+{% for post in site.categories.Photo limit:3 %}
   <a href="{{ post.url }}">
 		<div class="img-container">
 			<li><p> {{ post.excerpt }} </p></li>
@@ -65,9 +65,20 @@ layout: default
 </div>
 
 <div class="feature">
+<h2><a href="/media">Media</a></h2>
+<span id="media">
+{% for post in site.categories.Media limit:5 %}
+  <li><a href="{{ post.url }}">
+    <p>{{ post.date | date: "%Y-%m-%d" }} » {{post.tags}} » {{ post.title }}</p>
+  </a></li>
+{% endfor %}
+</span>
+</div>
+
+<div class="feature">
 <h2><a href="/link">Link</a></h2>
 <span id="link">
-{% for post in site.categories.link limit:5 %}
+{% for post in site.categories.Link limit:5 %}
   <li><a href="{{ post.url }}">
     <p>{{ post.date | date: "%Y-%m-%d" }} » {{ post.title }}</p>
   </a></li>
