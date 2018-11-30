@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 19 Nov 2018 19:16:10 -0600</pubDate>
-    <lastBuildDate>Mon, 19 Nov 2018 19:16:10 -0600</lastBuildDate>
+    <pubDate>Tue, 20 Nov 2018 17:47:24 -0600</pubDate>
+    <lastBuildDate>Tue, 20 Nov 2018 17:47:24 -0600</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
     
       <item>
@@ -160,6 +160,27 @@
 &lt;img src=&quot;/images/Greece/greece-publish-8.jpg&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 07 Oct 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/photo/2018/10/Greece-copy-3</link>
+        <guid isPermaLink="true">http://localhost:4000/photo/2018/10/Greece-copy-3</guid>
+        
+        
+        <category>Photo</category>
+        
+      </item>
+    
+      <item>
+        <title>Greece</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/Greece/greece-publish-1.jpg&quot; /&gt;
+&lt;!--more--&gt;
+&lt;img src=&quot;/images/Greece/greece-publish-2.jpg&quot; /&gt;
+&lt;img src=&quot;/images/Greece/greece-publish-3.jpg&quot; /&gt;
+&lt;img src=&quot;/images/Greece/greece-publish-4.jpg&quot; /&gt;
+&lt;img src=&quot;/images/Greece/greece-publish-5.jpg&quot; /&gt;
+&lt;img src=&quot;/images/Greece/greece-publish-6.jpg&quot; /&gt;
+&lt;img src=&quot;/images/Greece/greece-publish-7.jpg&quot; /&gt;
+&lt;img src=&quot;/images/Greece/greece-publish-8.jpg&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 07 Oct 2018 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/photo/2018/10/Greece-copy-2</link>
         <guid isPermaLink="true">http://localhost:4000/photo/2018/10/Greece-copy-2</guid>
         
@@ -255,59 +276,6 @@
         
         
         <category>Location</category>
-        
-      </item>
-    
-      <item>
-        <title>September 2018</title>
-        <description>&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
-
-&lt;p&gt;You can follow me more closely at &lt;a href=&quot;http://claycarson.net&quot; title=&quot;Personal Website&quot;&gt;my personal website&lt;/a&gt; or if you or someone you know is looking to buy or sell a home, you can point them to &lt;a href=&quot;http://claycarson.com&quot; title=&quot;Business Website &quot;&gt;my real estate website&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;dun-dundunnnn&quot;&gt;Dun-Dun—Dunnnn&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://melmagazine.com/an-oral-history-of-goldeneye-007-on-the-n64-129844f1c5ab&quot;&gt;An Oral History of ‘GoldenEye 007’ on the N64&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;GoldenEye 007 was originally planned to be a 2D, single-player side-scrolling game, much like Donkey Kong, another game that British developers Rare were producing at the time for the SNES. However, lead developer Martin Hollis suggested it be a 3D first-person shooter for the Nintendo 64, a system and technology that didn’t even fully exist yet. He got his way, and assembled a ragtag team of new-to-gaming developers to begin working on what was expected to be “just another film license” game — games that typically rode the movie’s fame, but didn’t prove to be smash hits, critically or commercially.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;And just to cut to the chase…&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Oddjob is cheating: He is banned. That said, I have only played with a caliber of people who would never consider choosing him, so it has never been an issue.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;rich-uncle-pennybags&quot;&gt;Rich Uncle Pennybags&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.thedailybeast.com/how-an-ex-cop-rigged-mcdonalds-monopoly-game-and-stole-millions&quot; title=&quot;How an Ex-Cop Rigged McDonald’s Monopoly Game and Stole Millions&quot;&gt;How an Ex-Cop Rigged McDonald’s Monopoly Game and Stole Millions&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Jerome Jacobson and his network of mobsters, psychics, strip-club owners, and drug traffickers won almost every prize for 12 years, until the FBI launched Operation ‘Final Answer.’&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;around-the-web&quot;&gt;Around The Web&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://youtu.be/A8zWWp0akUU&quot; title=&quot;What If English Were Phonetically Consistent?&quot;&gt;What If English Were Phonetically Consistent?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://kottke.org/18/08/a-comprehensive-guide-to-yellow-stripey-things&quot; title=&quot;A Comprehensive Guide to Yellow Stripey Things&quot;&gt;A Comprehensive Guide to Yellow Stripey Things&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2018/08/06/sports/sports-cliches-metaphors.html&quot; title=&quot;We Use Sports Terms All the Time. But Where Do They Come From?&quot;&gt;Where Do Sports Terms Come From?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;sign-off&quot;&gt;Sign Off&lt;/h2&gt;
-
-&lt;p&gt;Do not hesitate to reply to this months email to share links, wisdom, or thoughts.&lt;/p&gt;
-
-&lt;p&gt;Thanks for reading. Have a great month,&lt;/p&gt;
-
-&lt;p&gt;Clay&lt;/p&gt;
-</description>
-        <pubDate>Sat, 01 Sep 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/newsletter/2018/09/Newsletter</link>
-        <guid isPermaLink="true">http://localhost:4000/newsletter/2018/09/Newsletter</guid>
-        
-        
-        <category>Newsletter</category>
         
       </item>
     

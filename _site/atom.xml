@@ -4,7 +4,7 @@
  <title>Clay Carson</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-11-19T19:16:10-06:00</updated>
+ <updated>2018-11-20T17:47:24-06:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Clay Carson</name>
@@ -122,6 +122,23 @@
    <link href="http://localhost:4000/photo/2018/10/Greece-copy"/>
    <updated>2018-10-07T00:00:00-05:00</updated>
    <id>http://localhost:4000/photo/2018/10/Greece copy</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/images/Greece/greece-publish-1.jpg&quot; /&gt;
+&lt;!--more--&gt;
+&lt;img src=&quot;/images/Greece/greece-publish-2.jpg&quot; /&gt;
+&lt;img src=&quot;/images/Greece/greece-publish-3.jpg&quot; /&gt;
+&lt;img src=&quot;/images/Greece/greece-publish-4.jpg&quot; /&gt;
+&lt;img src=&quot;/images/Greece/greece-publish-5.jpg&quot; /&gt;
+&lt;img src=&quot;/images/Greece/greece-publish-6.jpg&quot; /&gt;
+&lt;img src=&quot;/images/Greece/greece-publish-7.jpg&quot; /&gt;
+&lt;img src=&quot;/images/Greece/greece-publish-8.jpg&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Greece</title>
+   <link href="http://localhost:4000/photo/2018/10/Greece-copy-3"/>
+   <updated>2018-10-07T00:00:00-05:00</updated>
+   <id>http://localhost:4000/photo/2018/10/Greece copy 3</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/images/Greece/greece-publish-1.jpg&quot; /&gt;
 &lt;!--more--&gt;
 &lt;img src=&quot;/images/Greece/greece-publish-2.jpg&quot; /&gt;
