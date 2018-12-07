@@ -1,0 +1,22 @@
+---
+id: 424
+title: '$200 Million Movie Budget: What Everyone Earns'
+date: 2016-06-08T11:34:23+00:00
+author: claycarson
+layout: post
+guid: http://claycarson.net/?p=424
+permalink: /2016/06/08/200-million-movie-budget-what-everyone-earns/
+linked_list_url:
+  - https://thescene.com/watch/vanityfair/200-million-movie-budget-what-everyone-earns
+categories:
+  - Video
+tags:
+  - money
+  - movies
+  - video
+format: video
+---
+<div style="margin:10px 0; text-align:center;">
+</div>
+
+> Find out the budget breakdown of a hypothetical Hollywood blockbuster.
