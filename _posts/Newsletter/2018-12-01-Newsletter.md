@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  December 2018
-date:   2018-12-01
+date:   2018-12-15
 category: Newsletter
 description: 
 ---
