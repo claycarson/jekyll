@@ -5,62 +5,9 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 21 Dec 2018 09:32:33 -0600</pubDate>
-    <lastBuildDate>Fri, 21 Dec 2018 09:32:33 -0600</lastBuildDate>
+    <pubDate>Fri, 21 Dec 2018 10:23:52 -0600</pubDate>
+    <lastBuildDate>Fri, 21 Dec 2018 10:23:52 -0600</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
-    
-      <item>
-        <title>2265</title>
-        <description>&lt;p&gt;I finished watching &lt;a href=&quot;https://m.imdb.com/title/tt0113277/?ref=m_nv_sr_1&quot;&gt;Heat&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 05 Dec 2018 16:37:09 -0600</pubDate>
-        <link>http://localhost:4000/2018/12/05/2265/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/12/05/2265/</guid>
-        
-        
-        <category>Movie</category>
-        
-      </item>
-    
-      <item>
-        <title>2263</title>
-        <description>&lt;p&gt;I finished watching &lt;a href=&quot;https://m.imdb.com/title/tt0074119/?ref=m_nv_sr_1&quot;&gt;All the President’s Men&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 05 Dec 2018 06:16:55 -0600</pubDate>
-        <link>http://localhost:4000/2018/12/05/2263/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/12/05/2263/</guid>
-        
-        
-        <category>Movie</category>
-        
-      </item>
-    
-      <item>
-        <title>2261</title>
-        <description>&lt;p&gt;I finished watching &lt;a href=&quot;https://m.imdb.com/title/tt1727824/&quot;&gt;Bohemian Rhapsody&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 05 Dec 2018 03:40:19 -0600</pubDate>
-        <link>http://localhost:4000/2018/12/05/2261/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/12/05/2261/</guid>
-        
-        
-        <category>Movie</category>
-        
-      </item>
-    
-      <item>
-        <title>2259</title>
-        <description>&lt;p&gt;I finished listening to &lt;a href=&quot;https://www.audible.com/pd/Creative-Selection-Audiobook/B07D416JT3&quot;&gt;Creative Selection&lt;/a&gt;.
-&lt;!--more--&gt;&lt;!--more--&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 05 Dec 2018 03:39:00 -0600</pubDate>
-        <link>http://localhost:4000/2018/12/05/2259/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/12/05/2259/</guid>
-        
-        
-        <category>Audiobook</category>
-        
-      </item>
     
       <item>
         <title>December 2018</title>
@@ -140,12 +87,65 @@
 
 &lt;p&gt;Clay&lt;/p&gt;
 </description>
-        <pubDate>Sat, 01 Dec 2018 00:00:00 -0600</pubDate>
+        <pubDate>Sat, 15 Dec 2018 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/newsletter/2018/12/Newsletter</link>
         <guid isPermaLink="true">http://localhost:4000/newsletter/2018/12/Newsletter</guid>
         
         
         <category>Newsletter</category>
+        
+      </item>
+    
+      <item>
+        <title>2265</title>
+        <description>&lt;p&gt;I finished watching &lt;a href=&quot;https://m.imdb.com/title/tt0113277/?ref=m_nv_sr_1&quot;&gt;Heat&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 05 Dec 2018 16:37:09 -0600</pubDate>
+        <link>http://localhost:4000/2018/12/05/2265/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/12/05/2265/</guid>
+        
+        
+        <category>Movie</category>
+        
+      </item>
+    
+      <item>
+        <title>2263</title>
+        <description>&lt;p&gt;I finished watching &lt;a href=&quot;https://m.imdb.com/title/tt0074119/?ref=m_nv_sr_1&quot;&gt;All the President’s Men&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 05 Dec 2018 06:16:55 -0600</pubDate>
+        <link>http://localhost:4000/2018/12/05/2263/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/12/05/2263/</guid>
+        
+        
+        <category>Movie</category>
+        
+      </item>
+    
+      <item>
+        <title>2261</title>
+        <description>&lt;p&gt;I finished watching &lt;a href=&quot;https://m.imdb.com/title/tt1727824/&quot;&gt;Bohemian Rhapsody&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 05 Dec 2018 03:40:19 -0600</pubDate>
+        <link>http://localhost:4000/2018/12/05/2261/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/12/05/2261/</guid>
+        
+        
+        <category>Movie</category>
+        
+      </item>
+    
+      <item>
+        <title>2259</title>
+        <description>&lt;p&gt;I finished listening to &lt;a href=&quot;https://www.audible.com/pd/Creative-Selection-Audiobook/B07D416JT3&quot;&gt;Creative Selection&lt;/a&gt;.
+&lt;!--more--&gt;&lt;!--more--&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 05 Dec 2018 03:39:00 -0600</pubDate>
+        <link>http://localhost:4000/2018/12/05/2259/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/12/05/2259/</guid>
+        
+        
+        <category>Audiobook</category>
         
       </item>
     

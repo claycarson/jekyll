@@ -4,7 +4,7 @@
  <title>Clay Carson</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-12-21T09:32:33-06:00</updated>
+ <updated>2018-12-21T10:23:52-06:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Clay Carson</name>
@@ -13,46 +13,9 @@
 
  
  <entry>
-   <title>2265</title>
-   <link href="http://localhost:4000/2018/12/05/2265/"/>
-   <updated>2018-12-05T16:37:09-06:00</updated>
-   <id>http://localhost:4000/2018/12/05/2265</id>
-   <content type="html">&lt;p&gt;I finished watching &lt;a href=&quot;https://m.imdb.com/title/tt0113277/?ref=m_nv_sr_1&quot;&gt;Heat&lt;/a&gt;.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>2263</title>
-   <link href="http://localhost:4000/2018/12/05/2263/"/>
-   <updated>2018-12-05T06:16:55-06:00</updated>
-   <id>http://localhost:4000/2018/12/05/2263</id>
-   <content type="html">&lt;p&gt;I finished watching &lt;a href=&quot;https://m.imdb.com/title/tt0074119/?ref=m_nv_sr_1&quot;&gt;All the President’s Men&lt;/a&gt;.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>2261</title>
-   <link href="http://localhost:4000/2018/12/05/2261/"/>
-   <updated>2018-12-05T03:40:19-06:00</updated>
-   <id>http://localhost:4000/2018/12/05/2261</id>
-   <content type="html">&lt;p&gt;I finished watching &lt;a href=&quot;https://m.imdb.com/title/tt1727824/&quot;&gt;Bohemian Rhapsody&lt;/a&gt;.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>2259</title>
-   <link href="http://localhost:4000/2018/12/05/2259/"/>
-   <updated>2018-12-05T03:39:00-06:00</updated>
-   <id>http://localhost:4000/2018/12/05/2259</id>
-   <content type="html">&lt;p&gt;I finished listening to &lt;a href=&quot;https://www.audible.com/pd/Creative-Selection-Audiobook/B07D416JT3&quot;&gt;Creative Selection&lt;/a&gt;.
-&lt;!--more--&gt;&lt;!--more--&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>December 2018</title>
    <link href="http://localhost:4000/newsletter/2018/12/Newsletter"/>
-   <updated>2018-12-01T00:00:00-06:00</updated>
+   <updated>2018-12-15T00:00:00-06:00</updated>
    <id>http://localhost:4000/newsletter/2018/12/Newsletter</id>
    <content type="html">&lt;p&gt;This newsletter is a collection of things I have found in the last month that I enjoyed, found interesting, or simply wanted to share.&lt;/p&gt;
 
@@ -129,6 +92,43 @@
 &lt;p&gt;Thanks for reading. Have a great month,&lt;/p&gt;
 
 &lt;p&gt;Clay&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>2265</title>
+   <link href="http://localhost:4000/2018/12/05/2265/"/>
+   <updated>2018-12-05T16:37:09-06:00</updated>
+   <id>http://localhost:4000/2018/12/05/2265</id>
+   <content type="html">&lt;p&gt;I finished watching &lt;a href=&quot;https://m.imdb.com/title/tt0113277/?ref=m_nv_sr_1&quot;&gt;Heat&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>2263</title>
+   <link href="http://localhost:4000/2018/12/05/2263/"/>
+   <updated>2018-12-05T06:16:55-06:00</updated>
+   <id>http://localhost:4000/2018/12/05/2263</id>
+   <content type="html">&lt;p&gt;I finished watching &lt;a href=&quot;https://m.imdb.com/title/tt0074119/?ref=m_nv_sr_1&quot;&gt;All the President’s Men&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>2261</title>
+   <link href="http://localhost:4000/2018/12/05/2261/"/>
+   <updated>2018-12-05T03:40:19-06:00</updated>
+   <id>http://localhost:4000/2018/12/05/2261</id>
+   <content type="html">&lt;p&gt;I finished watching &lt;a href=&quot;https://m.imdb.com/title/tt1727824/&quot;&gt;Bohemian Rhapsody&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>2259</title>
+   <link href="http://localhost:4000/2018/12/05/2259/"/>
+   <updated>2018-12-05T03:39:00-06:00</updated>
+   <id>http://localhost:4000/2018/12/05/2259</id>
+   <content type="html">&lt;p&gt;I finished listening to &lt;a href=&quot;https://www.audible.com/pd/Creative-Selection-Audiobook/B07D416JT3&quot;&gt;Creative Selection&lt;/a&gt;.
+&lt;!--more--&gt;&lt;!--more--&gt;&lt;/p&gt;
 </content>
  </entry>
  
