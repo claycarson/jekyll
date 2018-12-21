@@ -6,8 +6,7 @@ author: claycarson
 layout: post
 guid: http://claycarson.net/?p=477
 permalink: /2016/08/20/ryder-cup-secrets-from-undercover-pros/
-linked_list_url:
-  - http://www.golfdigest.com/story/ryder-cup-secrets-from-undercover-pros
+link: http://www.golfdigest.com/story/ryder-cup-secrets-from-undercover-pros
 categories:
   - Link
 tags:

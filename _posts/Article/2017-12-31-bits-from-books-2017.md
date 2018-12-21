@@ -3,9 +3,6 @@ id: 1708
 title: 'Bits from Books &#8211; 2017'
 date: 2017-12-31T08:00:08+00:00
 author: claycarson
-layout: post
-guid: http://claycarson.net/?p=1708
-permalink: /2017/12/31/bits-from-books-2017/
 categories:
   - Article
 ---

@@ -6,8 +6,7 @@ author: claycarson
 layout: post
 guid: http://claycarson.net/?p=430
 permalink: /2016/07/19/apollo-11-guidance-computer-source-code/
-linked_list_url:
-  - https://github.com/chrislgarry/Apollo-11
+link: https://github.com/chrislgarry/Apollo-11
 categories:
   - Link
 tags:

@@ -11,4 +11,4 @@ categories:
   - Media
 format: aside
 ---
-I finished listening to [Coach: Lessons on the Game of Life](http://amazon.com/exec/obidos/ASIN/0393060918/claycarson0c-20).
+I finished listening to [Coach: Lessons on the Game of Life](http://amazon.com/exec/obidos/ASIN/0393060918/claycarson0c-20).<!--more-->

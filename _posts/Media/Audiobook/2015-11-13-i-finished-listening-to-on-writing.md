@@ -11,4 +11,4 @@ categories:
   - Media
 format: aside
 ---
-I finished listening to [On Writing](http://amazon.com/exec/obidos/ASIN/0743455967/claycarson0c-20).
+I finished listening to [On Writing](http://amazon.com/exec/obidos/ASIN/0743455967/claycarson0c-20).<!--more-->

@@ -11,4 +11,4 @@ categories:
   - Media
 format: aside
 ---
-I finished reading [The Greatest Salesman in the World](http://amazon.com/exec/obidos/ASIN/055327757X/claycarson0c-20).
+I finished reading [The Greatest Salesman in the World](http://amazon.com/exec/obidos/ASIN/055327757X/claycarson0c-20).<!--more-->

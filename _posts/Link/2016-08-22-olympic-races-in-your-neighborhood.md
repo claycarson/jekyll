@@ -6,8 +6,7 @@ author: claycarson
 layout: post
 guid: http://claycarson.net/?p=448
 permalink: /2016/08/22/olympic-races-in-your-neighborhood/
-linked_list_url:
-  - http://www.nytimes.com/interactive/2016/08/18/sports/olympics/olympic-races-near-you.html
+link: http://www.nytimes.com/interactive/2016/08/18/sports/olympics/olympic-races-near-you.html
 categories:
   - Link
 tags:

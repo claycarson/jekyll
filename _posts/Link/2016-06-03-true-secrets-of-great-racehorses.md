@@ -6,8 +6,7 @@ author: claycarson
 layout: post
 guid: http://claycarson.net/?p=416
 permalink: /2016/06/03/true-secrets-of-great-racehorses/
-linked_list_url:
-  - https://vimeo.com/168724255
+link: https://vimeo.com/168724255
 categories:
   - Video
 tags:

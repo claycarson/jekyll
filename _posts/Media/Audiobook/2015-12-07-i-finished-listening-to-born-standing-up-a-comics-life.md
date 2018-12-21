@@ -11,4 +11,4 @@ categories:
   - Media
 format: aside
 ---
-I finished listening to [Born Standing Up: A Comic&#8217;s Life](http://amazon.com/exec/obidos/ASIN/1416553649/claycarson0c-20).
+I finished listening to [Born Standing Up: A Comic&#8217;s Life](http://amazon.com/exec/obidos/ASIN/1416553649/claycarson0c-20).<!--more-->

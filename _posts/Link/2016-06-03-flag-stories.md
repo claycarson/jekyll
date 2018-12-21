@@ -6,8 +6,7 @@ author: claycarson
 layout: post
 guid: http://claycarson.net/?p=419
 permalink: /2016/06/03/flag-stories/
-linked_list_url:
-  - http://flagstories.co
+link: http://flagstories.co
 categories:
   - Link
 tags:

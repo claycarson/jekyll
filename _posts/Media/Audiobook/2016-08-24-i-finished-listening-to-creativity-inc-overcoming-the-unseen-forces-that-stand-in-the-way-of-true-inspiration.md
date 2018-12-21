@@ -11,4 +11,4 @@ categories:
   - Media
 format: aside
 ---
-I finished listening to [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](http://amazon.com/exec/obidos/ASIN/0812993012/claycarson0c-20).
+I finished listening to [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](http://amazon.com/exec/obidos/ASIN/0812993012/claycarson0c-20).<!--more-->

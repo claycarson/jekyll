@@ -6,8 +6,7 @@ author: claycarson
 layout: post
 guid: https://claycarson.net/?p=927
 permalink: /2017/06/13/a-relentless-rivalry-with-brother-and-caddie-austin-has-propelled-dj-to-the-top-of-the-game/
-linked_list_url:
-  - http://www.golf.com/tour-news/2017/06/12/dustin-johnson-austin-johnson-rivalry-propelled-dj-best-golfer-in-world
+link: http://www.golf.com/tour-news/2017/06/12/dustin-johnson-austin-johnson-rivalry-propelled-dj-best-golfer-in-world
 categories:
   - Link
 tags:

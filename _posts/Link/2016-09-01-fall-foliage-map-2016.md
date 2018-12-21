@@ -6,8 +6,7 @@ author: claycarson
 layout: post
 guid: http://claycarson.net/?p=479
 permalink: /2016/09/01/fall-foliage-map-2016/
-linked_list_url:
-  - https://smokymountains.com/fall-foliage-map/
+link: https://smokymountains.com/fall-foliage-map/
 categories:
   - Link
 tags:

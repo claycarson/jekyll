@@ -6,8 +6,7 @@ author: claycarson
 layout: post
 guid: http://claycarson.net/?p=673
 permalink: /2017/01/04/i-just-spent-139-on-this-book/
-linked_list_url:
-  - 'http://thoughtcatalog.com/ryan-holiday/2017/01/heres-the-attitude-that-successful-people-have-when-it-comes-to-books/?utm_content=buffer57cf9&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer'
+link: 'http://thoughtcatalog.com/ryan-holiday/2017/01/heres-the-attitude-that-successful-people-have-when-it-comes-to-books/?utm_content=buffer57cf9&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer'
 categories:
   - Link
 tags:

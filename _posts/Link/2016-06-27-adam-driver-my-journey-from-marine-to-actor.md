@@ -6,8 +6,7 @@ author: claycarson
 layout: post
 guid: http://claycarson.net/?p=428
 permalink: /2016/06/27/adam-driver-my-journey-from-marine-to-actor/
-linked_list_url:
-  - https://www.ted.com/talks/adam_driver_my_journey_from_marine_to_actor
+link: https://www.ted.com/talks/adam_driver_my_journey_from_marine_to_actor
 categories:
   - Video
 format: video

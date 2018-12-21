@@ -6,8 +6,7 @@ author: claycarson
 layout: post
 guid: http://claycarson.net/?p=473
 permalink: /2016/09/27/how-boeing-builds-a-737-in-just-9-days/
-linked_list_url:
-  - https://www.wired.com/2016/09/boeing-builds-737-just-nine-days/
+link: https://www.wired.com/2016/09/boeing-builds-737-just-nine-days/
 categories:
   - Link
 tags:

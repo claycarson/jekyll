@@ -11,4 +11,4 @@ categories:
   - Media
 format: aside
 ---
-I finished reading [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](http://amazon.com/exec/obidos/ASIN/B019MMUA8S/claycarson0c-20).
+I finished reading [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](http://amazon.com/exec/obidos/ASIN/B019MMUA8S/claycarson0c-20).<!--more-->

@@ -6,8 +6,7 @@ author: claycarson
 layout: post
 guid: http://claycarson.net/?p=1377
 permalink: /2017/10/25/creating-saturday-night-live/
-linked_list_url:
-  - https://youtu.be/KpAyaJuyN8s
+link: https://youtu.be/KpAyaJuyN8s
   - https://youtu.be/KpAyaJuyN8s
 categories:
   - Video

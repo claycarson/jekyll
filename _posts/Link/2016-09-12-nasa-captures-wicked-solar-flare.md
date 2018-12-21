@@ -6,8 +6,7 @@ author: claycarson
 layout: post
 guid: http://claycarson.net/?p=475
 permalink: /2016/09/12/nasa-captures-wicked-solar-flare/
-linked_list_url:
-  - http://www.nasa.gov/mission_pages/sunearth/news/News050313-flare.html
+link: http://www.nasa.gov/mission_pages/sunearth/news/News050313-flare.html
 categories:
   - Link
 tags:

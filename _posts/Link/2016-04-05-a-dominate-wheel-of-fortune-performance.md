@@ -6,8 +6,7 @@ author: claycarson
 layout: post
 guid: http://claycarson.net/?p=339
 permalink: /2016/04/05/a-dominate-wheel-of-fortune-performance/
-linked_list_url:
-  - https://www.youtube.com/watch?v=oy3redcrg7s
+link: https://www.youtube.com/watch?v=oy3redcrg7s
 categories:
   - Video
 tags:

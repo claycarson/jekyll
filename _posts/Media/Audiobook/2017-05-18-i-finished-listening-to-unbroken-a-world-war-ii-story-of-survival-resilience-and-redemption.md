@@ -11,4 +11,4 @@ categories:
   - Media
 format: aside
 ---
-I finished listening to [Unbroken: A World War II Story of Survival, Resilience, and Redemption](http://amazon.com/exec/obidos/ASIN/B003WUYPPG/claycarson0c-20).
+I finished listening to [Unbroken: A World War II Story of Survival, Resilience, and Redemption](http://amazon.com/exec/obidos/ASIN/B003WUYPPG/claycarson0c-20).<!--more-->

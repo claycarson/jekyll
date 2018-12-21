@@ -11,4 +11,4 @@ categories:
   - Media
 format: aside
 ---
-I finished listening to [11/22/63: A Novel](http://amazon.com/exec/obidos/ASIN/1451627289/claycarson0c-20).
+I finished listening to [11/22/63: A Novel](http://amazon.com/exec/obidos/ASIN/1451627289/claycarson0c-20).<!--more-->

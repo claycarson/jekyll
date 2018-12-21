@@ -6,8 +6,7 @@ author: claycarson
 layout: post
 guid: http://claycarson.net/?p=483
 permalink: /2016/09/06/exit-interview-i-played-with-lego-for-a-living/
-linked_list_url:
-  - http://www.atlasobscura.com/articles/exit-interview-a-lego-master-model-builder
+link: http://www.atlasobscura.com/articles/exit-interview-a-lego-master-model-builder
 categories:
   - Link
 format: link

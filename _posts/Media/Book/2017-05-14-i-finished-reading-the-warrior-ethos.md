@@ -11,4 +11,4 @@ categories:
   - Media
 format: aside
 ---
-I finished reading [The Warrior Ethos](http://amazon.com/exec/obidos/ASIN/B004S7JHY6/claycarson0c-20).
+I finished reading [The Warrior Ethos](http://amazon.com/exec/obidos/ASIN/B004S7JHY6/claycarson0c-20).<!--more-->

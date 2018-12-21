@@ -11,4 +11,4 @@ categories:
   - Media
 format: aside
 ---
-I finished listening to [A Short History of Nearly Everything](http://amazon.com/exec/obidos/ASIN/076790818X/claycarson0c-20).
+I finished listening to [A Short History of Nearly Everything](http://amazon.com/exec/obidos/ASIN/076790818X/claycarson0c-20).<!--more-->

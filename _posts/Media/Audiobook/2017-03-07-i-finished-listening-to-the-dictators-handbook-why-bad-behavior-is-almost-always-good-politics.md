@@ -11,4 +11,4 @@ categories:
   - Media
 format: aside
 ---
-I finished listening to [The Dictator&#8217;s Handbook: Why Bad Behavior is Almost Always Good Politics](http://amazon.com/exec/obidos/ASIN/161039044X/claycarson0c-20).
+I finished listening to [The Dictator&#8217;s Handbook: Why Bad Behavior is Almost Always Good Politics](http://amazon.com/exec/obidos/ASIN/161039044X/claycarson0c-20).<!--more-->

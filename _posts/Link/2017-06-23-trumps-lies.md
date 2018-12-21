@@ -6,8 +6,7 @@ author: claycarson
 layout: post
 guid: http://claycarson.net/?p=999
 permalink: /2017/06/23/trumps-lies/
-linked_list_url:
-  - https://www.nytimes.com/interactive/2017/06/23/opinion/trumps-lies.html
+link: https://www.nytimes.com/interactive/2017/06/23/opinion/trumps-lies.html
 categories:
   - Link
 tags:

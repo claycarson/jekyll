@@ -6,8 +6,7 @@ author: claycarson
 layout: post
 guid: http://claycarson.net/?p=485
 permalink: /2016/09/10/how-snowden-escaped/
-linked_list_url:
-  - http://news.nationalpost.com/features/how-edward-snowden-escaped-hong-kong
+link: http://news.nationalpost.com/features/how-edward-snowden-escaped-hong-kong
 categories:
   - Link
 format: link

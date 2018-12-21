@@ -11,4 +11,4 @@ categories:
   - Media
 format: aside
 ---
-I finished reading [The Stranger](http://amazon.com/exec/obidos/ASIN/B008QLXSG8/claycarson0c-20).
+I finished reading [The Stranger](http://amazon.com/exec/obidos/ASIN/B008QLXSG8/claycarson0c-20).<!--more-->

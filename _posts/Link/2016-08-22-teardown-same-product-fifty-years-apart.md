@@ -6,8 +6,7 @@ author: claycarson
 layout: post
 guid: http://claycarson.net/?p=487
 permalink: /2016/08/22/teardown-same-product-fifty-years-apart/
-linked_list_url:
-  - http://grathio.com/2016/08/teardown-same-product-fifty-years-apart/
+link: http://grathio.com/2016/08/teardown-same-product-fifty-years-apart/
 categories:
   - Link
 format: link

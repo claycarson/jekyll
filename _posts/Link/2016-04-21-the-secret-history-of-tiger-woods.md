@@ -6,8 +6,7 @@ author: claycarson
 layout: post
 guid: http://claycarson.net/?p=375
 permalink: /2016/04/21/the-secret-history-of-tiger-woods/
-linked_list_url:
-  - http://espn.go.com/espn/feature/story/_/id/15278522/how-tiger-woods-life-unraveled-years-father-earl-woods-death)
+link: http://espn.go.com/espn/feature/story/_/id/15278522/how-tiger-woods-life-unraveled-years-father-earl-woods-death)
 categories:
   - Link
 tags:

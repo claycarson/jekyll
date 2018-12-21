@@ -6,8 +6,7 @@ author: claycarson
 layout: post
 guid: http://claycarson.net/?p=1623
 permalink: /2017/12/18/the-many-watches-of-james-bond/
-linked_list_url:
-  - https://www.firstclasswatches.co.uk/blog/wp-content/uploads/2015/10/The-many-watches-of-James-Bond-900-width.jpg
+link: https://www.firstclasswatches.co.uk/blog/wp-content/uploads/2015/10/The-many-watches-of-James-Bond-900-width.jpg
 categories:
   - Link
 tags:

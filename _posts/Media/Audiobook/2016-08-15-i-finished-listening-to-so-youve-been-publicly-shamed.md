@@ -11,4 +11,4 @@ categories:
   - Media
 format: aside
 ---
-I finished listening to [So You&#8217;ve Been Publicly Shamed](http://amazon.com/exec/obidos/ASIN/1594487138/claycarson0c-20).
+I finished listening to [So You&#8217;ve Been Publicly Shamed](http://amazon.com/exec/obidos/ASIN/1594487138/claycarson0c-20).<!--more-->

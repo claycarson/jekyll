@@ -6,8 +6,7 @@ author: claycarson
 layout: post
 guid: http://claycarson.net/?p=603
 permalink: /2016/11/10/this-is-what-happens-when-you-reply-to-spam-email/
-linked_list_url:
-  - https://www.youtube.com/watch?v=Dceyy0cX6J4
+link: https://www.youtube.com/watch?v=Dceyy0cX6J4
 categories:
   - Video
 tags:

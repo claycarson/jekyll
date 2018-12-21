@@ -6,8 +6,7 @@ author: claycarson
 layout: post
 guid: http://claycarson.net/?p=411
 permalink: /2016/05/19/are-you-good-enough-to-be-a-tennis-line-judge/
-linked_list_url:
-  - http://graphics.wsj.com/are-you-good-enough-to-be-a-tennis-line-judge-french-open/
+link: http://graphics.wsj.com/are-you-good-enough-to-be-a-tennis-line-judge-french-open/
 categories:
   - Link
 tags:

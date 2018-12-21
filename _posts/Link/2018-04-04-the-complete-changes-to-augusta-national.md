@@ -6,6 +6,7 @@ author: claycarson
 layout: post
 guid: http://claycarson.net/?p=1882
 permalink: /2018/04/04/the-complete-changes-to-augusta-national/
+link: https://www.golfdigest.com/story/the-complete-changes-to-augusta-national
 categories:
   - Link
 tags:

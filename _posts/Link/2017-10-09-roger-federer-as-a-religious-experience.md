@@ -6,8 +6,7 @@ author: claycarson
 layout: post
 guid: http://claycarson.net/?p=1351
 permalink: /2017/10/09/roger-federer-as-a-religious-experience/
-linked_list_url:
-  - http://www.nytimes.com/2006/08/20/sports/playmagazine/20federer.html
+link: http://www.nytimes.com/2006/08/20/sports/playmagazine/20federer.html
 categories:
   - Link
 tags:

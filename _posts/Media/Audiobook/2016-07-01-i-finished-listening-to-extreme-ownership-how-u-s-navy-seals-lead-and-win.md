@@ -11,4 +11,4 @@ categories:
   - Media
 format: aside
 ---
-I finished listening to [Extreme Ownership: How U.S. Navy SEALs Lead and Win](http://amazon.com/exec/obidos/ASIN/1250067057/claycarson0c-20).
+I finished listening to [Extreme Ownership: How U.S. Navy SEALs Lead and Win](http://amazon.com/exec/obidos/ASIN/1250067057/claycarson0c-20).<!--more-->

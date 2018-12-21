@@ -6,8 +6,7 @@ author: claycarson
 layout: post
 guid: http://claycarson.net/?p=1609
 permalink: /2017/12/16/new-york-city-drones-eye-view/
-linked_list_url:
-  - http://nymag.com/daily/intelligencer/2017/12/drone-photos-of-new-york-city.html
+link: http://nymag.com/daily/intelligencer/2017/12/drone-photos-of-new-york-city.html
 categories:
   - Link
 tags:

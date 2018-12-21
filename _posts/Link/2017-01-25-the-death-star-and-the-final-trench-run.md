@@ -6,8 +6,7 @@ author: claycarson
 layout: post
 guid: http://claycarson.net/?p=685
 permalink: /2017/01/25/the-death-star-and-the-final-trench-run/
-linked_list_url:
-  - http://fxrant.blogspot.com/2017/01/the-death-star-and-final-trench-run.html?m=1
+link: http://fxrant.blogspot.com/2017/01/the-death-star-and-final-trench-run.html?m=1
 categories:
   - Link
 tags:

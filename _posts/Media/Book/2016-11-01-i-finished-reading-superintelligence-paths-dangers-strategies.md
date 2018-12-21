@@ -11,4 +11,4 @@ categories:
   - Media
 format: aside
 ---
-I finished reading [Superintelligence: Paths, Dangers, Strategies](http://amazon.com/exec/obidos/ASIN/B00LOOCGB2/claycarson0c-20).
+I finished reading [Superintelligence: Paths, Dangers, Strategies](http://amazon.com/exec/obidos/ASIN/B00LOOCGB2/claycarson0c-20).<!--more-->

@@ -6,8 +6,7 @@ author: claycarson
 layout: post
 guid: http://claycarson.net/?p=628
 permalink: /2016/12/07/how-to-write-a-thank-you-note/
-linked_list_url:
-  - http://www.themorningnews.org/article/how-to-write-a-thank-you-note
+link: http://www.themorningnews.org/article/how-to-write-a-thank-you-note
 categories:
   - Link
 tags:

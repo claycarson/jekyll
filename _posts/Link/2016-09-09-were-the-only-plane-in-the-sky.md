@@ -6,8 +6,7 @@ author: claycarson
 layout: post
 guid: http://claycarson.net/?p=481
 permalink: /2016/09/09/were-the-only-plane-in-the-sky/
-linked_list_url:
-  - http://www.politico.com/magazine/story/2016/09/were-the-only-plane-in-the-sky-214230
+link: http://www.politico.com/magazine/story/2016/09/were-the-only-plane-in-the-sky-214230
 categories:
   - Link
 format: link

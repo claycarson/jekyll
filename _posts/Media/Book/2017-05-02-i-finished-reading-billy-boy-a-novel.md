@@ -11,4 +11,4 @@ categories:
   - Media
 format: aside
 ---
-I finished reading [Billy Boy: A Novel](http://amazon.com/exec/obidos/ASIN/B000FBJG90/claycarson0c-20).
+I finished reading [Billy Boy: A Novel](http://amazon.com/exec/obidos/ASIN/B000FBJG90/claycarson0c-20).<!--more-->

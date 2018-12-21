@@ -6,8 +6,7 @@ author: claycarson
 layout: post
 guid: http://claycarson.net/?p=880
 permalink: /2017/05/31/a-magnificent-supercell-thunderstorm-timelapse/
-linked_list_url:
-  - https://vimeo.com/219046468
+link: https://vimeo.com/219046468
 categories:
   - Video
 tags:

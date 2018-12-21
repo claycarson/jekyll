@@ -6,8 +6,7 @@ author: claycarson
 layout: post
 guid: http://claycarson.net/?p=601
 permalink: /2016/11/09/an-american-tragedy/
-linked_list_url:
-  - http://www.newyorker.com/news/news-desk/an-american-tragedy-donald-trump
+link: http://www.newyorker.com/news/news-desk/an-american-tragedy-donald-trump
 categories:
   - Link
 tags:

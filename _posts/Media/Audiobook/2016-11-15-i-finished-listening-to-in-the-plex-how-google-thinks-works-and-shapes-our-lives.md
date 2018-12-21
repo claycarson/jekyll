@@ -11,4 +11,4 @@ categories:
   - Media
 format: aside
 ---
-I finished listening to [In The Plex: How Google Thinks, Works, and Shapes Our Lives](http://amazon.com/exec/obidos/ASIN/1416596585/claycarson0c-20).
+I finished listening to [In The Plex: How Google Thinks, Works, and Shapes Our Lives](http://amazon.com/exec/obidos/ASIN/1416596585/claycarson0c-20).<!--more-->

@@ -11,4 +11,4 @@ categories:
   - Media
 format: aside
 ---
-I finished reading [The 1997 Masters: My Story](http://amazon.com/exec/obidos/ASIN/1455543586/claycarson0c-20).
+I finished reading [The 1997 Masters: My Story](http://amazon.com/exec/obidos/ASIN/1455543586/claycarson0c-20).<!--more-->

@@ -6,8 +6,7 @@ author: claycarson
 layout: post
 guid: http://claycarson.net/?p=1304
 permalink: /2017/09/28/how-well-do-you-know-world-famous-logos/
-linked_list_url:
-  - https://www.signs.com/branded-in-memory/
+link: https://www.signs.com/branded-in-memory/
 categories:
   - Link
 tags:

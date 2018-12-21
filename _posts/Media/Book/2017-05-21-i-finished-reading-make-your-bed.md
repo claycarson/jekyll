@@ -11,4 +11,4 @@ categories:
   - Media
 format: aside
 ---
-I finished reading [Make Your Bed](http://amazon.com/exec/obidos/ASIN/B01KFJGT50/claycarson0c-20).
+I finished reading [Make Your Bed](http://amazon.com/exec/obidos/ASIN/B01KFJGT50/claycarson0c-20).<!--more-->

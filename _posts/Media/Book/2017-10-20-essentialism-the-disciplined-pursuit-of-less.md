@@ -18,4 +18,4 @@ format: quote
 ---
 > Design a routine that enshrines what is essential, making execution almost effortless.
 > 
-> <cite>Greg McKeown in <a href="https://www.amazon.com/dp/0804137382/">Essentialism: The Disciplined Pursuit of Less</a></cite>
+> <cite>Greg McKeown in <a href="https://www.amazon.com/dp/0804137382/">Essentialism: The Disciplined Pursuit of Less</a></cite><!--more-->

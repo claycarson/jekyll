@@ -11,4 +11,4 @@ categories:
   - Media
 format: aside
 ---
-I finished reading [Common Sense](http://amazon.com/exec/obidos/ASIN/B01NBMEBEP/claycarson0c-20).
+I finished reading [Common Sense](http://amazon.com/exec/obidos/ASIN/B01NBMEBEP/claycarson0c-20).<!--more-->
