@@ -69,7 +69,7 @@ layout: default
 <span id="media">
 {% for post in site.categories.Media limit:5 %}
   <li><a href="{{ post.url }}">
-    <p>{{ post.date | date: "%Y-%m-%d" }} » {{post.category}} »</p>
+    <p>{{ post.date | date: "%Y-%m-%d" }}<!--  » {{post.categories}} --> » {{ post.excerpt | strip_html }}</p>
   </a></li>
 {% endfor %}
 </span>

@@ -4,9 +4,9 @@ title: Link
 permalink: /link
 ---
 
-<a href="/link">Link</a>
-{% for post in site.categories.link %}
+# [Link](/link)
+{% for post in site.categories.Link %}
   <li><a href="{{ post.url }}">
-    <p>{{ post.title }}</p>
+    <p>{{ post.date | date: "%Y-%m-%d" }} » {{ post.title }}</p>
   </a></li>
 {% endfor %}

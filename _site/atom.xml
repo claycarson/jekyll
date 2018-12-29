@@ -4,13 +4,22 @@
  <title>Clay Carson</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-12-23T10:37:50-06:00</updated>
+ <updated>2018-12-29T13:47:08-06:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Clay Carson</name>
    <email>clay@claycarson.net</email>
  </author>
 
+ 
+ <entry>
+   <title>2018-12-23</title>
+   <link href="http://localhost:4000/status/2018/12/20181223"/>
+   <updated>2018-12-23T00:00:00-06:00</updated>
+   <id>http://localhost:4000/status/2018/12/20181223</id>
+   <content type="html">&lt;p&gt;Status&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>December 2018</title>
@@ -1547,15 +1556,6 @@ imdb.com/title/tt5726616/?ref=m_nv_sr_1&quot;&gt;Call Me by Your Name&lt;/a&gt;.
    <id>http://localhost:4000/location/2018/01/Oklahoma</id>
    <content type="html">&lt;div class=&quot;mapouter&quot;&gt;&lt;div class=&quot;gmap_canvas&quot;&gt;&lt;iframe width=&quot;600&quot; height=&quot;500&quot; id=&quot;gmap_canvas&quot; src=&quot;https://maps.google.com/maps?q=Octavia%2C%20OK%2C%20USA&amp;amp;t=&amp;amp;z=13&amp;amp;ie=UTF8&amp;amp;iwloc=&amp;amp;output=embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;
 &lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Living With a Seal</title>
-   <link href="http://localhost:4000/media/2018/01/Living-with-a-seal"/>
-   <updated>2018-01-06T00:00:00-06:00</updated>
-   <id>http://localhost:4000/media/2018/01/Living-with-a-seal</id>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut dapibus leo. Maecenas in lacus fermentum dolor viverra cursus. Curabitur cursus magna eget nisi viverra porta. Donec semper dolor sit amet quam blandit vel pellentesque velit lobortis. Aliquam in ante eget nibh imperdiet eleifend. Vestibulum ornare lobortis diam viverra pellentesque. Aenean cursus dignissim mi in tincidunt. Quisque eu lectus sed risus congue tincidunt in eu mi. Etiam ac ligula felis. Integer et dui quam. Sed condimentum libero quis mauris malesuada laoreet. Donec dictum luctus mi, ut laoreet nisl consequat in. Sed non condimentum velit. Nullam interdum, velit eget commodo dictum, nisl neque varius lacus, a pharetra lorem dolor tempus dolor. Curabitur vitae velit elit. Phasellus in lacus velit, eget faucibus neque. Donec dolor purus, imperdiet quis iaculis aliquam, aliquam non magna. Donec pharetra metus a quam tincidunt cursus. Suspendisse potenti.&lt;!--more--&gt;&lt;/p&gt;
 </content>
  </entry>
  
