@@ -5,42 +5,9 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 29 Dec 2018 14:36:26 -0600</pubDate>
-    <lastBuildDate>Sat, 29 Dec 2018 14:36:26 -0600</lastBuildDate>
+    <pubDate>Sat, 29 Dec 2018 14:42:20 -0600</pubDate>
+    <lastBuildDate>Sat, 29 Dec 2018 14:42:20 -0600</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
-    
-      <item>
-        <title></title>
-        <description>&lt;p&gt;I finished watching &lt;a href=&quot;https://m.imdb.com/title/tt4633694/&quot;&gt;Spider-Man: Into the Spider-Verse&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 29 Dec 2018 14:36:26 -0600</pubDate>
-        <link>http://localhost:4000/2018/12/2018-12-20-2564</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/12/2018-12-20-2564</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title></title>
-        <description>&lt;p&gt;I finished watching &lt;a href=&quot;https://m.imdb.com/title/tt4912910/?ref=m_nv_sr_1&quot;&gt;Mission: Impossible - Fallout&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 29 Dec 2018 14:36:26 -0600</pubDate>
-        <link>http://localhost:4000/2018/12/2018-12-11-2554</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/12/2018-12-11-2554</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title></title>
-        <description>&lt;p&gt;I finished reading [Navy SEAL Dogs: My Tale of Training Canines for Combat][https://www.amazon.com/Navy-SEAL-Dogs-Training-Canines/dp/1250049695].&lt;/p&gt;
-</description>
-        <pubDate>Sat, 29 Dec 2018 14:36:26 -0600</pubDate>
-        <link>http://localhost:4000/2018/12/2018-12-17-2562</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/12/2018-12-17-2562</guid>
-        
-        
-      </item>
     
       <item>
         <title>I finished watching Vice</title>
@@ -64,6 +31,21 @@
         <pubDate>Sun, 23 Dec 2018 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/movie/media/2018/12/2601</link>
         <guid isPermaLink="true">http://localhost:4000/movie/media/2018/12/2601</guid>
+        
+        
+        <category>Movie</category>
+        
+        <category>Media</category>
+        
+      </item>
+    
+      <item>
+        <title>I finished watching Spider-Man: Into the Spider-Verse</title>
+        <description>&lt;p&gt;I finished watching &lt;a href=&quot;https://m.imdb.com/title/tt4633694/&quot;&gt;Spider-Man: Into the Spider-Verse&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 20 Dec 2018 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/movie/media/2018/12/2564</link>
+        <guid isPermaLink="true">http://localhost:4000/movie/media/2018/12/2564</guid>
         
         
         <category>Movie</category>
@@ -127,6 +109,36 @@
         
         
         <category>Movie</category>
+        
+        <category>Media</category>
+        
+      </item>
+    
+      <item>
+        <title>I finished watching Mission: Impossible - Fallout</title>
+        <description>&lt;p&gt;I finished watching &lt;a href=&quot;https://m.imdb.com/title/tt4912910/?ref=m_nv_sr_1&quot;&gt;Mission: Impossible - Fallout&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 17 Dec 2018 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/movie/media/2018/12/2554</link>
+        <guid isPermaLink="true">http://localhost:4000/movie/media/2018/12/2554</guid>
+        
+        
+        <category>Movie</category>
+        
+        <category>Media</category>
+        
+      </item>
+    
+      <item>
+        <title>I finished reading Navy SEAL Dogs: My Tale of Training Canines for Combat</title>
+        <description>&lt;p&gt;I finished reading [Navy SEAL Dogs: My Tale of Training Canines for Combat][https://www.amazon.com/Navy-SEAL-Dogs-Training-Canines/dp/1250049695].&lt;/p&gt;
+</description>
+        <pubDate>Mon, 17 Dec 2018 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/book/media/2018/12/2562</link>
+        <guid isPermaLink="true">http://localhost:4000/book/media/2018/12/2562</guid>
+        
+        
+        <category>Book</category>
         
         <category>Media</category>
         

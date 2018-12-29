@@ -4,40 +4,13 @@
  <title>Clay Carson</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-12-29T14:36:26-06:00</updated>
+ <updated>2018-12-29T14:42:20-06:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Clay Carson</name>
    <email>clay@claycarson.net</email>
  </author>
 
- 
- <entry>
-   <title></title>
-   <link href="http://localhost:4000/2018/12/2018-12-20-2564"/>
-   <updated>2018-12-29T14:36:26-06:00</updated>
-   <id>http://localhost:4000/2018/12/2018-12-20-2564</id>
-   <content type="html">&lt;p&gt;I finished watching &lt;a href=&quot;https://m.imdb.com/title/tt4633694/&quot;&gt;Spider-Man: Into the Spider-Verse&lt;/a&gt;.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title></title>
-   <link href="http://localhost:4000/2018/12/2018-12-11-2554"/>
-   <updated>2018-12-29T14:36:26-06:00</updated>
-   <id>http://localhost:4000/2018/12/2018-12-11-2554</id>
-   <content type="html">&lt;p&gt;I finished watching &lt;a href=&quot;https://m.imdb.com/title/tt4912910/?ref=m_nv_sr_1&quot;&gt;Mission: Impossible - Fallout&lt;/a&gt;.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title></title>
-   <link href="http://localhost:4000/2018/12/2018-12-17-2562"/>
-   <updated>2018-12-29T14:36:26-06:00</updated>
-   <id>http://localhost:4000/2018/12/2018-12-17-2562</id>
-   <content type="html">&lt;p&gt;I finished reading [Navy SEAL Dogs: My Tale of Training Canines for Combat][https://www.amazon.com/Navy-SEAL-Dogs-Training-Canines/dp/1250049695].&lt;/p&gt;
-</content>
- </entry>
  
  <entry>
    <title>I finished watching Vice</title>
@@ -54,6 +27,15 @@
    <updated>2018-12-23T00:00:00-06:00</updated>
    <id>http://localhost:4000/movie/media/2018/12/2601</id>
    <content type="html">&lt;p&gt;I finished watching &lt;a href=&quot;https://www.imdb.com/title/tt1711525/&quot;&gt;Office Christmas Party&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>I finished watching Spider-Man: Into the Spider-Verse</title>
+   <link href="http://localhost:4000/movie/media/2018/12/2564"/>
+   <updated>2018-12-20T00:00:00-06:00</updated>
+   <id>http://localhost:4000/movie/media/2018/12/2564</id>
+   <content type="html">&lt;p&gt;I finished watching &lt;a href=&quot;https://m.imdb.com/title/tt4633694/&quot;&gt;Spider-Man: Into the Spider-Verse&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  
@@ -90,6 +72,24 @@
    <updated>2018-12-17T00:00:00-06:00</updated>
    <id>http://localhost:4000/movie/media/2018/12/2556</id>
    <content type="html">&lt;p&gt;I finished watching &lt;a href=&quot;https://www.imdb.com/title/tt6155172/?ref_=fn_al_tt_1&quot;&gt;Roma&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>I finished watching Mission: Impossible - Fallout</title>
+   <link href="http://localhost:4000/movie/media/2018/12/2554"/>
+   <updated>2018-12-17T00:00:00-06:00</updated>
+   <id>http://localhost:4000/movie/media/2018/12/2554</id>
+   <content type="html">&lt;p&gt;I finished watching &lt;a href=&quot;https://m.imdb.com/title/tt4912910/?ref=m_nv_sr_1&quot;&gt;Mission: Impossible - Fallout&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>I finished reading Navy SEAL Dogs: My Tale of Training Canines for Combat</title>
+   <link href="http://localhost:4000/book/media/2018/12/2562"/>
+   <updated>2018-12-17T00:00:00-06:00</updated>
+   <id>http://localhost:4000/book/media/2018/12/2562</id>
+   <content type="html">&lt;p&gt;I finished reading [Navy SEAL Dogs: My Tale of Training Canines for Combat][https://www.amazon.com/Navy-SEAL-Dogs-Training-Canines/dp/1250049695].&lt;/p&gt;
 </content>
  </entry>
  
