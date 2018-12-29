@@ -15,7 +15,8 @@ You can follow me more closely at [my personal website](http://claycarson.net "P
 [The Best Doesn’t Exist.](https://www.vox.com/the-goods/2018/12/12/18112538/best-search-choices-psychology-barry-schwartz)
 
 > People who are searching for good enough are not second-guessing themselves. When there’s any little imperfection, people who are searching for the best don’t say, “Well, the world has disappointed me.” They say, “I must have made a mistake.”
-> 
+
+
 ## Barkley’s Bud
 
 [My Dad's Friendship With Charles Barkley](https://www.wbur.org/onlyagame/2018/12/14/lin-wang-charles-barkley "My Dad's Friendship With Charles Barkley")
@@ -27,7 +28,8 @@ I preferred the audio version to the written article, for what it's worth.
 > Barkley’s friends couldn’t quite place him. He wasn’t a basketball player, he wasn’t a sports figure, and he wasn’t from Barkley’s hometown. Here’s what I can tell you about him: He wore striped, red polo shirts tucked into khaki shorts and got really excited about two-for-one deals. He was a commuter. He worked as a cat litter scientist in Muscatine, Iowa. In short, he was everyone’s suburban dad. More specifically, he was my dad.
 > 
 > "You know, it was obviously a very difficult time," Barkley told me recently. "And the next thing I know, he shows up. Everybody’s like, 'Who’s the Asian dude over there?' I just started laughing. I said, 'That’s my boy, Lin.' They’re, like, 'How do you know him?' I said, 'It’s a long story.' "
-> 
+
+
 ## Around The Web
 
 - [Did Tiger really play Miura clubs when he won the ’97 Masters?](https://mobile.twitter.com/Skratch/status/1072585563276926976 "Did Tiger really play Miura clubs when he won the ’97 Masters?")
