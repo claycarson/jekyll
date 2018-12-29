@@ -4,7 +4,7 @@
  <title>Clay Carson</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-12-29T13:47:08-06:00</updated>
+ <updated>2018-12-29T14:36:26-06:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Clay Carson</name>
@@ -13,11 +13,92 @@
 
  
  <entry>
-   <title>2018-12-23</title>
-   <link href="http://localhost:4000/status/2018/12/20181223"/>
+   <title></title>
+   <link href="http://localhost:4000/2018/12/2018-12-20-2564"/>
+   <updated>2018-12-29T14:36:26-06:00</updated>
+   <id>http://localhost:4000/2018/12/2018-12-20-2564</id>
+   <content type="html">&lt;p&gt;I finished watching &lt;a href=&quot;https://m.imdb.com/title/tt4633694/&quot;&gt;Spider-Man: Into the Spider-Verse&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title></title>
+   <link href="http://localhost:4000/2018/12/2018-12-11-2554"/>
+   <updated>2018-12-29T14:36:26-06:00</updated>
+   <id>http://localhost:4000/2018/12/2018-12-11-2554</id>
+   <content type="html">&lt;p&gt;I finished watching &lt;a href=&quot;https://m.imdb.com/title/tt4912910/?ref=m_nv_sr_1&quot;&gt;Mission: Impossible - Fallout&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title></title>
+   <link href="http://localhost:4000/2018/12/2018-12-17-2562"/>
+   <updated>2018-12-29T14:36:26-06:00</updated>
+   <id>http://localhost:4000/2018/12/2018-12-17-2562</id>
+   <content type="html">&lt;p&gt;I finished reading [Navy SEAL Dogs: My Tale of Training Canines for Combat][https://www.amazon.com/Navy-SEAL-Dogs-Training-Canines/dp/1250049695].&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>I finished watching Vice</title>
+   <link href="http://localhost:4000/movie/media/2018/12/2635"/>
+   <updated>2018-12-27T00:00:00-06:00</updated>
+   <id>http://localhost:4000/movie/media/2018/12/2635</id>
+   <content type="html">&lt;p&gt;I finished watching &lt;a href=&quot;https://m.imdb.com/title/tt6266538/?ref=m_nv_sr_1&quot;&gt;Vice&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>I finished watching Office Christmas Party</title>
+   <link href="http://localhost:4000/movie/media/2018/12/2601"/>
    <updated>2018-12-23T00:00:00-06:00</updated>
-   <id>http://localhost:4000/status/2018/12/20181223</id>
-   <content type="html">&lt;p&gt;Status&lt;/p&gt;
+   <id>http://localhost:4000/movie/media/2018/12/2601</id>
+   <content type="html">&lt;p&gt;I finished watching &lt;a href=&quot;https://www.imdb.com/title/tt1711525/&quot;&gt;Office Christmas Party&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>I finished watching A Simple Favor</title>
+   <link href="http://localhost:4000/movie/media/2018/12/2633"/>
+   <updated>2018-12-17T00:00:00-06:00</updated>
+   <id>http://localhost:4000/movie/media/2018/12/2633</id>
+   <content type="html">&lt;p&gt;I finished watching &lt;a href=&quot;https://www.imdb.com/title/tt7040874/?ref_=fn_al_tt_1&quot;&gt;A Simple Favor&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>I finished watching Furious 7</title>
+   <link href="http://localhost:4000/movie/media/2018/12/2603"/>
+   <updated>2018-12-17T00:00:00-06:00</updated>
+   <id>http://localhost:4000/movie/media/2018/12/2603</id>
+   <content type="html">&lt;p&gt;I finished watching &lt;a href=&quot;https://m.imdb.com/title/tt2820852/?ref=m_nv_sr_1&quot;&gt;Furious 7&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>I finished watching Game Over, Man!</title>
+   <link href="http://localhost:4000/movie/media/2018/12/2558"/>
+   <updated>2018-12-17T00:00:00-06:00</updated>
+   <id>http://localhost:4000/movie/media/2018/12/2558</id>
+   <content type="html">&lt;p&gt;I finished watching &lt;a href=&quot;https://www.imdb.com/title/tt3317234/?ref_=nv_sr_1&quot;&gt;Game Over, Man!&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>I finished watching Roma</title>
+   <link href="http://localhost:4000/movie/media/2018/12/2556"/>
+   <updated>2018-12-17T00:00:00-06:00</updated>
+   <id>http://localhost:4000/movie/media/2018/12/2556</id>
+   <content type="html">&lt;p&gt;I finished watching &lt;a href=&quot;https://www.imdb.com/title/tt6155172/?ref_=fn_al_tt_1&quot;&gt;Roma&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Austin, Texas, USA</title>
+   <link href="http://localhost:4000/location/2018/12/Texas"/>
+   <updated>2018-12-17T00:00:00-06:00</updated>
+   <id>http://localhost:4000/location/2018/12/Texas</id>
+   <content type="html">&lt;p&gt;Austin, Texas&lt;/p&gt;
 </content>
  </entry>
  
@@ -207,10 +288,17 @@
  
  <entry>
    <title>Freel at Last, Freel at Last, Thank God Almighty, She’s a Freel at Last</title>
-   <link href="http://localhost:4000/2018/11/06/freel-at-last-freel-at-last-thank-god-almighty-shes-a-freel-at-last/"/>
+   <link href="http://localhost:4000/photo/2018/11/freel-at-last-freel-at-last-thank-god-almighty-shes-a-freel-at-last"/>
    <updated>2018-11-06T03:50:22-06:00</updated>
-   <id>http://localhost:4000/2018/11/06/freel-at-last-freel-at-last-thank-god-almighty-shes-a-freel-at-last</id>
-   <content type="html">
+   <id>http://localhost:4000/photo/2018/11/freel-at-last-freel-at-last-thank-god-almighty-shes-a-freel-at-last</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://claycarson.net/wp-content/uploads/2018/11/img_0704-2.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://claycarson.net/wp-content/uploads/2018/11/img_0723-3.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://claycarson.net/wp-content/uploads/2018/11/img_0757-3.jpg&quot; /&gt;&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -303,15 +391,6 @@
  </entry>
  
  <entry>
-   <title>Greece</title>
-   <link href="http://localhost:4000/2018/10/09/greece/"/>
-   <updated>2018-10-09T08:53:06-05:00</updated>
-   <id>http://localhost:4000/2018/10/09/greece</id>
-   <content type="html">
-</content>
- </entry>
- 
- <entry>
    <title>2003</title>
    <link href="http://localhost:4000/2018/10/07/2003/"/>
    <updated>2018-10-07T17:07:22-05:00</updated>
@@ -353,74 +432,6 @@
    <updated>2018-10-07T07:02:13-05:00</updated>
    <id>http://localhost:4000/2018/10/07/1995</id>
    <content type="html">&lt;p&gt;I finished watching &lt;a href=&quot;https://www.imdb.com/title/tt5052474/&quot;&gt;Sicario: Day of the Soldado&lt;/a&gt;.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Greece</title>
-   <link href="http://localhost:4000/photo/2018/10/Greece"/>
-   <updated>2018-10-07T00:00:00-05:00</updated>
-   <id>http://localhost:4000/photo/2018/10/Greece</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/images/Greece/greece-publish-1.jpg&quot; /&gt;
-&lt;!--more--&gt;
-&lt;img src=&quot;/images/Greece/greece-publish-2.jpg&quot; /&gt;
-&lt;img src=&quot;/images/Greece/greece-publish-3.jpg&quot; /&gt;
-&lt;img src=&quot;/images/Greece/greece-publish-4.jpg&quot; /&gt;
-&lt;img src=&quot;/images/Greece/greece-publish-5.jpg&quot; /&gt;
-&lt;img src=&quot;/images/Greece/greece-publish-6.jpg&quot; /&gt;
-&lt;img src=&quot;/images/Greece/greece-publish-7.jpg&quot; /&gt;
-&lt;img src=&quot;/images/Greece/greece-publish-8.jpg&quot; /&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Greece</title>
-   <link href="http://localhost:4000/photo/2018/10/Greece-copy"/>
-   <updated>2018-10-07T00:00:00-05:00</updated>
-   <id>http://localhost:4000/photo/2018/10/Greece copy</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/images/Greece/greece-publish-1.jpg&quot; /&gt;
-&lt;!--more--&gt;
-&lt;img src=&quot;/images/Greece/greece-publish-2.jpg&quot; /&gt;
-&lt;img src=&quot;/images/Greece/greece-publish-3.jpg&quot; /&gt;
-&lt;img src=&quot;/images/Greece/greece-publish-4.jpg&quot; /&gt;
-&lt;img src=&quot;/images/Greece/greece-publish-5.jpg&quot; /&gt;
-&lt;img src=&quot;/images/Greece/greece-publish-6.jpg&quot; /&gt;
-&lt;img src=&quot;/images/Greece/greece-publish-7.jpg&quot; /&gt;
-&lt;img src=&quot;/images/Greece/greece-publish-8.jpg&quot; /&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Greece</title>
-   <link href="http://localhost:4000/photo/2018/10/Greece-copy-3"/>
-   <updated>2018-10-07T00:00:00-05:00</updated>
-   <id>http://localhost:4000/photo/2018/10/Greece copy 3</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/images/Greece/greece-publish-1.jpg&quot; /&gt;
-&lt;!--more--&gt;
-&lt;img src=&quot;/images/Greece/greece-publish-2.jpg&quot; /&gt;
-&lt;img src=&quot;/images/Greece/greece-publish-3.jpg&quot; /&gt;
-&lt;img src=&quot;/images/Greece/greece-publish-4.jpg&quot; /&gt;
-&lt;img src=&quot;/images/Greece/greece-publish-5.jpg&quot; /&gt;
-&lt;img src=&quot;/images/Greece/greece-publish-6.jpg&quot; /&gt;
-&lt;img src=&quot;/images/Greece/greece-publish-7.jpg&quot; /&gt;
-&lt;img src=&quot;/images/Greece/greece-publish-8.jpg&quot; /&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Greece</title>
-   <link href="http://localhost:4000/photo/2018/10/Greece-copy-2"/>
-   <updated>2018-10-07T00:00:00-05:00</updated>
-   <id>http://localhost:4000/photo/2018/10/Greece copy 2</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/images/Greece/greece-publish-1.jpg&quot; /&gt;
-&lt;!--more--&gt;
-&lt;img src=&quot;/images/Greece/greece-publish-2.jpg&quot; /&gt;
-&lt;img src=&quot;/images/Greece/greece-publish-3.jpg&quot; /&gt;
-&lt;img src=&quot;/images/Greece/greece-publish-4.jpg&quot; /&gt;
-&lt;img src=&quot;/images/Greece/greece-publish-5.jpg&quot; /&gt;
-&lt;img src=&quot;/images/Greece/greece-publish-6.jpg&quot; /&gt;
-&lt;img src=&quot;/images/Greece/greece-publish-7.jpg&quot; /&gt;
-&lt;img src=&quot;/images/Greece/greece-publish-8.jpg&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -741,15 +752,6 @@ A part of me fears you.&lt;/p&gt;
    <updated>2018-07-12T15:28:24-05:00</updated>
    <id>http://localhost:4000/2018/07/12/1948</id>
    <content type="html">&lt;p&gt;I finished watching &lt;a href=&quot;https://www.imdb.com/title/tt0974015/?ref_=nv_sr_1&quot;&gt;Justice League&lt;/a&gt;.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>1945</title>
-   <link href="http://localhost:4000/2018/07/05/1945/"/>
-   <updated>2018-07-05T09:24:18-05:00</updated>
-   <id>http://localhost:4000/2018/07/05/1945</id>
-   <content type="html">&lt;p&gt;@OmniGroup 2001&lt;/p&gt;
 </content>
  </entry>
  
@@ -1093,7 +1095,8 @@ A part of me fears you.&lt;/p&gt;
    <link href="http://localhost:4000/2018/04/16/cherry-blossom/"/>
    <updated>2018-04-16T11:11:07-05:00</updated>
    <id>http://localhost:4000/2018/04/16/cherry-blossom</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://claycarson.net/wp-content/uploads/2018/04/22.jpeg&quot; alt=&quot;22.jpeg&quot; /&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://claycarson.net/wp-content/uploads/2018/04/22.jpeg&quot; alt=&quot;22.jpeg&quot; /&gt;
+&lt;!--more--&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -1491,7 +1494,8 @@ imdb.com/title/tt5726616/?ref=m_nv_sr_1&quot;&gt;Call Me by Your Name&lt;/a&gt;.
    <link href="http://localhost:4000/2018/01/30/moon/"/>
    <updated>2018-01-30T15:34:57-06:00</updated>
    <id>http://localhost:4000/2018/01/30/moon</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2018/01/moon-1.jpg&quot; class=&quot;wp-image-1830 size-full&quot; height=&quot;1242&quot; width=&quot;1242&quot; /&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2018/01/moon-1.jpg&quot; /&gt;
+&lt;!--more--&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -1575,36 +1579,6 @@ imdb.com/title/tt5726616/?ref=m_nv_sr_1&quot;&gt;Call Me by Your Name&lt;/a&gt;.
    <updated>2018-01-03T15:45:53-06:00</updated>
    <id>http://localhost:4000/2018/01/03/1747</id>
    <content type="html">&lt;p&gt;I finished watching &lt;a href=&quot;http://www.imdb.com/title/tt0368226/&quot;&gt;The Room&lt;/a&gt;.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Status 3</title>
-   <link href="http://localhost:4000/status/2018/01/status-3"/>
-   <updated>2018-01-01T00:00:00-06:00</updated>
-   <id>http://localhost:4000/status/2018/01/status-3</id>
-   <content type="html">&lt;p&gt;Status number three is my third test.
-&lt;!--more--&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Status 2</title>
-   <link href="http://localhost:4000/status/2018/01/status-2"/>
-   <updated>2018-01-01T00:00:00-06:00</updated>
-   <id>http://localhost:4000/status/2018/01/status-2</id>
-   <content type="html">&lt;p&gt;Status number 2 is my second test.
-&lt;!--more--&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Status 1</title>
-   <link href="http://localhost:4000/status/2018/01/status-1"/>
-   <updated>2018-01-01T00:00:00-06:00</updated>
-   <id>http://localhost:4000/status/2018/01/status-1</id>
-   <content type="html">&lt;p&gt;Status number one is my first test
-&lt;!--more--&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -4882,7 +4856,8 @@ Start thinking of as many of your favorite movies as you can, and see if they ap
    <link href="http://localhost:4000/2007/07/27/dark-flower/"/>
    <updated>2007-07-27T11:20:27-05:00</updated>
    <id>http://localhost:4000/2007/07/27/dark-flower</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2017/07/20070727-Dark-Flower-300x225.jpg&quot; alt=&quot;&quot; width=&quot;600&quot; height=&quot;400&quot; class=&quot;alignnone size-medium wp-image-1190&quot; /&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2017/07/20070727-Dark-Flower-300x225.jpg&quot; alt=&quot;&quot; width=&quot;600&quot; height=&quot;400&quot; class=&quot;alignnone size-medium wp-image-1190&quot; /&gt;
+&lt;!--more--&gt;&lt;/p&gt;
 </content>
  </entry>
  

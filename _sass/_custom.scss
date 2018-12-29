@@ -53,7 +53,7 @@
 .img-container {
  	float: left;
 	width: 50%;
-	height: 100%;
+	height: auto;
 	padding-right: .5rem;
 	list-style: none;
 	overflow: hidden;
@@ -71,11 +71,11 @@
 }
 
 .img-container img:hover {
-    -webkit-transform:scale(1.025); /* Safari and Chrome */
-    -moz-transform:scale(1.025); /* Firefox */
-    -ms-transform:scale(1.025); /* IE 9 */
-    -o-transform:scale(1.025); /* Opera */
-     transform:scale(1.025);
+    -webkit-transform:scale(1.02); /* Safari and Chrome */
+    -moz-transform:scale(1.02); /* Firefox */
+    -ms-transform:scale(1.02); /* IE 9 */
+    -o-transform:scale(1.02); /* Opera */
+     transform:scale(1.02);
     -webkit-transition: all 1s ease;
     -moz-transition: all 1s ease;
     -ms-transition: all 1s ease;
