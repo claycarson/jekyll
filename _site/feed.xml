@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 Jan 2019 21:45:12 -0600</pubDate>
-    <lastBuildDate>Mon, 07 Jan 2019 21:45:12 -0600</lastBuildDate>
+    <pubDate>Mon, 07 Jan 2019 22:06:31 -0600</pubDate>
+    <lastBuildDate>Mon, 07 Jan 2019 22:06:31 -0600</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
     
       <item>
@@ -73,6 +73,19 @@
         
         
         <category>Newsletter</category>
+        
+      </item>
+    
+      <item>
+        <title>1106</title>
+        <description>&lt;p&gt;If I am ever diagnosed with cancer, the first thing I’m gonna do is Neti Pot. As close to magic as exists in this world.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 30 Dec 2018 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/status/2018/12/2018-12-30</link>
+        <guid isPermaLink="true">http://localhost:4000/status/2018/12/2018-12-30</guid>
+        
+        
+        <category>Status</category>
         
       </item>
     
@@ -191,21 +204,6 @@
         
         
         <category>Movie</category>
-        
-        <category>Media</category>
-        
-      </item>
-    
-      <item>
-        <title>I finished reading Navy SEAL Dogs: My Tale of Training Canines for Combat</title>
-        <description>&lt;p&gt;I finished reading [Navy SEAL Dogs: My Tale of Training Canines for Combat][https://www.amazon.com/Navy-SEAL-Dogs-Training-Canines/dp/1250049695].&lt;/p&gt;
-</description>
-        <pubDate>Mon, 17 Dec 2018 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/book/media/2018/12/2562</link>
-        <guid isPermaLink="true">http://localhost:4000/book/media/2018/12/2562</guid>
-        
-        
-        <category>Book</category>
         
         <category>Media</category>
         
