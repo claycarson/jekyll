@@ -4,10 +4,8 @@ title: How Snowden Escaped
 date: 2016-09-10T08:50:22+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=485
-permalink: /2016/09/10/how-snowden-escaped/
 link: http://news.nationalpost.com/features/how-edward-snowden-escaped-hong-kong
-categories:
+categories: 
   - Link
 format: link
 ---

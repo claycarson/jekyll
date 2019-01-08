@@ -2,7 +2,7 @@
 layout: post
 title:  December 2018
 date:   2018-12-15
-category: Newsletter
+categories: Newsletter
 description: New kilogram, Angels with Filthy Souls, and the behaviors of AI
 ---
 

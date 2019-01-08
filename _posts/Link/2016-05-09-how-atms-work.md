@@ -5,9 +5,8 @@ date: 2016-05-09T10:05:08+00:00
 author: claycarson
 layout: post
 guid: http://claycarson.net/?p=397
-permalink: /2016/05/09/how-atms-work/
 link: https://www.youtube.com/watch?v=7mFttvrhqZs
-categories:
+categories: 
   - Video
 tags:
   - money

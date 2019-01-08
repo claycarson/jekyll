@@ -4,9 +4,7 @@ title: Dark Flower
 date: 2007-07-27T16:20:27+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=1189
-permalink: /2007/07/27/dark-flower/
-categories:
+categories: 
   - Photo
 format: image
 ---

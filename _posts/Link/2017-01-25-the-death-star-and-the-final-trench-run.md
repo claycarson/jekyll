@@ -4,10 +4,8 @@ title: The Death Star and the Final Trench Run
 date: 2017-01-25T09:32:52+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=685
-permalink: /2017/01/25/the-death-star-and-the-final-trench-run/
 link: http://fxrant.blogspot.com/2017/01/the-death-star-and-final-trench-run.html?m=1
-categories:
+categories: 
   - Link
 tags:
   - movie

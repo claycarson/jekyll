@@ -7,8 +7,7 @@ tags:
 - president
 - writing
 - usa
-category:
-- Link
+categories: Link
 link: http://www.npr.org/2011/01/23/133087065/writing-state-of-the-union-speech-a-juggling-act
 
 ---

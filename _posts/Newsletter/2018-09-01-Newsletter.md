@@ -2,7 +2,7 @@
 layout: post
 title:  September 2018
 date:   2018-09-01
-category: Newsletter
+categories: Newsletter
 description: 
 ---
 

@@ -4,10 +4,8 @@ title: 'Teardown: Same Product, Fifty Years Apart'
 date: 2016-08-22T08:50:19+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=487
-permalink: /2016/08/22/teardown-same-product-fifty-years-apart/
 link: http://grathio.com/2016/08/teardown-same-product-fifty-years-apart/
-categories:
+categories: 
   - Link
 format: link
 ---

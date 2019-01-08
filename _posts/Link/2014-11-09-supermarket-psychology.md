@@ -3,8 +3,7 @@ layout: post
 title: "How to Buy Food: The Psychology of the Supermarket"
 date: November 9, 2014
 tags: health food shopping
-category:
-- Link
+categories: Link
 link: http://www.bonappetit.com/test-kitchen/how-to/article/supermarket-psychology
 ---
 

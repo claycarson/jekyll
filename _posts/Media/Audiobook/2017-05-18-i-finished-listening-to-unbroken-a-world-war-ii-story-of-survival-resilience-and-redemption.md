@@ -4,9 +4,7 @@ title: 'I finished listening to Unbroken: A World War II Story of Survival, Resi
 date: 2017-05-18T15:05:05+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=1155
-permalink: /2017/05/18/i-finished-listening-to-unbroken-a-world-war-ii-story-of-survival-resilience-and-redemption/
-categories:
+categories: 
   - Audiobook
   - Media
 format: aside

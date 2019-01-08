@@ -4,9 +4,7 @@ title: 'Shoe Dogs: A Memoir by the Creator of Nike'
 date: 2017-09-28T07:20:14+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=1306
-permalink: /2017/09/28/shoe-dogs-a-memoir-by-the-creator-of-nike/
-categories:
+categories: 
   - Quote
 tags:
   - book

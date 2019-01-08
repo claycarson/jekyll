@@ -4,9 +4,7 @@ title: 'Achievement Unlocked: Apple Watch Turkey Day Challenge'
 date: 2016-11-24T09:59:53+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=621
-permalink: /2016/11/24/achievement-unlocked-apple-watch-turkey-day-callenge/
-categories:
+categories: 
   - Photo
 tags:
   - Apple Watch

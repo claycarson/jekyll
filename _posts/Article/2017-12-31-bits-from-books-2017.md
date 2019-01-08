@@ -3,7 +3,7 @@ id: 1708
 title: 'Bits from Books &#8211; 2017'
 date: 2017-12-31T08:00:08+00:00
 author: claycarson
-categories:
+categories: 
   - Article
 ---
 Below I have included a list of the books I have read or listened to throughout 2017. Highlighting important passages as I read has lead to the ability to reflect and contemplate long after finishing these books and I do so periodically throughout the year. Here I have compiled those passages that stood out even further that I felt worthwhile to share.

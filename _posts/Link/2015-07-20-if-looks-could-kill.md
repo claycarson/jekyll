@@ -5,8 +5,7 @@ date: July 20, 2015 11:29:54
 tags:
 - photography
 - animal
-category:
-- Link
+categories: Link
 link: https://medium.com/@500px/if-looks-could-kill-the-story-behind-the-most-intense-lion-portrait-1a7af31f0cc9
 ---
 

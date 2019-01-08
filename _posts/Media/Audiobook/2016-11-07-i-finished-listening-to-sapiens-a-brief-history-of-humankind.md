@@ -4,9 +4,7 @@ title: 'I finished listening to Sapiens: A Brief History of Humankind'
 date: 2016-11-07T16:03:38+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=1149
-permalink: /2016/11/07/i-finished-listening-to-sapiens-a-brief-history-of-humankind/
-categories:
+categories: 
   - Audiobook
   - Media
 format: aside

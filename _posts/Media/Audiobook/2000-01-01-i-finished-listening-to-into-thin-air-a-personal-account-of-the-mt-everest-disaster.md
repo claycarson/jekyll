@@ -4,9 +4,7 @@ title: 'I finished listening to Into Thin Air: A Personal Account of the Mt. Eve
 date: 2000-01-01T15:52:47+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=1111
-permalink: /2000/01/01/i-finished-listening-to-into-thin-air-a-personal-account-of-the-mt-everest-disaster/
-categories:
+categories: 
   - Audiobook
   - Media
 format: aside

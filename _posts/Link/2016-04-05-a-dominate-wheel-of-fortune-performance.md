@@ -5,9 +5,8 @@ date: 2016-04-05T09:15:23+00:00
 author: claycarson
 layout: post
 guid: http://claycarson.net/?p=339
-permalink: /2016/04/05/a-dominate-wheel-of-fortune-performance/
 link: https://www.youtube.com/watch?v=oy3redcrg7s
-categories:
+categories: 
   - Video
 tags:
   - humans

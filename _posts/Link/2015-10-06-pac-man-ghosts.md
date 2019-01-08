@@ -4,8 +4,7 @@ title: "How do the Ghosts in Pac Man Move?"
 date: 2015-10-06 09:10:47
 tags:
 - games
-category:
-- Link
+categories: Link
 link: http://www.todayifoundout.com/index.php/2015/10/ghosts-pac-man-work/
 ---
 

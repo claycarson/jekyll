@@ -5,9 +5,8 @@ date: 2016-05-12T10:10:47+00:00
 author: claycarson
 layout: post
 guid: http://claycarson.net/?p=405
-permalink: /2016/05/12/planet-money-peanuts-and-cracker-jack/
 link: http://www.npr.org/sections/money/2016/05/06/477082513/episode-700-peanuts-and-cracker-jack
-categories:
+categories: 
   - Link
 tags:
   - baseball

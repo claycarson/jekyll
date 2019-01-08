@@ -7,8 +7,7 @@ tags:
 - usa
 - sex
 - government
-category:
-- Link
+categories: Link
 link: http://www.nytimes.com/2015/06/27/us/supreme-court-same-sex-marriage.html
 ---
 

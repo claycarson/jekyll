@@ -4,9 +4,7 @@ title: 'I finished listening to What the Dog Saw: And Other Adventures'
 date: 2000-01-01T15:50:05+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=1097
-permalink: /2000/01/01/i-finished-listening-to-what-the-dog-saw-and-other-adventures/
-categories:
+categories: 
   - Audiobook
   - Media
 format: aside

@@ -4,10 +4,8 @@ title: Roger Federer as a Religious Experience
 date: 2017-10-09T21:06:43+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=1351
-permalink: /2017/10/09/roger-federer-as-a-religious-experience/
 link: http://www.nytimes.com/2006/08/20/sports/playmagazine/20federer.html
-categories:
+categories: 
   - Link
 tags:
   - book

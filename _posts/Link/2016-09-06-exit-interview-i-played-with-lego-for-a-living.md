@@ -4,10 +4,8 @@ title: 'Exit Interview: I Played With LEGO for a Living'
 date: 2016-09-06T08:50:23+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=483
-permalink: /2016/09/06/exit-interview-i-played-with-lego-for-a-living/
 link: http://www.atlasobscura.com/articles/exit-interview-a-lego-master-model-builder
-categories:
+categories: 
   - Link
 format: link
 ---

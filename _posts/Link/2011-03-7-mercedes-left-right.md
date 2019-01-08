@@ -3,8 +3,7 @@ layout: post
 title: "Mercedes Benz: Left Brain - Right Brain"
 date: March 7, 2011 16:59:56
 tags: cars advertising
-category:
-- Link
+categories: Link
 link: http://adsoftheworld.com/media/print/mercedes_benz_left_brain_right_brain_paint
 
 ---

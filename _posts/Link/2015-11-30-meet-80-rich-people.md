@@ -5,8 +5,7 @@ date: 2015-11-30 13:09:43
 tags:
 - money
 - world
-category:
-- Link
+categories: Link
 link: http://fivethirtyeight.com/datalab/meet-the-80-people-who-are-as-rich-as-half-the-world/
 ---
 

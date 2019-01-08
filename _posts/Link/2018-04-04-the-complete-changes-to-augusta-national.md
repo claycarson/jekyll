@@ -4,10 +4,8 @@ title: The Complete Changes To Augusta National
 date: 2018-04-04T08:43:09+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=1882
-permalink: /2018/04/04/the-complete-changes-to-augusta-national/
 link: https://www.golfdigest.com/story/the-complete-changes-to-augusta-national
-categories:
+categories: 
   - Link
 tags:
   - design

@@ -4,9 +4,7 @@ title: United States Capitol
 date: 2017-06-16T06:02:40+00:00
 author: claycarson
 layout: post
-guid: https://claycarson.net/?p=940
-permalink: /2017/06/16/united-states-capitol/
-categories:
+categories: 
   - Photo
 tags:
   - architecture

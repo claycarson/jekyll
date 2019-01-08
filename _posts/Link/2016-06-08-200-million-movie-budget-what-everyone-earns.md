@@ -5,9 +5,8 @@ date: 2016-06-08T11:34:23+00:00
 author: claycarson
 layout: post
 guid: http://claycarson.net/?p=424
-permalink: /2016/06/08/200-million-movie-budget-what-everyone-earns/
 link: https://thescene.com/watch/vanityfair/200-million-movie-budget-what-everyone-earns
-categories:
+categories: 
   - Video
 tags:
   - money

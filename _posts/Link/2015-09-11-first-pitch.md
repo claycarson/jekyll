@@ -6,8 +6,7 @@ tags:
 - Baseball
 - USA
 - Video
-category:
-- Link
+categories: Link
 link: http://espn.go.com/video/clip?id=13617860
 ---
 

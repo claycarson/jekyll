@@ -4,10 +4,8 @@ title: The Many Watches of James Bond
 date: 2017-12-18T09:22:43+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=1623
-permalink: /2017/12/18/the-many-watches-of-james-bond/
 link: https://www.firstclasswatches.co.uk/blog/wp-content/uploads/2015/10/The-many-watches-of-James-Bond-900-width.jpg
-categories:
+categories: 
   - Link
 tags:
   - "007"

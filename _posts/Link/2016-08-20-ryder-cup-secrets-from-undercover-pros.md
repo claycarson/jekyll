@@ -4,10 +4,8 @@ title: Ryder Cup Secrets From Undercover Pros
 date: 2016-08-20T14:20:26+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=477
-permalink: /2016/08/20/ryder-cup-secrets-from-undercover-pros/
 link: http://www.golfdigest.com/story/ryder-cup-secrets-from-undercover-pros
-categories:
+categories: 
   - Link
 tags:
   - golf

@@ -4,10 +4,8 @@ title: '2017: The Year in Volcanic Activity'
 date: 2017-12-16T10:19:59+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=1607
-permalink: /2017/12/16/2017-the-year-in-volcanic-activity/
 link: 'https://www.theatlantic.com/photo/2017/12/2017-the-year-in-volcanic-activity/548273/?utm_source=nextdraft&utm_medium=iosapp'
-categories:
+categories: 
   - Link
 tags:
   - earth

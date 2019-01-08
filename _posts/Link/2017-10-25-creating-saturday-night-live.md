@@ -4,11 +4,9 @@ title: Creating Saturday Night Live
 date: 2017-10-25T07:34:19+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=1377
-permalink: /2017/10/25/creating-saturday-night-live/
 link: https://youtu.be/KpAyaJuyN8s
   - https://youtu.be/KpAyaJuyN8s
-categories:
+categories: 
   - Video
 tags:
   - production

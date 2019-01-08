@@ -4,9 +4,7 @@ title: I finished reading Make Your Bed
 date: 2017-05-21T13:58:30+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=1035
-permalink: /2017/05/21/i-finished-reading-make-your-bed/
-categories:
+categories: 
   - Book
   - Media
 format: aside

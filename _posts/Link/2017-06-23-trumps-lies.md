@@ -4,10 +4,8 @@ title: 'Trump&#8217;s Lies'
 date: 2017-06-23T20:33:49+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=999
-permalink: /2017/06/23/trumps-lies/
 link: https://www.nytimes.com/interactive/2017/06/23/opinion/trumps-lies.html
-categories:
+categories: 
   - Link
 tags:
   - politics

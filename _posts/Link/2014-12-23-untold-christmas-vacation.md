@@ -3,8 +3,7 @@ layout: post
 title: "An Oral History of 'National Lampoon's Christmas Vacation'"
 date: December 23, 2014 at 9:38:06 AM
 tags: movie writing christmas
-category:
-- Link
+categories: Link
 link: http://www.rollingstone.com/movies/features/untold-story-of-national-lampoons-christmas-vacation-20141222
 ---
 

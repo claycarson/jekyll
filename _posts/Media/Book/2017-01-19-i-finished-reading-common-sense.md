@@ -4,9 +4,7 @@ title: I finished reading Common Sense
 date: 2017-01-19T10:54:04+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=1012
-permalink: /2017/01/19/i-finished-reading-common-sense/
-categories:
+categories: 
   - Book
   - Media
 format: aside

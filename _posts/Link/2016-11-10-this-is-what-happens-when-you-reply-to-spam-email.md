@@ -4,10 +4,8 @@ title: This is What Happens When You Reply to Spam Email
 date: 2016-11-10T11:10:59+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=603
-permalink: /2016/11/10/this-is-what-happens-when-you-reply-to-spam-email/
 link: https://www.youtube.com/watch?v=Dceyy0cX6J4
-categories:
+categories: 
   - Video
 tags:
   - email

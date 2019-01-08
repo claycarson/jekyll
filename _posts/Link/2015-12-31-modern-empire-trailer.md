@@ -5,8 +5,7 @@ date: 2015-12-31 08:34:44
 tags:
 - video
 - Star Wars
-category:
-- Link
+categories: Link
 link: https://m.youtube.com/watch?v=xESiohGGP7g&time_continue=133
 ---
 

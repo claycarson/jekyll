@@ -4,11 +4,9 @@ title: 'Essentialism: The Disciplined Pursuit of Less'
 date: 2017-10-20T09:48:02+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=1368
-permalink: /2017/10/20/essentialism-the-disciplined-pursuit-of-less/
 linked_list_url:
   - 'Essentialism: The Disciplined Pursuit of Less'
-categories:
+categories: 
   - Quote
 tags:
   - discipline

@@ -4,9 +4,7 @@ title: 'I finished listening to So You&#8217;ve Been Publicly Shamed'
 date: 2016-08-15T15:02:18+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=1143
-permalink: /2016/08/15/i-finished-listening-to-so-youve-been-publicly-shamed/
-categories:
+categories: 
   - Audiobook
   - Media
 format: aside

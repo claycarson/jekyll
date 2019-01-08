@@ -4,9 +4,7 @@ title: Honeymoon
 date: 2012-05-20T16:17:50+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=1187
-permalink: /2012/05/20/honeymoon/
-categories:
+categories: 
   - Photo
 tags:
   - belize

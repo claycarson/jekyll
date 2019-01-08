@@ -4,9 +4,7 @@ title: 'I finished listening to The Red Circle: My Life in the Navy SEAL Sniper 
 date: 2000-01-01T15:56:31+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=1119
-permalink: /2000/01/01/i-finished-listening-to-the-red-circle-my-life-in-the-navy-seal-sniper-corps-and-how-i-trained-americas-deadliest-marksmen/
-categories:
+categories: 
   - Audiobook
   - Media
 format: aside

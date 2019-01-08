@@ -4,9 +4,7 @@ title: 'I finished listening to Extreme Ownership: How U.S. Navy SEALs Lead and 
 date: 2016-07-01T15:01:50+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=1141
-permalink: /2016/07/01/i-finished-listening-to-extreme-ownership-how-u-s-navy-seals-lead-and-win/
-categories:
+categories: 
   - Audiobook
   - Media
 format: aside

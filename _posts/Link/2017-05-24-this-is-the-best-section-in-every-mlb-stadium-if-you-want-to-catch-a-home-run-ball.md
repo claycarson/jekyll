@@ -4,10 +4,8 @@ title: This Is the Best Section in Every MLB Stadium if You Want to Catch a Home
 date: 2017-05-24T18:22:56+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=878
-permalink: /2017/05/24/this-is-the-best-section-in-every-mlb-stadium-if-you-want-to-catch-a-home-run-ball/
 link: http://www.marketwatch.com/story/this-is-the-best-section-in-every-mlb-stadium-to-catch-a-home-run-ball-2017-05-23
-categories:
+categories: 
   - Link
 tags:
   - baseball

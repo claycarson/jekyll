@@ -4,9 +4,7 @@ title: I finished reading 7 Secrets of Eternal Wealth
 date: 2017-02-15T10:56:13+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=1020
-permalink: /2017/02/15/i-finished-reading-7-secrets-of-eternal-wealth/
-categories:
+categories: 
   - Book
   - Media
 format: aside

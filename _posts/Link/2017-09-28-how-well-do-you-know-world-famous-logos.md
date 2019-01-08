@@ -4,10 +4,8 @@ title: How Well Do You Know World-Famous Logos?
 date: 2017-09-28T07:07:20+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=1304
-permalink: /2017/09/28/how-well-do-you-know-world-famous-logos/
 link: https://www.signs.com/branded-in-memory/
-categories:
+categories: 
   - Link
 tags:
   - design

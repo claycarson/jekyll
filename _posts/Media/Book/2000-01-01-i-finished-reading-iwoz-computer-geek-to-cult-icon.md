@@ -4,9 +4,7 @@ title: 'I finished reading iWoz: Computer Geek to Cult Icon'
 date: 2000-01-01T11:27:36+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=1024
-permalink: /2000/01/01/i-finished-reading-iwoz-computer-geek-to-cult-icon/
-categories:
+categories: 
   - Book
   - Media
 format: aside

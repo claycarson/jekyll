@@ -5,9 +5,8 @@ date: 2016-04-12T07:32:33+00:00
 author: claycarson
 layout: post
 guid: http://claycarson.net/?p=343
-permalink: /2016/04/12/the-best-time/
 link: http://theplayerstribune.com/jamie-benn-stars-stanley-cup-playoff
-categories:
+categories: 
   - Link
 tags:
   - dallas

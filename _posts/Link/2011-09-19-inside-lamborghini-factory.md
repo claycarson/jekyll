@@ -3,8 +3,7 @@ layout: post
 title: "Peek Inside the Lamborghini Factory"
 date: September 19, 2011 17:59:56
 tags: cars italy manufactoring
-category:
-- Link
+categories: Link
 link: http://www.wired.com/autopia/2011/08/peek-inside-the-lamborghini-factory-2/all/1?viewall=true
 
 ---

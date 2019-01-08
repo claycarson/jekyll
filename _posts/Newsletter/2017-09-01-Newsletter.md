@@ -3,7 +3,7 @@ layout:     post
 title:      September 2017
 date:       2017-09-01
 summary:    
-category: Newsletter
+categories: Newsletter
 ---
 
 # September 2017

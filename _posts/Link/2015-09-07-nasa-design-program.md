@@ -7,8 +7,7 @@ tags:
 - nasa
 - design
 - logo
-category:
-- Link
+categories: Link
 link: http://www.thisisdisplay.org/features/the_nasa_design_program/
 ---
 

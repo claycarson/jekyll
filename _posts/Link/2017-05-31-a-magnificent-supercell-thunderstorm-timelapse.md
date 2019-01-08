@@ -4,10 +4,8 @@ title: A Magnificent Supercell Thunderstorm Timelapse
 date: 2017-05-31T16:55:39+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=880
-permalink: /2017/05/31/a-magnificent-supercell-thunderstorm-timelapse/
 link: https://vimeo.com/219046468
-categories:
+categories: 
   - Video
 tags:
   - nature

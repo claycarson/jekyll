@@ -3,7 +3,7 @@ id: 1518
 title: 'Bits from Books &#8211; 2016'
 date: 2016-12-31T15:42:30+00:00
 author: claycarson
-categories:
+categories: 
   - Article
 ---
 In 2015, I read my first book since high school. Although, I had regularly listened to audiobooks, I had not read a book cover to cover in over a decade. I made it a point that I would use my post-lunch laziness to read.

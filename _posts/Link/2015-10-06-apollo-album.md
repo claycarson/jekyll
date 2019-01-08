@@ -7,8 +7,7 @@ tags:
 - space
 - usa
 - moon
-category:
-- Link
+categories: Link
 link: https://www.flickr.com/photos/projectapolloarchive/albums
 ---
 

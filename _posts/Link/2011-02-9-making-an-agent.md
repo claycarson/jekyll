@@ -8,8 +8,7 @@ tags:
 - training
 - fitness
 - usa
-category:
-- Link
+categories: Link
 link: http://www.washingtonpost.com/wp-dyn/content/article/2009/07/17/AR2009071701785.html
 
 ---

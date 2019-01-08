@@ -6,8 +6,7 @@ tags:
 - movie
 - ui
 - graphics
-category:
-- Link
+categories: Link
 link: http://www.territorystudio.com/work/motion/?p=Martian
 ---
 

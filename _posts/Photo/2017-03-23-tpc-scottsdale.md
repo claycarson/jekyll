@@ -4,9 +4,7 @@ title: TPC Scottsdale
 date: 2017-03-23T18:05:05+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=871
-permalink: /2017/03/23/tpc-scottsdale/
-categories:
+categories: 
   - Photo
 tags:
   - golf

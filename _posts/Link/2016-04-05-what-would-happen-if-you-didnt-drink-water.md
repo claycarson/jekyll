@@ -5,9 +5,8 @@ date: 2016-04-05T08:07:54+00:00
 author: claycarson
 layout: post
 guid: http://claycarson.net/?p=337
-permalink: /2016/04/05/what-would-happen-if-you-didnt-drink-water/
 link: https://www.youtube.com/watch?v=9iMGFqMmUFs
-categories:
+categories: 
   - Video
 tags:
   - diet

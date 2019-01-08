@@ -4,9 +4,7 @@ title: I finished listening to On Writing
 date: 2015-11-13T15:59:13+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=1131
-permalink: /2015/11/13/i-finished-listening-to-on-writing/
-categories:
+categories: 
   - Audiobook
   - Media
 format: aside

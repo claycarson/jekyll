@@ -3,8 +3,7 @@ layout: post
 title: "The Greatest Trick the Devil Ever Pulled"
 date: December 29, 2014 10:49:57
 tags: movie script film writing
-category:
-- Link
+categories: Link
 link: http://fictionmachine.com/2014/10/06/the-greatest-trick-the-devil-ever-pulled-the-usual-suspects-1995/
 ---
 

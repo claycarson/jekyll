@@ -4,9 +4,7 @@ title: 'I finished listening to Creativity, Inc.: Overcoming the Unseen Forces T
 date: 2016-08-24T15:02:41+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=1145
-permalink: /2016/08/24/i-finished-listening-to-creativity-inc-overcoming-the-unseen-forces-that-stand-in-the-way-of-true-inspiration/
-categories:
+categories: 
   - Audiobook
   - Media
 format: aside

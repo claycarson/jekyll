@@ -5,9 +5,8 @@ date: 2016-05-09T10:06:41+00:00
 author: claycarson
 layout: post
 guid: http://claycarson.net/?p=399
-permalink: /2016/05/09/visualization-of-the-worlds-shipping-routes/
 link: https://www.shipmap.org
-categories:
+categories: 
   - Link
 tags:
   - economics

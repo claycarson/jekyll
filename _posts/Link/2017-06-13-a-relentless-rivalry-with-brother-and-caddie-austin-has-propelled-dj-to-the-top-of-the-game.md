@@ -4,10 +4,8 @@ title: A Relentless Rivalry With Brother and Caddie, Austin, Has Propelled DJ to
 date: 2017-06-13T20:45:06+00:00
 author: claycarson
 layout: post
-guid: https://claycarson.net/?p=927
-permalink: /2017/06/13/a-relentless-rivalry-with-brother-and-caddie-austin-has-propelled-dj-to-the-top-of-the-game/
 link: http://www.golf.com/tour-news/2017/06/12/dustin-johnson-austin-johnson-rivalry-propelled-dj-best-golfer-in-world
-categories:
+categories: 
   - Link
 tags:
   - golf

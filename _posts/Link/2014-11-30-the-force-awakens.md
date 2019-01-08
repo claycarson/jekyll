@@ -3,8 +3,7 @@ layout: post
 title: "The Force Awakens - Teaser Trailer 1"
 date: November 30, 2014 18:01:32
 tags: starwars movie trailer video
-category:
-- Link
+categories: Link
 link: http://www.youtube.com/watch?v=OMOVFvcNfvE
 ---
 

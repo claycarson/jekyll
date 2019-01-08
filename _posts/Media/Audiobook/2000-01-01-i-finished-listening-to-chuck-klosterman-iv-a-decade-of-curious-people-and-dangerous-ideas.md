@@ -4,9 +4,7 @@ title: 'I finished listening to IV: A Decade of Curious People and Dangerous Ide
 date: 2000-01-01T15:52:03+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=1107
-permalink: /2000/01/01/i-finished-listening-to-chuck-klosterman-iv-a-decade-of-curious-people-and-dangerous-ideas/
-categories:
+categories: 
   - Audiobook
   - Media
 format: aside

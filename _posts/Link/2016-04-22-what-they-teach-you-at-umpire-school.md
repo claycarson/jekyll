@@ -5,10 +5,9 @@ date: 2016-04-22T19:59:12+00:00
 author: claycarson
 layout: post
 guid: http://claycarson.net/?p=382
-permalink: /2016/04/22/what-they-teach-you-at-umpire-school/
 link: http://www.slate.com/articles/sports/sports_nut/2016/04/what_seth_stevenson_learned_at_the_wendelstedt_school_for_umpires.html
   - http://www.slate.com/articles/sports/sports_nut/2016/04/what_seth_stevenson_learned_at_the_wendelstedt_school_for_umpires.html
-categories:
+categories: 
   - Link
 tags:
   - baseball

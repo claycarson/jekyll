@@ -4,10 +4,8 @@ title: I Just Spent $139 On This Book Because I Am A Weirdo
 date: 2017-01-04T20:45:28+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=673
-permalink: /2017/01/04/i-just-spent-139-on-this-book/
 link: 'http://thoughtcatalog.com/ryan-holiday/2017/01/heres-the-attitude-that-successful-people-have-when-it-comes-to-books/?utm_content=buffer57cf9&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer'
-categories:
+categories: 
   - Link
 tags:
   - book

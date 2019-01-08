@@ -4,9 +4,7 @@ title: 'I finished listening to The Contortionist&#8217;s Handbook'
 date: 2000-01-01T15:56:55+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=1121
-permalink: /2000/01/01/i-finished-listening-to-the-contortionists-handbook/
-categories:
+categories: 
   - Audiobook
   - Media
 format: aside

@@ -3,8 +3,7 @@ layout: post
 title: "How to Fix a Monet After Somebody Punches It"
 date: December 27, 2014 at 3:13:41 PM
 tags: painting art
-category:
-- Link
+categories: Link
 link: http://hyperallergic.com/170868/how-to-fix-a-monet-after-somebody-punches-it/
 ---
 

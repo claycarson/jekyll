@@ -3,8 +3,7 @@ layout: post
 title: "The Technology Behind The Aria Resort and Casino"
 date: February 19, 2011 17:24:56
 tags: vegas casino technology
-category:
-- Link
+categories: Link
 link: http://www.popularmechanics.com/technology/engineering/architecture/aria-high-tech-hotel
 
 ---

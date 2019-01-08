@@ -5,9 +5,8 @@ date: 2016-06-03T16:49:09+00:00
 author: claycarson
 layout: post
 guid: http://claycarson.net/?p=419
-permalink: /2016/06/03/flag-stories/
 link: http://flagstories.co
-categories:
+categories: 
   - Link
 tags:
   - flag

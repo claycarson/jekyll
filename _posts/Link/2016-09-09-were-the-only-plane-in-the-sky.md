@@ -4,10 +4,8 @@ title: ‘We’re the Only Plane in the Sky’
 date: 2016-09-09T09:02:53+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=481
-permalink: /2016/09/09/were-the-only-plane-in-the-sky/
 link: http://www.politico.com/magazine/story/2016/09/were-the-only-plane-in-the-sky-214230
-categories:
+categories: 
   - Link
 format: link
 ---

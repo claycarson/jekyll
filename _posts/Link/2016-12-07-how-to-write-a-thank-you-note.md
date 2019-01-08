@@ -4,10 +4,8 @@ title: How to Write a Thank You Note
 date: 2016-12-07T14:31:07+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=628
-permalink: /2016/12/07/how-to-write-a-thank-you-note/
 link: http://www.themorningnews.org/article/how-to-write-a-thank-you-note
-categories:
+categories: 
   - Link
 tags:
   - gift

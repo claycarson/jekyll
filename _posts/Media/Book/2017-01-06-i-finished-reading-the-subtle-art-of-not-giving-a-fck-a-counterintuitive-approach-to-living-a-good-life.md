@@ -4,9 +4,7 @@ title: 'I finished reading The Subtle Art of Not Giving a F*ck: A Counterintuiti
 date: 2017-01-06T10:53:34+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=1010
-permalink: /2017/01/06/i-finished-reading-the-subtle-art-of-not-giving-a-fck-a-counterintuitive-approach-to-living-a-good-life/
-categories:
+categories: 
   - Book
   - Media
 format: aside

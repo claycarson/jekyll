@@ -4,10 +4,8 @@ title: An American Tragedy
 date: 2016-11-09T18:15:09+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=601
-permalink: /2016/11/09/an-american-tragedy/
 link: http://www.newyorker.com/news/news-desk/an-american-tragedy-donald-trump
-categories:
+categories: 
   - Link
 tags:
   - election

@@ -7,8 +7,7 @@ tags:
 - president
 - secret service
 - usa
-category:
-- Link
+categories: Link
 link: http://www.theatlantic.com/magazine/print/1969/12/inside-the-secret-service/8390/
 
 ---

@@ -3,8 +3,7 @@ layout: post
 title: "Creativity of a Sports Cameraman"
 date: January 18, 2010 21:59:56
 tags: sports photography video camera
-category:
-- Link
+categories: Link
 link: http://www.tomguilmette.com/wp/my-blog/archives/2794
 
 ---

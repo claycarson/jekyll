@@ -4,9 +4,7 @@ title: Impostor Syndrome
 date: 2017-11-20T13:45:32+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=1401
-permalink: /2017/11/20/impostor-syndrome/
-categories:
+categories: 
   - Link
 tags:
   - creation

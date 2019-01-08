@@ -2,7 +2,7 @@
 layout: post
 title:  January 2019
 date:   2019-01-01
-category: Newsletter
+categories: Newsletter
 description: 
 ---
 

@@ -5,9 +5,8 @@ date: 2016-05-10T14:39:00+00:00
 author: claycarson
 layout: post
 guid: http://claycarson.net/?p=401
-permalink: /2016/05/10/galactic-warfighters/
 link: https://vimeo.com/164726039
-categories:
+categories: 
   - Video
 tags:
   - photography

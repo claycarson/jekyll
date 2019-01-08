@@ -3,8 +3,7 @@ layout: post
 title: "How Bourbon is Made"
 date: December 8, 2014 11:07:22
 tags: bourbon alcohol manufactoring
-category:
-- Link
+categories: Link
 link: https://www.youtube.com/watch?v=ROzOkaLKP_w
 ---
 

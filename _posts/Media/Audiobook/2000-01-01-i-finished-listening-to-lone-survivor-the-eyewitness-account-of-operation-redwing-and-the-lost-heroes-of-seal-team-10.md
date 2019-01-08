@@ -4,9 +4,7 @@ title: 'I finished listening to Lone Survivor: The Eyewitness Account of Operati
 date: 2000-01-01T15:52:22+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=1109
-permalink: /2000/01/01/i-finished-listening-to-lone-survivor-the-eyewitness-account-of-operation-redwing-and-the-lost-heroes-of-seal-team-10/
-categories:
+categories: 
   - Audiobook
   - Media
 format: aside

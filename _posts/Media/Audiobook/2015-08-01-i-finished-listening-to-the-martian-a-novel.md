@@ -4,9 +4,7 @@ title: 'I finished listening to The Martian: A Novel'
 date: 2015-08-01T14:58:42+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=1129
-permalink: /2015/08/01/i-finished-listening-to-the-martian-a-novel/
-categories:
+categories: 
   - Audiobook
   - Media
 format: aside

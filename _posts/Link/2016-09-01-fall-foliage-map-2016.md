@@ -4,10 +4,8 @@ title: Fall Foliage Map 2016
 date: 2016-09-01T08:35:39+00:00
 author: claycarson
 layout: post
-guid: http://claycarson.net/?p=479
-permalink: /2016/09/01/fall-foliage-map-2016/
 link: https://smokymountains.com/fall-foliage-map/
-categories:
+categories: 
   - Link
 tags:
   - weather

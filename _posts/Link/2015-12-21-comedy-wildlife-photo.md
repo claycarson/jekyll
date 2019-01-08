@@ -7,7 +7,6 @@ tags:
 - funny
 - photography
 - wildlife
-category:
-- Link
+categories: Link
 link: http://comedywildlifephoto.com/?page_id=36
 ---
