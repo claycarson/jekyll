@@ -31,6 +31,7 @@
 // Home page feature links
 .home .feature a {
   color: #222;
+  text-decoration: none;
   // `:focus` is linked to `:hover` for basic accessibility
   &:hover,
   &:focus {
@@ -45,6 +46,8 @@
 .home .feature h2 a {
 	font-size: 2rem;
 }
+
+.feature li {list-style: none;}
 
 // Home page photo feature
 * {
@@ -100,3 +103,5 @@ a:hover {
     -ms-transition: all 1s ease;
     transition: all 1s ease;
     }
+    
+    

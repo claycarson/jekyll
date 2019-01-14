@@ -6,7 +6,8 @@ input[type=text], input[type=email] {
   text-decoration: none;
   font-family: 'ia_writer_duospaceregular', Helvetica, arial, sans-serif;
   font-size: 14px;
-  width: 35%;
+  min-width: 35%;
+  max-width: 50%;
 }
 	
 input[type=button], input[type=submit], input[type=reset] {
@@ -19,8 +20,9 @@ input[type=button], input[type=submit], input[type=reset] {
   cursor: pointer;
   border-radius: 2px;
   font-family: 'ia_writer_duospaceregular', Helvetica, arial, sans-serif;
-    font-size: 14px;
-    width: 20%;
+  font-size: 14px;
+  min-width: 20%;
+  max-width: 40%;
 }
 
 input[type=button]:hover, input[type=submit]:hover, input[type=reset]:hover {
@@ -33,6 +35,7 @@ input[type=button]:hover, input[type=submit]:hover, input[type=reset]:hover {
   cursor: pointer;
   border-radius: 2px;
   font-family: 'ia_writer_duospaceregular', Helvetica, arial, sans-serif;
-    font-size: 14px;
-  width: 20%;
+  font-size: 14px;
+  min-width: 20%;
+  max-width: 40%;
 }

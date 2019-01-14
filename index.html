@@ -10,14 +10,14 @@ title: Home
 	<span id="newsletter">
 	{% for post in site.categories.Newsletter limit:5 %}
 	  <li><a href="{{ post.url }}">
-		<p>{{ post.title }}</p>
-	  </a></li>
+		<p>{{ post.title }}</a></p>
+	  </li>
 	{% endfor %}
 
 <!-- Begin Mailchimp Signup Form -->
 <form action="https://claycarson.us2.list-manage.com/subscribe/post?u=9eab7e3bd7029c1d9db034eaa&amp;id=7bb36508e6" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 	<label for="mce-EMAIL"></label>
-	<input type="email" value="Email" name="EMAIL" class="required email" id="mce-EMAIL">
+	<input type="email" placeholder="Email" name="EMAIL" class="required email" id="mce-EMAIL">
  <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_9eab7e3bd7029c1d9db034eaa_7bb36508e6" tabindex="-1" value=""></div>
 <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
@@ -39,9 +39,9 @@ title: Home
 	<h2><a href="/status">Status</a></h2>
 	<span id="status">
 	{% for post in site.categories.Status limit:5 %}
-	  <li><a href="{{ post.url }}">
-		<p>{{ post.date | date: "%Y-%m-%d" }} » {{ post.excerpt | strip_html }}</p>
-	  </a></li>
+	  <li>
+		<p>{{ post.date | date: "%Y-%m-%d" }} » <a href="{{ post.url }}">{{ post.excerpt | strip_html }}</a></p>
+	  </li>
 	{% endfor %}
 	</span>
 	</div>
@@ -50,9 +50,9 @@ title: Home
 	<h2><a href="/location">Location</a></h2>
 	<span id="location">
 	{% for post in site.categories.Location limit:5 %}
-	  <li><a href="{{ post.url }}">
-		<p>{{ post.date | date: "%Y-%m-%d" }} » {{ post.title | strip_html }}</p>
-	  </a></li>
+	  <li>
+		<p>{{ post.date | date: "%Y-%m-%d" }} » <a href="{{ post.url }}">{{ post.title }}</a></p>
+	  </li>
 	{% endfor %}
 	</span>
 	</div>
@@ -64,9 +64,9 @@ title: Home
 	{% for post in site.categories.Photo limit:4 %}
 	  <a href="{{ post.url }}">
 			<div class="img-container">
-				<li><p> {{ post.excerpt }} </p></li>
+				<li><p> {{ post.excerpt }} </a></p></li>
 			</div>
-	  </a>
+	  
 	{% endfor %}
 	</div>
 	</span>
@@ -74,11 +74,11 @@ title: Home
 
 	<div class="feature">
 	<h2><a href="/media">Media</a></h2>
-	<span id="media">
+	<span id="status">
 	{% for post in site.categories.Media limit:5 %}
-	  <li><a href="{{ post.url }}">
-		<p>{{ post.date | date: "%Y-%m-%d" }}<!--  » {{post.categories}} --> » {{ post.excerpt | strip_html }}</p>
-	  </a></li>
+	  <li>
+		<p>{{ post.date | date: "%Y-%m-%d" }} » <a href="{{ post.url }}">{{ post.excerpt | strip_html }}</a></p>
+	  </li>
 	{% endfor %}
 	</span>
 	</div>
@@ -87,9 +87,9 @@ title: Home
 	<h2><a href="/link">Link</a></h2>
 	<span id="link">
 	{% for post in site.categories.Link limit:5 %}
-	  <li><a href="{{ post.url }}">
-		<p>{{ post.date | date: "%Y-%m-%d" }} » {{ post.title }}</p>
-	  </a></li>
+	  <li>
+		<p>{{ post.date | date: "%Y-%m-%d" }} » <a href="{{ post.url }}">{{ post.title }}</a></p>
+	  </li>
 	{% endfor %}
 	</span>
 	</div>
@@ -99,7 +99,7 @@ title: Home
 	<span id="quote">
 	{% for post in site.categories.Quote limit:1 %}
 	  <a href="{{ post.url }}">
-		<p>{{ post.excerpt}}</p>
+		<p>{{ post.excerpt }}</p>
 	  </a>
 	{% endfor %}
 	</span>

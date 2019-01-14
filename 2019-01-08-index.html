@@ -1,0 +1,120 @@
+---
+layout: default
+title: Home
+---
+
+<div class="home">
+	
+	<div class="feature">
+	<h2><a href="/newsletter">Newsletter</a></h2>
+	<span id="newsletter">
+	{% for post in site.categories.Newsletter limit:5 %}
+	  <li><a href="{{ post.url }}">
+		<p>{{ post.title }}</p>
+	  </a></li>
+	{% endfor %}
+
+<!-- Begin Mailchimp Signup Form -->
+<form action="https://claycarson.us2.list-manage.com/subscribe/post?u=9eab7e3bd7029c1d9db034eaa&amp;id=7bb36508e6" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+	<label for="mce-EMAIL"></label>
+	<input type="email" placeholder="Email" name="EMAIL" class="required email" id="mce-EMAIL">
+ <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_9eab7e3bd7029c1d9db034eaa_7bb36508e6" tabindex="-1" value=""></div>
+<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+</form>
+<!--End mc_embed_signup-->
+
+<!-- Tiny Letter Form -->
+<!-- <form action="https://tinyletter.com/claycarson" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/claycarson', 'popupwindow', 'scrollbars=yes,width=600,height=400');return true">
+	  <input type="email" placeholder="Email">
+  	  <input type="hidden" maxlength="50" placeholder="Email"/>
+  	  <input type="submit" value="Subscribe"/>
+			</p>
+	</form>-->
+<!-- End Tiny Letter Form-->
+	</span>
+	</div>
+
+	<div class="feature">
+	<h2><a href="/status">Status</a></h2>
+	<span id="status">
+	{% for post in site.categories.Status limit:5 %}
+	  <li><a href="{{ post.url }}">
+		<p>{{ post.date | date: "%Y-%m-%d" }} » {{ post.excerpt | strip_html }}</p>
+	  </a></li>
+	{% endfor %}
+	</span>
+	</div>
+
+	<div class="feature">
+	<h2><a href="/location">Location</a></h2>
+	<span id="location">
+	{% for post in site.categories.Location limit:5 %}
+	  <li><a href="{{ post.url }}">
+		<p>{{ post.date | date: "%Y-%m-%d" }} » {{ post.title | strip_html }}</p>
+	  </a></li>
+	{% endfor %}
+	</span>
+	</div>
+
+	<div class="feature">
+	<h2><a href="/photo">Photo</a></h2>
+	<span id="photo">
+	<div class="clearfix">
+	{% for post in site.categories.Photo limit:4 %}
+	  <a href="{{ post.url }}">
+			<div class="img-container">
+				<li><p> {{ post.excerpt }} </p></li>
+			</div>
+	  </a>
+	{% endfor %}
+	</div>
+	</span>
+	</div>
+
+	<div class="feature">
+	<h2><a href="/media">Media</a></h2>
+	<span id="media">
+	{% for post in site.categories.Media limit:5 %}
+	  <li><a href="{{ post.url }}">
+		<p>{{ post.date | date: "%Y-%m-%d" }}</a><!--  » {{post.categories}} --> » {{ post.content }}</p>
+	  </li>
+	{% endfor %}
+	</span>
+	</div>
+
+	<div class="feature">
+	<h2><a href="/link">Link</a></h2>
+	<span id="link">
+	{% for post in site.categories.Link limit:5 %}
+	  <li><a href="{{ post.url }}">
+		<p>{{ post.date | date: "%Y-%m-%d" }} » {{ post.title }}</p>
+	  </a></li>
+	{% endfor %}
+	</span>
+	</div>
+	
+		<div class="feature">
+	<h2><a href="/quote">Quote</a></h2>
+	<span id="quote">
+	{% for post in site.categories.Quote limit:1 %}
+	  <a href="{{ post.url }}">
+		<p>{{ post.excerpt}}</p>
+	  </a>
+	{% endfor %}
+	</span>
+	</div>
+
+	<div class="feature">
+	<h2><a href="/search">Search</a></h2>
+	<span id="search">
+		  <form method="get" id="search" action="http://duckduckgo.com/">
+  <input type="hidden" name="sites" value="claycarson.net"/>
+  <input type="text" name="q" maxlength="255" placeholder="DuckDuckGo"/>
+  <input type="submit" value="Search" style="" />
+</form>
+		  </span>
+	</div>
+
+
+</div>
