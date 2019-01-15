@@ -31,6 +31,7 @@
 // Home page feature links
 .home .feature a {
   color: #222;
+  list-style: none;
   text-decoration: none;
   // `:focus` is linked to `:hover` for basic accessibility
   &:hover,
@@ -47,7 +48,10 @@
 	font-size: 2rem;
 }
 
-.feature li {list-style: none;}
+.feature li a {
+	border-bottom: none;
+	list-style: none;
+	}
 
 // Home page photo feature
 * {
