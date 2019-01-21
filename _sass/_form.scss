@@ -1,40 +1,40 @@
 input[type=text], input[type=email] {
-  background-color: #f8f8f8;
+  background-color: $gray-1;
   padding: 6px 14px;
   margin: 4px 2px;
-  border: 1px solid #222;
+  border: 1px solid $gray-5;
   text-decoration: none;
-  font-family: 'ia_writer_duospaceregular', Helvetica, arial, sans-serif;
+  font-family: $root-font-family;
   font-size: 14px;
   min-width: 35%;
   max-width: 50%;
 }
 	
 input[type=button], input[type=submit], input[type=reset] {
-  background-color: #222;
-  border: 1px solid #222;
-  color: #fff;
+  background-color: $gray-5;
+  border: 1px solid $gray-5;
+  color: $white;
   padding: 6px 14px;
   text-decoration: none;
   margin: 4px 2px;
   cursor: pointer;
   border-radius: 2px;
-  font-family: 'ia_writer_duospaceregular', Helvetica, arial, sans-serif;
+  font-family: $root-font-family;
   font-size: 14px;
   min-width: 20%;
   max-width: 40%;
 }
 
 input[type=button]:hover, input[type=submit]:hover, input[type=reset]:hover {
-  background-color: #cb3816;
-  border: 1px solid #cb3816;
-  color: #fff;
+  background-color: $red;
+  border: 1px solid $red;
+  color: $white;
   padding: 6px 14px;
   text-decoration: none;
   margin: 4px 2px;
   cursor: pointer;
   border-radius: 2px;
-  font-family: 'ia_writer_duospaceregular', Helvetica, arial, sans-serif;
+  font-family: $root-font-family;
   font-size: 14px;
   min-width: 20%;
   max-width: 40%;

@@ -26,7 +26,8 @@
 // Post title and headings
 
 .post-title h1, h2, h3, h4, h5, h6 {
-  font-family: 'ia_writer_duospacebold', Helvetica, arial, sans-serif;
+  font-size: 2rem;
+  font-family: $header-font-family;
   margin-bottom: 1rem;
   line-height: 1.25;
   color: $gray-5;
