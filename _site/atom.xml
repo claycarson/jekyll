@@ -4,7 +4,7 @@
  <title>Clay Carson</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2019-01-22T22:07:03-06:00</updated>
+ <updated>2019-01-23T11:45:20-06:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Clay Carson</name>
@@ -175,20 +175,11 @@
  </entry>
  
  <entry>
-   <title>Austin, Texas, USA</title>
+   <title>Austin, TX, USA</title>
    <link href="http://localhost:4000/location/2018/12/TX"/>
    <updated>2018-12-17T00:00:00-06:00</updated>
    <id>http://localhost:4000/location/2018/12/TX</id>
-   <content type="html">&lt;p&gt;Austin, Texas, USA&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Austin, Texas, USA</title>
-   <link href="http://localhost:4000/location/2018/12/TX"/>
-   <updated>2018-12-17T00:00:00-06:00</updated>
-   <id>http://localhost:4000/location/2018/12/TX</id>
-   <content type="html">&lt;p&gt;Austin, Texas, USA&lt;/p&gt;
+   <content type="html">&lt;p&gt;Austin, TX, USA&lt;/p&gt;
 </content>
  </entry>
  
@@ -395,9 +386,11 @@
  <entry>
    <title>New Orleans, LA, USA</title>
    <link href="http://localhost:4000/location/2018/11/LA"/>
-   <updated>2018-11-03T00:00:00-05:00</updated>
+   <updated>2018-11-02T00:00:00-05:00</updated>
    <id>http://localhost:4000/location/2018/11/LA</id>
-   <content type="html">&lt;div class=&quot;mapouter&quot;&gt;&lt;div class=&quot;gmap_canvas&quot;&gt;&lt;iframe width=&quot;600&quot; height=&quot;500&quot; id=&quot;gmap_canvas&quot; src=&quot;https://maps.google.com/maps?q=new%20orleans%2C%20la&amp;amp;t=&amp;amp;z=13&amp;amp;ie=UTF8&amp;amp;iwloc=&amp;amp;output=embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;a href=&quot;https://www.embedgooglemap.net&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;style&gt;.mapouter{text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}&lt;/style&gt;&lt;/div&gt;
+   <content type="html">&lt;p&gt;New Orleans, LA, USA&lt;/p&gt;
+
+&lt;div class=&quot;mapouter&quot;&gt;&lt;div class=&quot;gmap_canvas&quot;&gt;&lt;iframe width=&quot;600&quot; height=&quot;500&quot; id=&quot;gmap_canvas&quot; src=&quot;https://maps.google.com/maps?q=new%20orleans%2C%20la&amp;amp;t=&amp;amp;z=13&amp;amp;ie=UTF8&amp;amp;iwloc=&amp;amp;output=embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;a href=&quot;https://www.embedgooglemap.net&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;style&gt;.mapouter{text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}&lt;/style&gt;&lt;/div&gt;
 </content>
  </entry>
  
@@ -530,7 +523,9 @@
    <link href="http://localhost:4000/location/2018/10/GR"/>
    <updated>2018-10-03T00:00:00-05:00</updated>
    <id>http://localhost:4000/location/2018/10/GR</id>
-   <content type="html">&lt;div class=&quot;mapouter&quot;&gt;&lt;div class=&quot;gmap_canvas&quot;&gt;&lt;iframe width=&quot;600&quot; height=&quot;500&quot; id=&quot;gmap_canvas&quot; src=&quot;https://maps.google.com/maps?q=Plaka%2C%20Athens%2C%20Greece&amp;amp;t=&amp;amp;z=13&amp;amp;ie=UTF8&amp;amp;iwloc=&amp;amp;output=embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;
+   <content type="html">&lt;p&gt;Plaka, Athens, Greece&lt;/p&gt;
+
+&lt;div class=&quot;mapouter&quot;&gt;&lt;div class=&quot;gmap_canvas&quot;&gt;&lt;iframe width=&quot;600&quot; height=&quot;500&quot; id=&quot;gmap_canvas&quot; src=&quot;https://maps.google.com/maps?q=Plaka%2C%20Athens%2C%20Greece&amp;amp;t=&amp;amp;z=13&amp;amp;ie=UTF8&amp;amp;iwloc=&amp;amp;output=embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;
 &lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;
 </content>
  </entry>
@@ -593,7 +588,9 @@
    <link href="http://localhost:4000/location/2018/09/GR"/>
    <updated>2018-09-29T00:00:00-05:00</updated>
    <id>http://localhost:4000/location/2018/09/GR</id>
-   <content type="html">&lt;div class=&quot;mapouter&quot;&gt;&lt;div class=&quot;gmap_canvas&quot;&gt;&lt;iframe width=&quot;600&quot; height=&quot;500&quot; id=&quot;gmap_canvas&quot; src=&quot;https://maps.google.com/maps?q=Oia%2C%20Santorini%2C%20Greece&amp;amp;t=&amp;amp;z=13&amp;amp;ie=UTF8&amp;amp;iwloc=&amp;amp;output=embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;
+   <content type="html">&lt;p&gt;Oia, Santorini, Greece&lt;/p&gt;
+
+&lt;div class=&quot;mapouter&quot;&gt;&lt;div class=&quot;gmap_canvas&quot;&gt;&lt;iframe width=&quot;600&quot; height=&quot;500&quot; id=&quot;gmap_canvas&quot; src=&quot;https://maps.google.com/maps?q=Oia%2C%20Santorini%2C%20Greece&amp;amp;t=&amp;amp;z=13&amp;amp;ie=UTF8&amp;amp;iwloc=&amp;amp;output=embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;
 &lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;
 </content>
  </entry>
@@ -657,7 +654,9 @@
    <link href="http://localhost:4000/location/2018/09/MX"/>
    <updated>2018-09-05T00:00:00-05:00</updated>
    <id>http://localhost:4000/location/2018/09/MX</id>
-   <content type="html">&lt;div class=&quot;mapouter&quot;&gt;&lt;div class=&quot;gmap_canvas&quot;&gt;&lt;iframe width=&quot;600&quot; height=&quot;500&quot; id=&quot;gmap_canvas&quot; src=&quot;https://maps.google.com/maps?q=Playa%20del%20Carmen%2C%20Quintana%20Roo%2C%20Mexico&amp;amp;t=&amp;amp;z=13&amp;amp;ie=UTF8&amp;amp;iwloc=&amp;amp;output=embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;
+   <content type="html">&lt;p&gt;Playa del Carmen, Quintana Roo, Mexico&lt;/p&gt;
+
+&lt;div class=&quot;mapouter&quot;&gt;&lt;div class=&quot;gmap_canvas&quot;&gt;&lt;iframe width=&quot;600&quot; height=&quot;500&quot; id=&quot;gmap_canvas&quot; src=&quot;https://maps.google.com/maps?q=Playa%20del%20Carmen%2C%20Quintana%20Roo%2C%20Mexico&amp;amp;t=&amp;amp;z=13&amp;amp;ie=UTF8&amp;amp;iwloc=&amp;amp;output=embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;
 &lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;
 </content>
  </entry>
@@ -1042,7 +1041,9 @@ A part of me fears you.&lt;/p&gt;
    <link href="http://localhost:4000/location/2018/05/TX"/>
    <updated>2018-05-18T00:00:00-05:00</updated>
    <id>http://localhost:4000/location/2018/05/TX</id>
-   <content type="html">&lt;div class=&quot;mapouter&quot;&gt;&lt;div class=&quot;gmap_canvas&quot;&gt;&lt;iframe width=&quot;600&quot; height=&quot;500&quot; id=&quot;gmap_canvas&quot; src=&quot;https://maps.google.com/maps?q=Houston%2C%20Texas%2C%20USA&amp;amp;t=&amp;amp;z=13&amp;amp;ie=UTF8&amp;amp;iwloc=&amp;amp;output=embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;
+   <content type="html">&lt;p&gt;Houston, TX, USA&lt;/p&gt;
+
+&lt;div class=&quot;mapouter&quot;&gt;&lt;div class=&quot;gmap_canvas&quot;&gt;&lt;iframe width=&quot;600&quot; height=&quot;500&quot; id=&quot;gmap_canvas&quot; src=&quot;https://maps.google.com/maps?q=Houston%2C%20Texas%2C%20USA&amp;amp;t=&amp;amp;z=13&amp;amp;ie=UTF8&amp;amp;iwloc=&amp;amp;output=embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;
 &lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;
 </content>
  </entry>
@@ -1168,6 +1169,15 @@ A part of me fears you.&lt;/p&gt;
 &lt;p&gt;Thanks for reading. Have a great month,&lt;/p&gt;
 
 &lt;p&gt;Clay&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Austin, TX, USA</title>
+   <link href="http://localhost:4000/location/2018/04/TX"/>
+   <updated>2018-04-24T00:00:00-05:00</updated>
+   <id>http://localhost:4000/location/2018/04/TX</id>
+   <content type="html">&lt;p&gt;Austin, TX, USA&lt;/p&gt;
 </content>
  </entry>
  
@@ -1305,7 +1315,9 @@ A part of me fears you.&lt;/p&gt;
    <link href="http://localhost:4000/location/2018/03/AZ"/>
    <updated>2018-03-18T00:00:00-05:00</updated>
    <id>http://localhost:4000/location/2018/03/AZ</id>
-   <content type="html">&lt;div class=&quot;mapouter&quot;&gt;&lt;div class=&quot;gmap_canvas&quot;&gt;&lt;iframe width=&quot;600&quot; height=&quot;500&quot; id=&quot;gmap_canvas&quot; src=&quot;https://maps.google.com/maps?q=embedgooglemap&amp;amp;t=&amp;amp;z=13&amp;amp;ie=UTF8&amp;amp;iwloc=&amp;amp;output=embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;
+   <content type="html">&lt;p&gt;Surprise, AZ, USA&lt;/p&gt;
+
+&lt;div class=&quot;mapouter&quot;&gt;&lt;div class=&quot;gmap_canvas&quot;&gt;&lt;iframe width=&quot;600&quot; height=&quot;500&quot; id=&quot;gmap_canvas&quot; src=&quot;https://maps.google.com/maps?q=embedgooglemap&amp;amp;t=&amp;amp;z=13&amp;amp;ie=UTF8&amp;amp;iwloc=&amp;amp;output=embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;
 &lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;
 </content>
  </entry>
@@ -1667,7 +1679,9 @@ imdb.com/title/tt5726616/?ref=m_nv_sr_1&quot;&gt;Call Me by Your Name&lt;/a&gt;.
    <link href="http://localhost:4000/location/2018/01/HI"/>
    <updated>2018-01-06T00:00:00-06:00</updated>
    <id>http://localhost:4000/location/2018/01/HI</id>
-   <content type="html">&lt;div class=&quot;mapouter&quot;&gt;&lt;div class=&quot;gmap_canvas&quot;&gt;&lt;iframe width=&quot;600&quot; height=&quot;500&quot; id=&quot;gmap_canvas&quot; src=&quot;https://maps.google.com/maps?q=Wailea%2C%20Maui%2C%20HI%2C%20USA&amp;amp;t=&amp;amp;z=13&amp;amp;ie=UTF8&amp;amp;iwloc=&amp;amp;output=embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;
+   <content type="html">&lt;p&gt;Wailea, Maui, HI, USA&lt;/p&gt;
+
+&lt;div class=&quot;mapouter&quot;&gt;&lt;div class=&quot;gmap_canvas&quot;&gt;&lt;iframe width=&quot;600&quot; height=&quot;500&quot; id=&quot;gmap_canvas&quot; src=&quot;https://maps.google.com/maps?q=Wailea%2C%20Maui%2C%20HI%2C%20USA&amp;amp;t=&amp;amp;z=13&amp;amp;ie=UTF8&amp;amp;iwloc=&amp;amp;output=embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;
 &lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;
 </content>
  </entry>
@@ -4738,7 +4752,7 @@ Start thinking of as many of your favorite movies as you can, and see if they ap
  </entry>
  
  <entry>
-   <title>Austin, Texas, USA</title>
+   <title>Austin, TX, USA</title>
    <link href="http://localhost:4000/location/2014/12/TX"/>
    <updated>2014-12-13T00:00:00-06:00</updated>
    <id>http://localhost:4000/location/2014/12/TX</id>
@@ -5163,11 +5177,11 @@ Start thinking of as many of your favorite movies as you can, and see if they ap
  </entry>
  
  <entry>
-   <title>Austin, Texas, USA</title>
+   <title>Austin, TX, USA</title>
    <link href="http://localhost:4000/location/2010/08/TX"/>
    <updated>2010-08-06T00:00:00-05:00</updated>
    <id>http://localhost:4000/location/2010/08/TX</id>
-   <content type="html">&lt;p&gt;Austin, Texas, USA&lt;/p&gt;
+   <content type="html">&lt;p&gt;Austin, TX, USA&lt;/p&gt;
 </content>
  </entry>
  
@@ -5208,7 +5222,7 @@ Start thinking of as many of your favorite movies as you can, and see if they ap
  </entry>
  
  <entry>
-   <title>Austin, Texas, USA</title>
+   <title>Austin, TX, USA</title>
    <link href="http://localhost:4000/location/2009/07/TX"/>
    <updated>2009-07-10T00:00:00-05:00</updated>
    <id>http://localhost:4000/location/2009/07/TX</id>
