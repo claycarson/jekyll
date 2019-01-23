@@ -1,10 +1,9 @@
 ---
-layout: default
+layout: archive
 title: Newsletter
 permalink: /newsletter
 ---
 
-# [Newsletter](/newsletter)
 {% for post in site.categories.Newsletter %}
   <li><a href="{{ post.url }}">
     <p>{{ post.title }}</p>

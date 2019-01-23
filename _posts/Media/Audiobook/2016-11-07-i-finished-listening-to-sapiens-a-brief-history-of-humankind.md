@@ -3,7 +3,7 @@ id: 1149
 title: 'I finished listening to Sapiens: A Brief History of Humankind'
 date: 2016-11-07T16:03:38+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Audiobook
   - Media

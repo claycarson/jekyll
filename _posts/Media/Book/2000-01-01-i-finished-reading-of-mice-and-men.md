@@ -3,7 +3,7 @@ id: 1076
 title: I finished reading Of Mice and Men
 date: 2000-01-01T15:28:29+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Book
   - Media

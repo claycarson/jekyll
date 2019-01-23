@@ -3,7 +3,7 @@ id: 1141
 title: 'I finished listening to Extreme Ownership: How U.S. Navy SEALs Lead and Win'
 date: 2016-07-01T15:01:50+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Audiobook
   - Media

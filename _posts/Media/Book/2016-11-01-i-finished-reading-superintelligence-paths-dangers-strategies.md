@@ -3,7 +3,7 @@ id: 1066
 title: 'I finished reading Superintelligence: Paths, Dangers, Strategies'
 date: 2016-11-01T14:21:45+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Book
   - Media

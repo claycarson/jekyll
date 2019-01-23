@@ -3,7 +3,7 @@ id: 1187
 title: Honeymoon
 date: 2012-05-20T16:17:50+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Photo
 tags:

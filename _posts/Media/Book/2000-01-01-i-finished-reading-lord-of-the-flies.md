@@ -3,7 +3,7 @@ id: 1086
 title: I finished reading Lord of the Flies
 date: 2000-01-01T14:31:11+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Book
   - Media

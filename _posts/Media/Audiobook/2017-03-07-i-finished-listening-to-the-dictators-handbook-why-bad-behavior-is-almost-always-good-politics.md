@@ -3,7 +3,7 @@ id: 1123
 title: 'I finished listening to The Dictator&#8217;s Handbook: Why Bad Behavior is Almost Always Good Politics'
 date: 2017-03-07T15:57:28+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Audiobook
   - Media

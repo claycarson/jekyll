@@ -4,7 +4,7 @@
  <title>Clay Carson</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2019-01-22T11:38:17-06:00</updated>
+ <updated>2019-01-22T22:07:03-06:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Clay Carson</name>
@@ -1603,7 +1603,8 @@ imdb.com/title/tt5726616/?ref=m_nv_sr_1&quot;&gt;Call Me by Your Name&lt;/a&gt;.
    <link href="http://localhost:4000/photo/2018/01/maui-hawaii"/>
    <updated>2018-01-30T08:28:53-06:00</updated>
    <id>http://localhost:4000/photo/2018/01/maui-hawaii</id>
-   <content type="html">
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://claycarson.net/wp-content/uploads/2018/11/img_0704-2.jpg&quot; /&gt;
+&lt;!--more--&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -2798,7 +2799,8 @@ Start thinking of as many of your favorite movies as you can, and see if they ap
    <link href="http://localhost:4000/photo/2017/09/paris-france"/>
    <updated>2017-09-23T03:50:28-05:00</updated>
    <id>http://localhost:4000/photo/2017/09/paris-france</id>
-   <content type="html">
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://claycarson.net/wp-content/uploads/2018/11/img_0704-2.jpg&quot; /&gt;
+&lt;!--more--&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -4994,19 +4996,11 @@ Start thinking of as many of your favorite movies as you can, and see if they ap
  </entry>
  
  <entry>
-   <title>Ca</title>
-   <link href="http://localhost:4000/2011/08/CA"/>
+   <title>Los Angeles, CA, USA</title>
+   <link href="http://localhost:4000/location/2011/08/CA"/>
    <updated>2011-08-01T00:00:00-05:00</updated>
-   <id>http://localhost:4000/2011/08/CA</id>
-   <content type="html">&lt;p&gt;s—
-layout: post
-title: Los Angeles, CA, USA
-date:   2011-08-01
-categories: Location
-description: 
-—&lt;/p&gt;
-
-&lt;p&gt;Los Angeles, CA, USA&lt;/p&gt;
+   <id>http://localhost:4000/location/2011/08/CA</id>
+   <content type="html">&lt;p&gt;Los Angeles, CA, USA&lt;/p&gt;
 </content>
  </entry>
  

@@ -3,7 +3,8 @@ id: 1844
 title: Luge Yourself
 date: 2018-02-06T15:14:47+00:00
 author: claycarson
-link: 'https://www.washingtonpost.com/graphics/2018/sports/olympics-learning-to-luge/?utm_medium=iosapp&utm_source=nextdraft&utm_term=.77dc77d77359'
+layout: post
+link: https://www.washingtonpost.com/graphics/2018/sports/olympics-learning-to-luge/
 categories: 
   - Link
 tags:

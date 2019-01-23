@@ -3,7 +3,7 @@ id: 1084
 title: 'I finished reading Beyond Belief: Finding the Strength to Come Back'
 date: 2000-01-01T15:30:45+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Book
   - Media

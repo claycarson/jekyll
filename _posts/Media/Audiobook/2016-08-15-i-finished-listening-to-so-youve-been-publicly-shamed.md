@@ -3,7 +3,7 @@ id: 1143
 title: 'I finished listening to So You&#8217;ve Been Publicly Shamed'
 date: 2016-08-15T15:02:18+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Audiobook
   - Media

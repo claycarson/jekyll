@@ -3,7 +3,7 @@ id: 1145
 title: 'I finished listening to Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration'
 date: 2016-08-24T15:02:41+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Audiobook
   - Media

@@ -3,7 +3,7 @@ id: 1131
 title: I finished listening to On Writing
 date: 2015-11-13T15:59:13+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Audiobook
   - Media

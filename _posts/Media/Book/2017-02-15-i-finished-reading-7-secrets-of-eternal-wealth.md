@@ -3,7 +3,7 @@ id: 1020
 title: I finished reading 7 Secrets of Eternal Wealth
 date: 2017-02-15T10:56:13+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Book
   - Media

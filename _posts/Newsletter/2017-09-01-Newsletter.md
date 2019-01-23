@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout: post
 title:      September 2017
 date:       2017-09-01
 summary:    

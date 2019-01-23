@@ -3,7 +3,7 @@ id: 1189
 title: Dark Flower
 date: 2007-07-27T16:20:27+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Photo
 format: image

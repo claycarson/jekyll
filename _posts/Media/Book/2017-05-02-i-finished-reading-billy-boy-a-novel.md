@@ -3,7 +3,7 @@ id: 1070
 title: 'I finished reading Billy Boy: A Novel'
 date: 2017-05-02T14:25:10+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Book
   - Media

@@ -3,7 +3,7 @@ id: 1078
 title: I finished reading Eating the Dinosaur
 date: 2000-01-01T15:29:07+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Book
   - Media

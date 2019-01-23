@@ -3,7 +3,7 @@ id: 1115
 title: 'I finished listening to The Tipping Point: How Little Things Can Make a Big Difference'
 date: 2000-01-01T15:53:10+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Audiobook
   - Media

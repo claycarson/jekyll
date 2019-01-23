@@ -3,7 +3,7 @@ id: 1147
 title: 'I finished listening to 11/22/63: A Novel'
 date: 2016-08-29T14:03:11+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Audiobook
   - Media

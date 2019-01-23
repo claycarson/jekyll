@@ -3,7 +3,7 @@ id: 945
 title: The Library of Congress
 date: 2017-06-17T10:54:44+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Photo
 tags:

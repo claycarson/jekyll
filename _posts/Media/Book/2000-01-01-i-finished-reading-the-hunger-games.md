@@ -3,7 +3,7 @@ id: 1088
 title: I finished reading The Hunger Games
 date: 2000-01-01T15:31:44+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Book
   - Media

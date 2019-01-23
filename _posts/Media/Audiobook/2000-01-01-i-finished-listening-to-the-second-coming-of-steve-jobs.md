@@ -3,7 +3,7 @@ id: 1092
 title: I finished listening to The Second Coming of Steve Jobs
 date: 2000-01-01T15:47:09+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Audiobook
   - Media

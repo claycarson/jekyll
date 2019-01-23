@@ -3,7 +3,7 @@ id: 925
 title: Flying Solo
 date: 2017-06-12T20:31:53+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Photo
 tags:

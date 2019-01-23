@@ -3,7 +3,7 @@ id: 1024
 title: 'I finished reading iWoz: Computer Geek to Cult Icon'
 date: 2000-01-01T11:27:36+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Book
   - Media

@@ -3,7 +3,7 @@ id: 1105
 title: 'I finished listening to Blink: The Power of Thinking Without Thinking'
 date: 2000-01-01T15:51:44+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Audiobook
   - Media

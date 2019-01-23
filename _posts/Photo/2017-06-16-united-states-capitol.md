@@ -3,7 +3,7 @@ id: 940
 title: United States Capitol
 date: 2017-06-16T06:02:40+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Photo
 tags:

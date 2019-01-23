@@ -1,10 +1,9 @@
 ---
-layout: default
+layout: archive
 title: Photo
 permalink: /photo
 ---
 
-# [Photo](/photo)
 {% for post in site.categories.Photo %}
   <a href="{{ post.url }}">
 		<div class="img-container">

@@ -3,7 +3,7 @@ id: 1135
 title: 'I finished listening to Born Standing Up: A Comic&#8217;s Life'
 date: 2015-12-07T16:00:26+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Audiobook
   - Media

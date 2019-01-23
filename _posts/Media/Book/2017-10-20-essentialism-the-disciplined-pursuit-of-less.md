@@ -3,7 +3,7 @@ id: 1368
 title: 'Essentialism: The Disciplined Pursuit of Less'
 date: 2017-10-20T09:48:02+00:00
 author: claycarson
-layout: post
+layout: post-simple
 linked_list_url:
   - 'Essentialism: The Disciplined Pursuit of Less'
 categories: 

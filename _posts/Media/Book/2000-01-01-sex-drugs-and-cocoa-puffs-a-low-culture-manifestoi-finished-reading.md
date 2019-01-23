@@ -3,7 +3,7 @@ id: 1080
 title: 'Sex, Drugs, and Cocoa Puffs: A Low Culture ManifestoI finished reading'
 date: 2000-01-01T15:29:37+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Book
   - Media

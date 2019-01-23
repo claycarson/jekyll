@@ -3,7 +3,7 @@ id: 1408
 title: Arnold H. Glasgow
 date: 2017-11-20T17:29:06+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Quote
 tags:

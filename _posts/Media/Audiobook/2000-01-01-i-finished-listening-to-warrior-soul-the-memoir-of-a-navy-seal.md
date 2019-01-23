@@ -3,7 +3,7 @@ id: 1103
 title: 'I finished listening to Warrior Soul: The Memoir of a Navy Seal'
 date: 2000-01-01T15:51:19+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Audiobook
   - Media

@@ -3,7 +3,7 @@ id: 1151
 title: 'I finished listening to In The Plex: How Google Thinks, Works, and Shapes Our Lives'
 date: 2016-11-15T16:04:07+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Audiobook
   - Media

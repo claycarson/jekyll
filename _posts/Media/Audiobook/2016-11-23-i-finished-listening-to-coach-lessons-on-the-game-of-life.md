@@ -3,7 +3,7 @@ id: 1153
 title: 'I finished listening to Coach: Lessons on the Game of Life'
 date: 2016-11-23T16:04:38+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Audiobook
   - Media

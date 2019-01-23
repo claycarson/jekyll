@@ -3,7 +3,7 @@ id: 1016
 title: I finished reading The Greatest Salesman in the World
 date: 2016-10-14T16:17:42+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Book
   - Media

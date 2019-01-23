@@ -3,7 +3,7 @@ id: 1155
 title: 'I finished listening to Unbroken: A World War II Story of Survival, Resilience, and Redemption'
 date: 2017-05-18T15:05:05+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Audiobook
   - Media

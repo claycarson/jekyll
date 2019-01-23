@@ -3,7 +3,7 @@ id: 1109
 title: 'I finished listening to Lone Survivor: The Eyewitness Account of Operation Redwing and the Lost Heroes of SEAL Team 10'
 date: 2000-01-01T15:52:22+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Audiobook
   - Media

@@ -1,12 +1,11 @@
 ---
-layout: default
+layout: archive
 title: Location
 permalink: /location
 ---
 
-# [Location](/location)
 {% for post in site.categories.Location %}
-  <li><a href="{{ post.url }}">
-    <p>{{ post.date | date: "%Y-%m-%d" }} » {{ post.title | strip_html }}</p>
-  </a></li>
+  <li>
+    <p>{{ post.date | date: "%Y-%m-%d" }} » <a href="{{ post.url }}">{{ post.excerpt | strip_html }}</a></p>
+  </li>
 {% endfor %}

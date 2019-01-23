@@ -3,7 +3,7 @@ id: 1010
 title: 'I finished reading The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life'
 date: 2017-01-06T10:53:34+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Book
   - Media

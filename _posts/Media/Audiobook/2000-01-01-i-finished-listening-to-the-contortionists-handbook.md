@@ -3,7 +3,7 @@ id: 1121
 title: 'I finished listening to The Contortionist&#8217;s Handbook'
 date: 2000-01-01T15:56:55+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Audiobook
   - Media

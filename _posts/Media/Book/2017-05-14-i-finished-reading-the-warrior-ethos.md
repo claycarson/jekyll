@@ -3,7 +3,7 @@ id: 1068
 title: I finished reading The Warrior Ethos
 date: 2017-05-14T14:24:33+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Book
   - Media

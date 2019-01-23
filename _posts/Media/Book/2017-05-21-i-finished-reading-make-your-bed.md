@@ -3,7 +3,7 @@ id: 1035
 title: I finished reading Make Your Bed
 date: 2017-05-21T13:58:30+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Book
   - Media

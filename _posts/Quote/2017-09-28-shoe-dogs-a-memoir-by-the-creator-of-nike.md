@@ -3,7 +3,7 @@ id: 1306
 title: 'Shoe Dogs: A Memoir by the Creator of Nike'
 date: 2017-09-28T07:20:14+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Quote
 tags:

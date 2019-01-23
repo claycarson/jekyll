@@ -3,7 +3,7 @@ id: 1101
 title: 'I finished listening to The Warrior Elite: The Forging of SEAL Class 228'
 date: 2000-01-01T15:51:00+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Audiobook
   - Media

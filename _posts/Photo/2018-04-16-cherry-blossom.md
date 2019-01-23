@@ -3,7 +3,7 @@ id: 1887
 title: Cherry Blossom
 date: 2018-04-16T16:11:07+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Photo
 tags:

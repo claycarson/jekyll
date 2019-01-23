@@ -3,7 +3,7 @@ id: 1014
 title: I finished reading The Stranger
 date: 2017-01-23T10:54:19+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Book
   - Media

@@ -3,7 +3,7 @@ id: 1127
 title: 'I finished listening to The Big Miss: My Years Coaching Tiger Woods'
 date: 2000-01-01T14:58:19+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Audiobook
   - Media

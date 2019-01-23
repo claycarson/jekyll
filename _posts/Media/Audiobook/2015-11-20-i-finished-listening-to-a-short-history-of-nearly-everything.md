@@ -3,7 +3,7 @@ id: 1133
 title: I finished listening to A Short History of Nearly Everything
 date: 2015-11-20T15:59:59+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Audiobook
   - Media

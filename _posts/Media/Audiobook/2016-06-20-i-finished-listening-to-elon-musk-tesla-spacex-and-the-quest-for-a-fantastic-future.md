@@ -3,7 +3,7 @@ id: 1139
 title: 'I finished listening to Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future'
 date: 2016-06-20T15:01:25+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Audiobook
   - Media

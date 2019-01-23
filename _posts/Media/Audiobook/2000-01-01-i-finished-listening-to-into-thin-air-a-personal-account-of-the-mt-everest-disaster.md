@@ -3,7 +3,7 @@ id: 1111
 title: 'I finished listening to Into Thin Air: A Personal Account of the Mt. Everest Disaster'
 date: 2000-01-01T15:52:47+00:00
 author: claycarson
-layout: post
+layout: post-simple
 categories: 
   - Audiobook
   - Media
