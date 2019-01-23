@@ -65,13 +65,17 @@
  	float: left;
 	width: 33%;
 	height: auto;
-	padding-right: .5rem;
+	padding-right: 0rem;
 	list-style: none;
 	overflow: hidden;
 }
 
+.img-container li {
+	list-style: none;
+}
+
 .img-container img {
-    position:relative;
+    // position:relative;
     left:0;
     top:0;
     -webkit-transition: all 1s ease;
