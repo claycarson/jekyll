@@ -4,13 +4,22 @@
  <title>Clay Carson</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2019-01-20T18:20:05-06:00</updated>
+ <updated>2019-01-22T11:38:17-06:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Clay Carson</name>
    <email>clay@claycarson.net</email>
  </author>
 
+ 
+ <entry>
+   <title>Heavener, OK, USA</title>
+   <link href="http://localhost:4000/location/2019/01/OK"/>
+   <updated>2019-01-04T00:00:00-06:00</updated>
+   <id>http://localhost:4000/location/2019/01/OK</id>
+   <content type="html">&lt;p&gt;Heavener, OK, USA&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>January 2019</title>
@@ -167,10 +176,19 @@
  
  <entry>
    <title>Austin, Texas, USA</title>
-   <link href="http://localhost:4000/location/2018/12/Texas"/>
+   <link href="http://localhost:4000/location/2018/12/TX"/>
    <updated>2018-12-17T00:00:00-06:00</updated>
-   <id>http://localhost:4000/location/2018/12/Texas</id>
-   <content type="html">&lt;p&gt;Austin, Texas&lt;/p&gt;
+   <id>http://localhost:4000/location/2018/12/TX</id>
+   <content type="html">&lt;p&gt;Austin, Texas, USA&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Austin, Texas, USA</title>
+   <link href="http://localhost:4000/location/2018/12/TX"/>
+   <updated>2018-12-17T00:00:00-06:00</updated>
+   <id>http://localhost:4000/location/2018/12/TX</id>
+   <content type="html">&lt;p&gt;Austin, Texas, USA&lt;/p&gt;
 </content>
  </entry>
  
@@ -376,9 +394,9 @@
  
  <entry>
    <title>New Orleans, LA, USA</title>
-   <link href="http://localhost:4000/location/2018/11/Louisiana"/>
+   <link href="http://localhost:4000/location/2018/11/LA"/>
    <updated>2018-11-03T00:00:00-05:00</updated>
-   <id>http://localhost:4000/location/2018/11/Louisiana</id>
+   <id>http://localhost:4000/location/2018/11/LA</id>
    <content type="html">&lt;div class=&quot;mapouter&quot;&gt;&lt;div class=&quot;gmap_canvas&quot;&gt;&lt;iframe width=&quot;600&quot; height=&quot;500&quot; id=&quot;gmap_canvas&quot; src=&quot;https://maps.google.com/maps?q=new%20orleans%2C%20la&amp;amp;t=&amp;amp;z=13&amp;amp;ie=UTF8&amp;amp;iwloc=&amp;amp;output=embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;a href=&quot;https://www.embedgooglemap.net&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;style&gt;.mapouter{text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}&lt;/style&gt;&lt;/div&gt;
 </content>
  </entry>
@@ -509,9 +527,9 @@
  
  <entry>
    <title>Plaka, Athens, Greece</title>
-   <link href="http://localhost:4000/location/2018/10/Greece"/>
+   <link href="http://localhost:4000/location/2018/10/GR"/>
    <updated>2018-10-03T00:00:00-05:00</updated>
-   <id>http://localhost:4000/location/2018/10/Greece</id>
+   <id>http://localhost:4000/location/2018/10/GR</id>
    <content type="html">&lt;div class=&quot;mapouter&quot;&gt;&lt;div class=&quot;gmap_canvas&quot;&gt;&lt;iframe width=&quot;600&quot; height=&quot;500&quot; id=&quot;gmap_canvas&quot; src=&quot;https://maps.google.com/maps?q=Plaka%2C%20Athens%2C%20Greece&amp;amp;t=&amp;amp;z=13&amp;amp;ie=UTF8&amp;amp;iwloc=&amp;amp;output=embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;
 &lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;
 </content>
@@ -572,9 +590,9 @@
  
  <entry>
    <title>Oia, Santorini, Greece</title>
-   <link href="http://localhost:4000/location/2018/09/Greece"/>
+   <link href="http://localhost:4000/location/2018/09/GR"/>
    <updated>2018-09-29T00:00:00-05:00</updated>
-   <id>http://localhost:4000/location/2018/09/Greece</id>
+   <id>http://localhost:4000/location/2018/09/GR</id>
    <content type="html">&lt;div class=&quot;mapouter&quot;&gt;&lt;div class=&quot;gmap_canvas&quot;&gt;&lt;iframe width=&quot;600&quot; height=&quot;500&quot; id=&quot;gmap_canvas&quot; src=&quot;https://maps.google.com/maps?q=Oia%2C%20Santorini%2C%20Greece&amp;amp;t=&amp;amp;z=13&amp;amp;ie=UTF8&amp;amp;iwloc=&amp;amp;output=embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;
 &lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;
 </content>
@@ -636,9 +654,9 @@
  
  <entry>
    <title>Playa del Carmen, Quintana Roo, Mexico</title>
-   <link href="http://localhost:4000/location/2018/09/Mexico"/>
+   <link href="http://localhost:4000/location/2018/09/MX"/>
    <updated>2018-09-05T00:00:00-05:00</updated>
-   <id>http://localhost:4000/location/2018/09/Mexico</id>
+   <id>http://localhost:4000/location/2018/09/MX</id>
    <content type="html">&lt;div class=&quot;mapouter&quot;&gt;&lt;div class=&quot;gmap_canvas&quot;&gt;&lt;iframe width=&quot;600&quot; height=&quot;500&quot; id=&quot;gmap_canvas&quot; src=&quot;https://maps.google.com/maps?q=Playa%20del%20Carmen%2C%20Quintana%20Roo%2C%20Mexico&amp;amp;t=&amp;amp;z=13&amp;amp;ie=UTF8&amp;amp;iwloc=&amp;amp;output=embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;
 &lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;
 </content>
@@ -1021,9 +1039,9 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Houston, TX, USA</title>
-   <link href="http://localhost:4000/location/2018/05/Texas"/>
+   <link href="http://localhost:4000/location/2018/05/TX"/>
    <updated>2018-05-18T00:00:00-05:00</updated>
-   <id>http://localhost:4000/location/2018/05/Texas</id>
+   <id>http://localhost:4000/location/2018/05/TX</id>
    <content type="html">&lt;div class=&quot;mapouter&quot;&gt;&lt;div class=&quot;gmap_canvas&quot;&gt;&lt;iframe width=&quot;600&quot; height=&quot;500&quot; id=&quot;gmap_canvas&quot; src=&quot;https://maps.google.com/maps?q=Houston%2C%20Texas%2C%20USA&amp;amp;t=&amp;amp;z=13&amp;amp;ie=UTF8&amp;amp;iwloc=&amp;amp;output=embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;
 &lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;
 </content>
@@ -1173,6 +1191,15 @@ A part of me fears you.&lt;/p&gt;
  </entry>
  
  <entry>
+   <title>Washington, DC, USA</title>
+   <link href="http://localhost:4000/location/2018/04/DC"/>
+   <updated>2018-04-12T00:00:00-05:00</updated>
+   <id>http://localhost:4000/location/2018/04/DC</id>
+   <content type="html">&lt;p&gt;Washington, DC, USA&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>1884</title>
    <link href="http://localhost:4000/media/movie/2018/04/1884"/>
    <updated>2018-04-07T15:56:27-05:00</updated>
@@ -1275,9 +1302,9 @@ A part of me fears you.&lt;/p&gt;
  
  <entry>
    <title>Surprise, AZ, USA</title>
-   <link href="http://localhost:4000/location/2018/03/Arizona"/>
+   <link href="http://localhost:4000/location/2018/03/AZ"/>
    <updated>2018-03-18T00:00:00-05:00</updated>
-   <id>http://localhost:4000/location/2018/03/Arizona</id>
+   <id>http://localhost:4000/location/2018/03/AZ</id>
    <content type="html">&lt;div class=&quot;mapouter&quot;&gt;&lt;div class=&quot;gmap_canvas&quot;&gt;&lt;iframe width=&quot;600&quot; height=&quot;500&quot; id=&quot;gmap_canvas&quot; src=&quot;https://maps.google.com/maps?q=embedgooglemap&amp;amp;t=&amp;amp;z=13&amp;amp;ie=UTF8&amp;amp;iwloc=&amp;amp;output=embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;
 &lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;
 </content>
@@ -1626,20 +1653,19 @@ imdb.com/title/tt5726616/?ref=m_nv_sr_1&quot;&gt;Call Me by Your Name&lt;/a&gt;.
  </entry>
  
  <entry>
-   <title>Octavia, OK, USA</title>
-   <link href="http://localhost:4000/location/2018/01/Oklahoma"/>
+   <title>Heavener, OK, USA</title>
+   <link href="http://localhost:4000/location/2018/01/OK"/>
    <updated>2018-01-12T00:00:00-06:00</updated>
-   <id>http://localhost:4000/location/2018/01/Oklahoma</id>
-   <content type="html">&lt;div class=&quot;mapouter&quot;&gt;&lt;div class=&quot;gmap_canvas&quot;&gt;&lt;iframe width=&quot;600&quot; height=&quot;500&quot; id=&quot;gmap_canvas&quot; src=&quot;https://maps.google.com/maps?q=Octavia%2C%20OK%2C%20USA&amp;amp;t=&amp;amp;z=13&amp;amp;ie=UTF8&amp;amp;iwloc=&amp;amp;output=embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;
-&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;
+   <id>http://localhost:4000/location/2018/01/OK</id>
+   <content type="html">&lt;p&gt;Heavener, OK, USA&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Wailea, Maui, HI, USA</title>
-   <link href="http://localhost:4000/location/2018/01/Hawaii"/>
+   <link href="http://localhost:4000/location/2018/01/HI"/>
    <updated>2018-01-06T00:00:00-06:00</updated>
-   <id>http://localhost:4000/location/2018/01/Hawaii</id>
+   <id>http://localhost:4000/location/2018/01/HI</id>
    <content type="html">&lt;div class=&quot;mapouter&quot;&gt;&lt;div class=&quot;gmap_canvas&quot;&gt;&lt;iframe width=&quot;600&quot; height=&quot;500&quot; id=&quot;gmap_canvas&quot; src=&quot;https://maps.google.com/maps?q=Wailea%2C%20Maui%2C%20HI%2C%20USA&amp;amp;t=&amp;amp;z=13&amp;amp;ie=UTF8&amp;amp;iwloc=&amp;amp;output=embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;
 &lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;
 </content>
@@ -2795,6 +2821,33 @@ Start thinking of as many of your favorite movies as you can, and see if they ap
  </entry>
  
  <entry>
+   <title>Prague, Czech Republic</title>
+   <link href="http://localhost:4000/location/2017/09/CR"/>
+   <updated>2017-09-17T00:00:00-05:00</updated>
+   <id>http://localhost:4000/location/2017/09/CR</id>
+   <content type="html">&lt;p&gt;Prague, Czech Republic&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Amsterdam, Netherlands</title>
+   <link href="http://localhost:4000/location/2017/09/NE"/>
+   <updated>2017-09-15T00:00:00-05:00</updated>
+   <id>http://localhost:4000/location/2017/09/NE</id>
+   <content type="html">&lt;p&gt;Amsterdam, Netherlands&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Paris, France</title>
+   <link href="http://localhost:4000/location/2017/09/FR"/>
+   <updated>2017-09-11T00:00:00-05:00</updated>
+   <id>http://localhost:4000/location/2017/09/FR</id>
+   <content type="html">&lt;p&gt;Paris, France&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>September 2017</title>
    <link href="http://localhost:4000/newsletter/2017/09/Newsletter"/>
    <updated>2017-09-01T00:00:00-05:00</updated>
@@ -3086,6 +3139,15 @@ Start thinking of as many of your favorite movies as you can, and see if they ap
  </entry>
  
  <entry>
+   <title>Richmond, VA, USA</title>
+   <link href="http://localhost:4000/location/2017/06/VA"/>
+   <updated>2017-06-16T00:00:00-05:00</updated>
+   <id>http://localhost:4000/location/2017/06/VA</id>
+   <content type="html">&lt;p&gt;Richmond, VA, USA&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>929</title>
    <link href="http://localhost:4000/status/2017/06/929"/>
    <updated>2017-06-13T15:48:35-05:00</updated>
@@ -3201,6 +3263,33 @@ Start thinking of as many of your favorite movies as you can, and see if they ap
  </entry>
  
  <entry>
+   <title>Shenendoah National Park, VA, USA</title>
+   <link href="http://localhost:4000/location/2017/04/VA"/>
+   <updated>2017-04-21T00:00:00-05:00</updated>
+   <id>http://localhost:4000/location/2017/04/VA</id>
+   <content type="html">&lt;p&gt;Shenendoah National Park, VA, USA&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Washington, DC, USA</title>
+   <link href="http://localhost:4000/location/2017/04/DC"/>
+   <updated>2017-04-20T00:00:00-05:00</updated>
+   <id>http://localhost:4000/location/2017/04/DC</id>
+   <content type="html">&lt;p&gt;Washington, DC, USA&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Phoenix, AZ, USA</title>
+   <link href="http://localhost:4000/location/2017/03/AZ"/>
+   <updated>2017-03-24T00:00:00-05:00</updated>
+   <id>http://localhost:4000/location/2017/03/AZ</id>
+   <content type="html">&lt;p&gt;Phoenix, AZ, USA&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>TPC Scottsdale</title>
    <link href="http://localhost:4000/photo/2017/03/tpc-scottsdale"/>
    <updated>2017-03-23T13:05:05-05:00</updated>
@@ -3219,11 +3308,29 @@ Start thinking of as many of your favorite movies as you can, and see if they ap
  </entry>
  
  <entry>
+   <title>Fredericksburg, TX, USA</title>
+   <link href="http://localhost:4000/location/2017/03/TX"/>
+   <updated>2017-03-11T00:00:00-06:00</updated>
+   <id>http://localhost:4000/location/2017/03/TX</id>
+   <content type="html">&lt;p&gt;Fredericksburg, TX, USA&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>I finished listening to The Dictator&amp;#8217;s Handbook: Why Bad Behavior is Almost Always Good Politics</title>
    <link href="http://localhost:4000/audiobook/media/2017/03/i-finished-listening-to-the-dictators-handbook-why-bad-behavior-is-almost-always-good-politics"/>
    <updated>2017-03-07T09:57:28-06:00</updated>
    <id>http://localhost:4000/audiobook/media/2017/03/i-finished-listening-to-the-dictators-handbook-why-bad-behavior-is-almost-always-good-politics</id>
    <content type="html">&lt;p&gt;I finished listening to &lt;a href=&quot;http://amazon.com/exec/obidos/ASIN/161039044X/claycarson0c-20&quot;&gt;The Dictator’s Handbook: Why Bad Behavior is Almost Always Good Politics&lt;/a&gt;.&lt;!--more--&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Driftwood, TX, USA</title>
+   <link href="http://localhost:4000/location/2017/03/TX"/>
+   <updated>2017-03-04T00:00:00-06:00</updated>
+   <id>http://localhost:4000/location/2017/03/TX</id>
+   <content type="html">&lt;p&gt;Driftwood, TX, USA&lt;/p&gt;
 </content>
  </entry>
  
@@ -3738,6 +3845,15 @@ Start thinking of as many of your favorite movies as you can, and see if they ap
  </entry>
  
  <entry>
+   <title>Playa Del Carmen, Mexico</title>
+   <link href="http://localhost:4000/location/2016/08/MX"/>
+   <updated>2016-08-26T00:00:00-05:00</updated>
+   <id>http://localhost:4000/location/2016/08/MX</id>
+   <content type="html">&lt;p&gt;Playa Del Carmen, Mexico&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>I finished listening to Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration</title>
    <link href="http://localhost:4000/audiobook/media/2016/08/i-finished-listening-to-creativity-inc-overcoming-the-unseen-forces-that-stand-in-the-way-of-true-inspiration"/>
    <updated>2016-08-24T10:02:41-05:00</updated>
@@ -3798,6 +3914,15 @@ Start thinking of as many of your favorite movies as you can, and see if they ap
  </entry>
  
  <entry>
+   <title>San Diego, CA, USA</title>
+   <link href="http://localhost:4000/location/2016/08/CA"/>
+   <updated>2016-08-05T00:00:00-05:00</updated>
+   <id>http://localhost:4000/location/2016/08/CA</id>
+   <content type="html">&lt;p&gt;San Diego, CA, USA&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>I finished reading Trust Me, I&amp;#8217;m Lying: Confessions of a Media Manipulator</title>
    <link href="http://localhost:4000/book/media/2016/08/997"/>
    <updated>2016-08-02T12:16:45-05:00</updated>
@@ -3836,6 +3961,15 @@ Start thinking of as many of your favorite movies as you can, and see if they ap
  </entry>
  
  <entry>
+   <title>New Orleans, LA, USA</title>
+   <link href="http://localhost:4000/location/2016/06/LA"/>
+   <updated>2016-06-23T00:00:00-05:00</updated>
+   <id>http://localhost:4000/location/2016/06/LA</id>
+   <content type="html">&lt;p&gt;New Orleans, LA, USA&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>I finished listening to Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future</title>
    <link href="http://localhost:4000/audiobook/media/2016/06/i-finished-listening-to-elon-musk-tesla-spacex-and-the-quest-for-a-fantastic-future"/>
    <updated>2016-06-20T10:01:25-05:00</updated>
@@ -3850,6 +3984,24 @@ Start thinking of as many of your favorite movies as you can, and see if they ap
    <updated>2016-06-16T12:15:45-05:00</updated>
    <id>http://localhost:4000/book/media/2016/06/995</id>
    <content type="html">&lt;p&gt;I finished reading &lt;a href=&quot;http://amazon.com/exec/obidos/ASIN/1591846358/claycarson0c-20&quot;&gt;The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph&lt;/a&gt;.&lt;!--more--&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Las Vegas, NV, USA</title>
+   <link href="http://localhost:4000/location/2016/06/NV"/>
+   <updated>2016-06-11T00:00:00-05:00</updated>
+   <id>http://localhost:4000/location/2016/06/NV</id>
+   <content type="html">&lt;p&gt;Las Vegas, NV, USA&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Wimberley, TX, USA</title>
+   <link href="http://localhost:4000/location/2016/06/TX"/>
+   <updated>2016-06-11T00:00:00-05:00</updated>
+   <id>http://localhost:4000/location/2016/06/TX</id>
+   <content type="html">&lt;p&gt;Wimberley, TX, USA&lt;/p&gt;
 </content>
  </entry>
  
@@ -4051,6 +4203,15 @@ Start thinking of as many of your favorite movies as you can, and see if they ap
    <updated>2016-03-09T12:13:06-06:00</updated>
    <id>http://localhost:4000/book/media/2016/03/987</id>
    <content type="html">&lt;p&gt;I finished reading &lt;a href=&quot;http://amazon.com/exec/obidos/ASIN/0439785960/claycarson0c-20&quot;&gt;Harry Potter and the Half-Blood Prince&lt;/a&gt;.&lt;!--more--&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Miami Beach, FL, USA</title>
+   <link href="http://localhost:4000/location/2016/03/FL"/>
+   <updated>2016-03-02T00:00:00-06:00</updated>
+   <id>http://localhost:4000/location/2016/03/FL</id>
+   <content type="html">&lt;p&gt;Miami Beach, FL, USA&lt;/p&gt;
 </content>
  </entry>
  
@@ -4303,6 +4464,15 @@ Start thinking of as many of your favorite movies as you can, and see if they ap
  </entry>
  
  <entry>
+   <title>Washington, DC, USA</title>
+   <link href="http://localhost:4000/location/2015/08/MX"/>
+   <updated>2015-08-21T00:00:00-05:00</updated>
+   <id>http://localhost:4000/location/2015/08/MX</id>
+   <content type="html">&lt;p&gt;Cancun, Mexico&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>I finished listening to The Martian: A Novel</title>
    <link href="http://localhost:4000/audiobook/media/2015/08/i-finished-listening-to-the-martian-a-novel"/>
    <updated>2015-08-01T09:58:42-05:00</updated>
@@ -4323,6 +4493,15 @@ Start thinking of as many of your favorite movies as you can, and see if they ap
   &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=7Eqp_szO_bM&quot;&gt;Part 2&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=pZ0LyR4akww&quot;&gt;Part 3&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Chicago, IL, USA</title>
+   <link href="http://localhost:4000/location/2015/07/IL"/>
+   <updated>2015-07-22T00:00:00-05:00</updated>
+   <id>http://localhost:4000/location/2015/07/IL</id>
+   <content type="html">&lt;p&gt;Chicago, IL, USA&lt;/p&gt;
 </content>
  </entry>
  
@@ -4557,6 +4736,15 @@ Start thinking of as many of your favorite movies as you can, and see if they ap
  </entry>
  
  <entry>
+   <title>Austin, Texas, USA</title>
+   <link href="http://localhost:4000/location/2014/12/TX"/>
+   <updated>2014-12-13T00:00:00-06:00</updated>
+   <id>http://localhost:4000/location/2014/12/TX</id>
+   <content type="html">&lt;p&gt;Austin, TX, USA&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>How Bourbon is Made</title>
    <link href="http://localhost:4000/link/2014/12/how-bourbon-is-made"/>
    <updated>2014-12-08T11:07:22-06:00</updated>
@@ -4655,6 +4843,60 @@ Start thinking of as many of your favorite movies as you can, and see if they ap
  </entry>
  
  <entry>
+   <title>Las Vegas, NV, USA</title>
+   <link href="http://localhost:4000/location/2014/08/NV"/>
+   <updated>2014-08-10T00:00:00-05:00</updated>
+   <id>http://localhost:4000/location/2014/08/NV</id>
+   <content type="html">&lt;p&gt;Las Vegas, NV, USA&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Kauai, Hawaii, USA</title>
+   <link href="http://localhost:4000/location/2013/12/HI"/>
+   <updated>2013-12-28T00:00:00-06:00</updated>
+   <id>http://localhost:4000/location/2013/12/HI</id>
+   <content type="html">&lt;p&gt;Kauai, Hawaii, USA&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>O'ahu, Hawaii, USA</title>
+   <link href="http://localhost:4000/location/2013/12/HI"/>
+   <updated>2013-12-26T00:00:00-06:00</updated>
+   <id>http://localhost:4000/location/2013/12/HI</id>
+   <content type="html">&lt;p&gt;O’ahu, Hawaii, USA&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Heavener, OK, USA</title>
+   <link href="http://localhost:4000/location/2013/12/OK"/>
+   <updated>2013-12-20T00:00:00-06:00</updated>
+   <id>http://localhost:4000/location/2013/12/OK</id>
+   <content type="html">&lt;p&gt;Heavener, OK, USA&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Las Vegas, NV, USA</title>
+   <link href="http://localhost:4000/location/2013/02/NV"/>
+   <updated>2013-02-25T00:00:00-06:00</updated>
+   <id>http://localhost:4000/location/2013/02/NV</id>
+   <content type="html">&lt;p&gt;Las Vegas, NV, USA&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Red River, NM, USA</title>
+   <link href="http://localhost:4000/location/2013/01/NM"/>
+   <updated>2013-01-02T00:00:00-06:00</updated>
+   <id>http://localhost:4000/location/2013/01/NM</id>
+   <content type="html">&lt;p&gt;Red River, NM, USA&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Honeymoon</title>
    <link href="http://localhost:4000/photo/2012/05/honeymoon"/>
    <updated>2012-05-20T11:17:50-05:00</updated>
@@ -4664,6 +4906,24 @@ Start thinking of as many of your favorite movies as you can, and see if they ap
 &lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2017/07/20120520-IMG_0512.jpg&quot; alt=&quot;20120520 IMG 0512&quot; title=&quot;20120520-IMG_0512.jpg&quot; border=&quot;0&quot; width=&quot;600&quot; height=&quot;450&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2017/07/20120520-IMG_0521.jpg&quot; alt=&quot;20120520 IMG 0521&quot; title=&quot;20120520-IMG_0521.jpg&quot; border=&quot;0&quot; width=&quot;600&quot; height=&quot;450&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Belize</title>
+   <link href="http://localhost:4000/location/2012/05/BZ"/>
+   <updated>2012-05-20T00:00:00-05:00</updated>
+   <id>http://localhost:4000/location/2012/05/BZ</id>
+   <content type="html">&lt;p&gt;Belize&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Phoenix, AZ, USA</title>
+   <link href="http://localhost:4000/location/2012/03/AZ"/>
+   <updated>2012-03-24T00:00:00-05:00</updated>
+   <id>http://localhost:4000/location/2012/03/AZ</id>
+   <content type="html">&lt;p&gt;Phoenix, AZ, USA&lt;/p&gt;
 </content>
  </entry>
  
@@ -4684,6 +4944,24 @@ Start thinking of as many of your favorite movies as you can, and see if they ap
    <updated>2012-02-20T12:25:23-06:00</updated>
    <id>http://localhost:4000/link/2012/02/real-life-goldeneye</id>
    <content type="html">&lt;p&gt;The memories are endless.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Red River, NM, USA</title>
+   <link href="http://localhost:4000/location/2012/01/NM"/>
+   <updated>2012-01-07T00:00:00-06:00</updated>
+   <id>http://localhost:4000/location/2012/01/NM</id>
+   <content type="html">&lt;p&gt;Red River, NM, USA&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>New York City, NY, USA</title>
+   <link href="http://localhost:4000/location/2011/11/NY"/>
+   <updated>2011-11-23T00:00:00-06:00</updated>
+   <id>http://localhost:4000/location/2011/11/NY</id>
+   <content type="html">&lt;p&gt;New York City, NY, USA&lt;/p&gt;
 </content>
  </entry>
  
@@ -4712,6 +4990,23 @@ Start thinking of as many of your favorite movies as you can, and see if they ap
   &lt;p&gt;Until the Germans got involved.&lt;/p&gt;
 &lt;/blockquote&gt;
 
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Ca</title>
+   <link href="http://localhost:4000/2011/08/CA"/>
+   <updated>2011-08-01T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2011/08/CA</id>
+   <content type="html">&lt;p&gt;s—
+layout: post
+title: Los Angeles, CA, USA
+date:   2011-08-01
+categories: Location
+description: 
+—&lt;/p&gt;
+
+&lt;p&gt;Los Angeles, CA, USA&lt;/p&gt;
 </content>
  </entry>
  
@@ -4865,6 +5160,24 @@ Start thinking of as many of your favorite movies as you can, and see if they ap
  </entry>
  
  <entry>
+   <title>New York City, NY, USA</title>
+   <link href="http://localhost:4000/location/2010/12/NY"/>
+   <updated>2010-12-19T00:00:00-06:00</updated>
+   <id>http://localhost:4000/location/2010/12/NY</id>
+   <content type="html">&lt;p&gt;New York City, NY, USA&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Austin, Texas, USA</title>
+   <link href="http://localhost:4000/location/2010/08/TX"/>
+   <updated>2010-08-06T00:00:00-05:00</updated>
+   <id>http://localhost:4000/location/2010/08/TX</id>
+   <content type="html">&lt;p&gt;Austin, Texas, USA&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Creativity of a Sports Cameraman</title>
    <link href="http://localhost:4000/link/2010/01/creativity-sports-cameraman"/>
    <updated>2010-01-18T21:59:56-06:00</updated>
@@ -4874,11 +5187,38 @@ Start thinking of as many of your favorite movies as you can, and see if they ap
  </entry>
  
  <entry>
+   <title>Los Angeles, CA, USA</title>
+   <link href="http://localhost:4000/location/2009/12/CA"/>
+   <updated>2009-12-26T00:00:00-06:00</updated>
+   <id>http://localhost:4000/location/2009/12/CA</id>
+   <content type="html">&lt;p&gt;Los Angeles, CA, USA&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Norman, OK, USA</title>
+   <link href="http://localhost:4000/location/2009/12/OK"/>
+   <updated>2009-12-19T00:00:00-06:00</updated>
+   <id>http://localhost:4000/location/2009/12/OK</id>
+   <content type="html">&lt;p&gt;Norman, OK, USA&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>I finished reading The Last Lecture</title>
    <link href="http://localhost:4000/book/media/2009/11/957"/>
    <updated>2009-11-05T12:03:07-06:00</updated>
    <id>http://localhost:4000/book/media/2009/11/957</id>
    <content type="html">&lt;p&gt;I finished reading &lt;a href=&quot;http://amazon.com/exec/obidos/ASIN/1401323251/claycarson0c-20&quot;&gt;The Last Lecture&lt;/a&gt;.&lt;!--more--&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Austin, Texas, USA</title>
+   <link href="http://localhost:4000/location/2009/07/TX"/>
+   <updated>2009-07-10T00:00:00-05:00</updated>
+   <id>http://localhost:4000/location/2009/07/TX</id>
+   <content type="html">&lt;p&gt;Austin, TX, USA&lt;/p&gt;
 </content>
  </entry>
  
@@ -4911,6 +5251,42 @@ Start thinking of as many of your favorite movies as you can, and see if they ap
  </entry>
  
  <entry>
+   <title>Norman, OK, USA</title>
+   <link href="http://localhost:4000/location/2008/11/OK"/>
+   <updated>2008-11-01T00:00:00-05:00</updated>
+   <id>http://localhost:4000/location/2008/11/OK</id>
+   <content type="html">&lt;p&gt;Norman, OK, USA&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Norman, OK, USA</title>
+   <link href="http://localhost:4000/location/2008/09/OK"/>
+   <updated>2008-09-26T00:00:00-05:00</updated>
+   <id>http://localhost:4000/location/2008/09/OK</id>
+   <content type="html">&lt;p&gt;Norman, OK, USA&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Norman, OK, USA</title>
+   <link href="http://localhost:4000/location/2008/08/OK"/>
+   <updated>2008-08-30T00:00:00-05:00</updated>
+   <id>http://localhost:4000/location/2008/08/OK</id>
+   <content type="html">&lt;p&gt;Norman, OK, USA&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Boston, MA, USA</title>
+   <link href="http://localhost:4000/location/2008/07/MA"/>
+   <updated>2008-07-28T00:00:00-05:00</updated>
+   <id>http://localhost:4000/location/2008/07/MA</id>
+   <content type="html">&lt;p&gt;Boston, MA, USA&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Seaside</title>
    <link href="http://localhost:4000/photo/2008/06/seaside"/>
    <updated>2008-06-10T11:12:47-05:00</updated>
@@ -4922,6 +5298,33 @@ Start thinking of as many of your favorite movies as you can, and see if they ap
 &lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2017/07/22.jpg&quot; alt=&quot;22&quot; title=&quot;22.jpg&quot; border=&quot;0&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://claycarson.net/wp-content/uploads/2017/07/23.jpg&quot; alt=&quot;23&quot; title=&quot;23.jpg&quot; border=&quot;0&quot; width=&quot;599&quot; height=&quot;400&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Destin, FL, USA</title>
+   <link href="http://localhost:4000/location/2008/06/FL"/>
+   <updated>2008-06-10T00:00:00-05:00</updated>
+   <id>http://localhost:4000/location/2008/06/FL</id>
+   <content type="html">&lt;p&gt;Destin, FL, USA&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Norman, OK, USA</title>
+   <link href="http://localhost:4000/location/2008/04/OK"/>
+   <updated>2008-04-05T00:00:00-05:00</updated>
+   <id>http://localhost:4000/location/2008/04/OK</id>
+   <content type="html">&lt;p&gt;Norman, OK, USA&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Red River, NM, USA</title>
+   <link href="http://localhost:4000/location/2008/01/NM"/>
+   <updated>2008-01-08T00:00:00-06:00</updated>
+   <id>http://localhost:4000/location/2008/01/NM</id>
+   <content type="html">&lt;p&gt;Red River, NM, USA&lt;/p&gt;
 </content>
  </entry>
  

@@ -17,30 +17,30 @@
 }
 
 .masthead a {
-	color: #222;
+	color: #2a2f35;
 }
 
 .masthead a:hover {
-	color: #cb3816;
+	color: #9b2912;
 }
 
 // Home page feature sections
 
 .home .feature {
-	border-top: 4px solid #222;
+	border-top: 4px solid #2a2f35;
 	padding-top: 2rem;
 	padding-bottom: 2rem;
 }
 
 // Home page feature links
 .home .feature a {
-  color: #222;
+  color: #2a2f35;
   list-style: none;
   text-decoration: none;
   // `:focus` is linked to `:hover` for basic accessibility
   &:hover,
   &:focus {
-	  color: #cb3816;
+	  color: #9b2912;
   }
 
   strong {
@@ -63,7 +63,7 @@
 }
 .img-container {
  	float: left;
-	width: 50%;
+	width: 33%;
 	height: auto;
 	padding-right: .5rem;
 	list-style: none;

@@ -5,9 +5,22 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 Jan 2019 18:20:05 -0600</pubDate>
-    <lastBuildDate>Sun, 20 Jan 2019 18:20:05 -0600</lastBuildDate>
+    <pubDate>Tue, 22 Jan 2019 11:38:17 -0600</pubDate>
+    <lastBuildDate>Tue, 22 Jan 2019 11:38:17 -0600</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Heavener, OK, USA</title>
+        <description>&lt;p&gt;Heavener, OK, USA&lt;/p&gt;
+</description>
+        <pubDate>Fri, 04 Jan 2019 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/location/2019/01/OK</link>
+        <guid isPermaLink="true">http://localhost:4000/location/2019/01/OK</guid>
+        
+        
+        <category>Location</category>
+        
+      </item>
     
       <item>
         <title>January 2019</title>
@@ -186,21 +199,6 @@
         <pubDate>Mon, 17 Dec 2018 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/movie/media/2018/12/2556</link>
         <guid isPermaLink="true">http://localhost:4000/movie/media/2018/12/2556</guid>
-        
-        
-        <category>Movie</category>
-        
-        <category>Media</category>
-        
-      </item>
-    
-      <item>
-        <title>I finished watching Mission: Impossible - Fallout</title>
-        <description>&lt;p&gt;I finished watching &lt;a href=&quot;https://m.imdb.com/title/tt4912910/?ref=m_nv_sr_1&quot;&gt;Mission: Impossible - Fallout&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 17 Dec 2018 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/movie/media/2018/12/2554</link>
-        <guid isPermaLink="true">http://localhost:4000/movie/media/2018/12/2554</guid>
         
         
         <category>Movie</category>
