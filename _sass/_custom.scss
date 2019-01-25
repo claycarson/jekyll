@@ -116,4 +116,18 @@ a:hover {
     transition: all 1s ease;
     }
     
-    
+.profile img {
+	height: 100px;
+	width: auto;
+	border-radius: 50%;
+	display: inline-block;
+	float: left;
+}
+
+.about {
+	display: inline-block;
+}
+
+.about p, .about h3 {
+	margin-left: 8rem;
+}
