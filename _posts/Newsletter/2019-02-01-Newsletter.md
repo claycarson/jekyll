@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  January 2019
-date:   2019-01-01
+title:  February 2019
+date:   2019-02-01
 category: Newsletter
 description: 
 ---
@@ -47,7 +47,9 @@ Bryson DeChambeau, the most scientific player on tour (at least boastfully), [sa
 
 > I can’t tell you about a specific day as a cable tech. I can’t tell you my first customer was a cat hoarder. I can tell you the details, sure. That I smeared Vicks on my lip to try to cover the stench of rugs and walls and upholstery soaked in cat piss. That I wore booties, not to protect the carpets from the mud on my boots but to keep the cat piss off my soles. I can tell you the problem with her cable service was that her cats chewed through the wiring. That I had to move a mummified cat behind the television to replace the jumper. That ammonia seeped into the polyester fibers of my itchy blue uniform, clung to the sweat in my hair. That the smell stuck to me through the next job.
 > 
+
 ## Around The Web
+
 - [The Most Meaningless Game of Major League Baseball in 2018](https://www.reddit.com/r/baseball/comments/ac6foj/oc_the_most_meaningless_game_of_2018/ "Analysis: The Most Meaningless Game of Baseball in 2018")
 - [Peter Jackson’s They Shall Not Grow Old](https://www.youtube.com/watch?v=IrabKK9Bhds "They Shall Not Grow Old")
 - [Inverted Grand Canyon](https://adventuresinmapping.com/2019/01/10/inverted-grand-canyon/ "Inverted Grand Canyon")
