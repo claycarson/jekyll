@@ -1,5 +1,5 @@
 # Permalinks
-permalink: /:categories/:year/:month/:title
+permalink: /:categories/:year/:month/:day/:title
 
 # Setup
 title:               Clay Carson

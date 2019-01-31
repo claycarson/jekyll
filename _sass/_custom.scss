@@ -4,25 +4,7 @@
 
 // Title size
 
-.masthead h1 {
-	font-size: 3rem;
-}
-.masthead ul {
-	padding: 0;
-}
-.masthead li {
-	list-style: none;
-	display: inline;
-	padding: 1rem 3rem 1rem 0;
-}
 
-.masthead a {
-	color: #2a2f35;
-}
-
-.masthead a:hover {
-	color: #D6534B;
-}
 
 // Home page feature sections
 
@@ -40,7 +22,7 @@
   // `:focus` is linked to `:hover` for basic accessibility
   &:hover,
   &:focus {
-	  color: #D6534B;
+	  color: #d6534b;
   }
 
   strong {

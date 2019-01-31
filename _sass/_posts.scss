@@ -52,7 +52,7 @@
   // `:focus` is linked to `:hover` for basic accessibility
   &:hover,
   &:focus {
-	  color: $red;
+	  color: $link-color;
   }
 
   strong {
@@ -72,7 +72,7 @@
 }
 
 .post-content a {
-	color: $red;
+	color: $link-color;
 	border-bottom: 1px solid;
 }
 
@@ -113,7 +113,7 @@
     }
 
     a:hover {
-      color: $red;
+      color: $link-color;
       text-decoration: none;
 
       small {
